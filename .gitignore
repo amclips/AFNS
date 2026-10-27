@@ -1,0 +1,11 @@
+# Generated site. GitHub Actions builds and deploys this; do not commit it.
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Optional local screenshots from screenshot.py
+screenshots/
+
+.DS_Store
