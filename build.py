@@ -35,6 +35,8 @@ def site_href(path=""):
 
 def site_url(path=""):
     """Absolute URL on base_url, e.g. https://amclips.github.io/AFNS/courts/."""
+    if path.startswith(("http://", "https://", "//")):
+        return path
     base = CFG["base_url"].rstrip("/")
     path = path.lstrip("/")
     return f"{base}/{path}" if path else f"{base}/"
@@ -133,7 +135,7 @@ def load_articles():
             "sample": meta.get("sample") is True, "status": meta.get("status") or "", "featured": meta.get("featured") is True,
             "image": meta.get("image") or "", "image_alt": meta.get("image_alt", ""),
             "key_points": meta.get("key_points", []) or [], "sources": sources,
-            "body": markdown(body), "words": len(re.findall(r"\w+", body)),
+            "path": f, "body": markdown(body), "words": len(re.findall(r"\w+", body)),
         })
     arts.sort(key=lambda a: (a["date"], a["featured"]), reverse=True)
     return arts
@@ -147,10 +149,15 @@ def fmt_date(d):
 # ---------------------------------------------------------------- layout
 X_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true" width="18" height="18"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>'
 
-def layout(title, body, *, desc=None, canonical="", og_type="website", active=""):
+def layout(title, body, *, desc=None, canonical="", og_type="website", active="", og_image=None, og_alt=None):
     full_title = f"{title} | {CFG['short_name']}" if title else f"{CFG['name']} — {CFG['tagline']}"
     desc = desc or CFG["description"]
     canon = site_url(canonical)
+    if og_image:  # (site-relative path, width, height)
+        img_url, img_w, img_h = site_url(og_image[0]), og_image[1], og_image[2]
+    else:
+        img_url, img_w, img_h = site_url("assets/og-image.jpg"), 1200, 630
+    img_alt = og_alt or f"{CFG['name']} — {CFG['tagline']}"
     nav = "".join(
         f'<li><a href="{site_href(d["slug"] + "/")}"{" aria-current=\"page\"" if active == d["slug"] else ""}>{esc(d["name"])}</a></li>'
         for d in CFG["desks"])
@@ -169,8 +176,15 @@ def layout(title, body, *, desc=None, canonical="", og_type="website", active=""
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:type" content="{og_type}">
 <meta property="og:url" content="{esc(canon)}">
-<meta property="og:image" content="{esc(site_url('assets/og-image.jpg'))}">
+<meta property="og:image" content="{esc(img_url)}">
+<meta property="og:image:width" content="{img_w}">
+<meta property="og:image:height" content="{img_h}">
+<meta property="og:image:alt" content="{esc(img_alt)}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(title or CFG['name'])}">
+<meta name="twitter:description" content="{esc(desc)}">
+<meta name="twitter:image" content="{esc(img_url)}">
+<meta name="twitter:image:alt" content="{esc(img_alt)}">
 <meta name="twitter:site" content="{esc(CFG['x_handle'])}">
 <meta name="theme-color" content="#0a1630">
 <link rel="icon" href="{site_href('assets/favicon.ico')}" sizes="any">
@@ -335,10 +349,21 @@ def build_articles(arts):
         srcs = "".join(f'<li><a href="{esc(s["url"])}" rel="noopener" target="_blank">{esc(s["title"])}</a> <span class="src-url">{esc(re.sub(r"^https?://(www\\.)?", "", s["url"]).split("/")[0])}</span></li>' for s in a["sources"])
         sources = f'<section class="sources" aria-labelledby="src-h"><h2 id="src-h">Sources</h2><ol>{srcs}</ol><p class="note">See our <a href="{site_href("standards/")}">sourcing &amp; corrections standards</a>.</p></section>' if srcs else ""
         mins = max(1, round(a["words"] / 230))
+        og = OG_CARDS.get(a["slug"])
+        if a["image"]:
+            hero = f'<figure class="article-hero"><img src="{esc(site_href(a["image"]))}" alt="{esc(a["image_alt"])}" width="1200" height="675"></figure>'
+            og_meta = (a["image"], 1200, 675)
+        elif og:
+            hero = f'<figure class="article-hero"><img src="{site_href(og)}" alt="{esc(a["title"])}: {esc(d["name"])}, AFNS share card" width="1200" height="675" fetchpriority="high"></figure>'
+            og_meta = (og, 1200, 675)
+        else:
+            hero, og_meta = "", None
         related = [x for x in arts if x["desk"] == a["desk"] and x is not a][:3]
         rel_html = f'<section class="wrap related">{section_head("More from " + esc(d["name"]), site_href(a["desk"] + "/"), "All")}<div class="grid-3">{"".join(card(x) for x in related)}</div></section>' if related else ""
+        share_image = a["image"] or og or "assets/og-image.jpg"
         ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": a["title"],
                          "datePublished": a["date"].isoformat(), "author": {"@type": "Organization", "name": a["byline"]},
+                         "image": site_url(share_image),
                          "publisher": {"@type": "Organization", "name": CFG["name"], "logo": {"@type": "ImageObject", "url": site_url("assets/logo-512.png")}},
                          "articleSection": d["name"], "description": a["summary"], "mainEntityOfPage": canon})
         body = f"""<div class="wrap article-layout">
@@ -352,6 +377,7 @@ def build_articles(arts):
     <div class="share"><a class="btn btn-x" href="{esc(share)}" rel="noopener" target="_blank">{X_ICON} Share on X</a>
     <button class="btn btn-ghost copy-link" type="button" data-url="{esc(canon)}">Copy link</button></div>
   </div>
+  {hero}
   {summary}
   <div class="prose">{a['body']}</div>
   {sources}
@@ -362,7 +388,8 @@ def build_articles(arts):
 </div>
 {rel_html}
 <script type="application/ld+json">{ld}</script>"""
-        write(f"{url_of(a)}index.html", layout(a["title"], body, desc=a["summary"], canonical=url_of(a), og_type="article", active=a["desk"]))
+        write(f"{url_of(a)}index.html", layout(a["title"], body, desc=a["summary"], canonical=url_of(a), og_type="article", active=a["desk"],
+                                                 og_image=og_meta, og_alt=f'{a["title"]} | {d["name"]} | {CFG["short_name"]}'))
 
 def static_page(slug, title, inner, desc, wide=False):
     body = f"""<header class="page-head"><div class="wrap"><p class="kicker">AFNS</p><h1>{title}</h1></div></header>
@@ -426,13 +453,48 @@ def build_feeds(arts):
           + "".join(f"<url><loc>{site_url(u)}</loc></url>" for u in urls) + "</urlset>")
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {site_url('sitemap.xml')}\n")
 
+OG_CARDS = {}  # slug -> site-relative path, e.g. og/<slug>.png
+
+def build_og_cards(arts):
+    """Publish static/og/<slug>.png for non-sample articles that have no image of their own.
+
+    Committed cards are used as-is when Pillow is not installed. When it is, a card is
+    redrawn only if it is older than the article, site.json, or tools/og_cards.py.
+    """
+    OG_CARDS.clear()
+    og_mod = None
+    try:
+        sys.path.insert(0, str(ROOT / "tools"))
+        import og_cards as og_mod
+    except ImportError as e:
+        print(f"!! share cards not regenerated (needs Pillow: pip install pillow): {e}")
+    gen_mtime = 0
+    if og_mod is not None:
+        gen_mtime = max(Path(og_mod.__file__).stat().st_mtime, (ROOT / "site.json").stat().st_mtime)
+    made = 0
+    for a in arts:
+        if a["sample"] or a["image"]:
+            continue
+        out = STATIC / "og" / f"{a['slug']}.png"
+        if og_mod is not None:
+            src_mtime = a["path"].stat().st_mtime if a.get("path") else 0
+            if not out.exists() or out.stat().st_mtime < max(src_mtime, gen_mtime):
+                og_mod.make_card(a["title"], DESKS[a["desk"]]["name"], a["status"], out)
+                made += 1
+        if out.exists():
+            OG_CARDS[a["slug"]] = f"og/{a['slug']}.png"
+        else:
+            print(f"!! no share card for {a['slug']}")
+    print(f"Share cards: {len(OG_CARDS)} ({made} regenerated)")
+
 def main():
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir()
+    arts = load_articles()
+    build_og_cards(arts)
     shutil.copytree(ASSETS, DIST / "assets")
     shutil.copytree(STATIC, DIST, dirs_exist_ok=True)
-    arts = load_articles()
     build_home(arts); build_desks(arts); build_articles(arts); build_static(); build_feeds(arts)
     print(f"Built {len(arts)} articles across {len(DESKS)} desks -> {DIST} ({site_url()})")
     if "--serve" in sys.argv:

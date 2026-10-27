@@ -32,6 +32,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      - name: Install share-card dependency
+        run: python3 -m pip install pillow
+
       - name: Build site
         run: python3 build.py
 

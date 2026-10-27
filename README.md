@@ -39,6 +39,8 @@ site.json         site config (X handle, domain, desks)
 content/          Markdown articles, one folder per desk
 assets/           logos, favicon, hero banner, og image (copied to dist/assets)
 static/css, js    stylesheet and small JS (mobile menu, copy link)
+static/og/        1200×675 share cards, one PNG per real article
+tools/og_cards.py share-card generator (Pillow); fonts in tools/fonts/
 brand/            original uploaded brand images (not published)
 dist/             generated site; this is what you host
 screenshot.py     optional Playwright screenshots into screenshots/
@@ -53,6 +55,14 @@ Live site: <https://amclips.github.io/AFNS/>
 After that, every push to `main` runs `.github/workflows/pages.yml`, which runs `python3 build.py` and deploys `dist/`. You can also start it from the Actions tab with **Run workflow**. `dist/` is gitignored; Actions builds it.
 
 `base_url` must stay in sync with the Pages URL. It is `https://amclips.github.io/AFNS` for this project site.
+
+## Share cards (X / link previews)
+`python3 build.py` makes a 1200×675 branded card for every non-sample article that has no `image:` of its own.
+Cards are saved to `static/og/<slug>.png` and published under the `base_url` path (`/AFNS/og/<slug>.png` for this site).
+Article pages use that file for `og:image` and `twitter:image` (`twitter:card` is `summary_large_image`) and show it at the top of the article.
+Pages without a card fall back to `assets/og-image.jpg`.
+
+The PNGs are committed, so a build still publishes them when Pillow is not installed. With Pillow, a card is redrawn only when the article, `site.json`, or `tools/og_cards.py` is newer than the PNG. GitHub Actions installs Pillow before `python3 build.py`. Fonts (Oswald and Inter, OFL) are in `tools/fonts/`. The footer text on the cards (`amclips.github.io/AFNS`) is `FOOTER_URL` in `tools/og_cards.py`.
 
 ## Not live yet (placeholders)
 - Newsletter sign-up and contact form are disabled and marked "Coming soon". No backend, no data collected.
