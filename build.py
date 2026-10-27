@@ -290,7 +290,8 @@ def write(rel, content):
 
 def build_home(arts):
     lead = next((a for a in arts if a["featured"]), arts[0] if arts else None)
-    rest = [a for a in arts if a is not lead]
+    # Newest featured story is the lead. Other featured stories head the side list.
+    rest = [a for a in arts if a is not lead and a["featured"]] + [a for a in arts if a is not lead and not a["featured"]]
     hero = f"""<section class="hero" aria-label="America First News Syndicate">
   <div class="hero-media"><img src="{site_href('assets/hero-banner.jpg')}" alt="AFNS — America First News Syndicate. America First. Truth First. America Always." width="1168" height="784" fetchpriority="high"></div>
   <div class="hero-pillars wrap"><ul>
