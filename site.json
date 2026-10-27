@@ -1,0 +1,20 @@
+{
+  "name": "America First News Syndicate",
+  "short_name": "AFNS",
+  "base_url": "https://amclips.github.io/AFNS",
+  "tagline": "America First. Truth First. America Always.",
+  "description": "America First News Syndicate (AFNS) publishes research on the courts, fraud and corruption, the Trump Administration, DSA and Democrat activity, geopolitics, and Israel.",
+  "x_handle": "@AFNS_placeholder",
+  "x_url": "https://x.com/",
+  "x_is_placeholder": true,
+  "contact_email": "contact@afns.example.com",
+  "byline": "AFNS Research Desk",
+  "desks": [
+    {"slug": "courts", "name": "Courts & Legal", "blurb": "Major state and federal court decisions, explained."},
+    {"slug": "fraud-corruption", "name": "Fraud & Corruption", "blurb": "Follow-the-money research on waste, fraud, and abuse."},
+    {"slug": "trump-administration", "name": "Trump Administration", "blurb": "Executive actions, appointments, and policy tracking."},
+    {"slug": "dsa-democrat-watch", "name": "DSA & Democrat Watch", "blurb": "Tracking DSA and Democrat candidates, platforms, and votes."},
+    {"slug": "geopolitics", "name": "Geopolitics", "blurb": "Global power, alliances, and America's interests abroad."},
+    {"slug": "israel", "name": "Israel", "blurb": "Coverage of Israel, the region, and U.S.–Israel relations."}
+  ]
+}
