@@ -133,6 +133,7 @@ def load_articles():
             "title": meta.get("title", f.stem), "slug": meta.get("slug") or f.stem, "desk": desk,
             "date": date, "summary": meta.get("summary", ""), "byline": meta.get("byline") or CFG["byline"],
             "sample": meta.get("sample") is True, "status": meta.get("status") or "", "featured": meta.get("featured") is True,
+            "desk_lead": meta.get("desk_lead") is True,
             "image": meta.get("image") or "", "image_alt": meta.get("image_alt", ""),
             "key_points": meta.get("key_points", []) or [], "sources": sources,
             "path": f, "body": markdown(body), "words": len(re.findall(r"\w+", body)),
@@ -323,7 +324,10 @@ def build_home(arts):
 def build_desks(arts):
     for d in CFG["desks"]:
         da = [a for a in arts if a["desk"] == d["slug"]]
-        items = "".join(card(a, "card-row") for a in da) or '<p class="empty">New research from this desk is coming soon.</p>'
+        lead = next((a for a in da if a["desk_lead"]), None)
+        if lead:  # desk lead story goes first, marked as the lead
+            da = [lead] + [a for a in da if a is not lead]
+        items = "".join(card(a, "card-row card-desk-lead" if a is lead else "card-row") for a in da) or '<p class="empty">New research from this desk is coming soon.</p>'
         body = f"""<header class="page-head desk-{d['slug']}"><div class="wrap">
   <p class="kicker">AFNS Desk</p><h1>{esc(d['name'])}</h1><p class="lede">{esc(d['blurb'])}</p></div></header>
 <div class="wrap desk-page"><div class="desk-feed">{items}</div>

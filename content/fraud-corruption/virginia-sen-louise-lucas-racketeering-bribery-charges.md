@@ -1,24 +1,29 @@
 ---
-title: "Virginia Sen. Louise Lucas Faces Racketeering and Bribery Charges"
+title: "Virginia Sen. Louise Lucas Indicted on Racketeering and Bribery Charges"
 desk: fraud-corruption
 date: 2026-10-22
-summary: "Virginia state Sen. Louise Lucas, 82, chair of the Senate Finance and Appropriations Committee, was indicted on racketeering and bribery charges. She is accused of leading a family marijuana enterprise and using her post to protect it, in a scheme the FBI puts at about $4.5 million. She calls the case an attack."
+summary: "A federal indictment charges Virginia state Sen. Louise Lucas, 82, chair of the Senate Finance and Appropriations Committee, with leading a family marijuana enterprise and using her office to protect it. The FBI puts the scheme at about $4.5M. Lucas calls the case an attack."
 status: "Alleged"
 key_points:
-  - Status: indicted October 22; alleged
-  - Lucas, 82, chairs the Senate Finance and Appropriations Committee
-  - Accused of leading a family marijuana enterprise and using her post to protect it
-  - The FBI puts the scheme at about $4.5M
-  - Lucas calls the case an attack
+  - The charges include racketeering and honest-services fraud through bribery.
+  - The FBI estimates the scheme at about $4.5M.
+  - Lucas is one of the most powerful budget figures in Virginia's legislature.
+  - These are allegations. She has not been convicted.
 sources:
-  - DOJ release | https://www.justice.gov/opa/pr/virginia-state-senator-indicted-leading-criminal-marijuana-distribution-enterprise
+  - DOJ press release | https://www.justice.gov/opa/pr/virginia-state-senator-indicted-leading-criminal-marijuana-distribution-enterprise
   - Daily Progress | https://dailyprogress.com/news/state-regional/government-politics/article_1e21f824-3166-5995-a042-c680a82cd2d0.html
 ---
 
-**Status: Alleged.** Lucas was indicted October 22 and has not been convicted. She calls the case an attack.
+**Status: Alleged.** Lucas has not been convicted. She has denied wrongdoing and calls the prosecution an attack.
 
-## What happened
+## The allegations
 
-Virginia state Sen. Louise Lucas, 82, faces racketeering and bribery charges. Lucas chairs the Senate Finance and Appropriations Committee.
+The Justice Department says Lucas led a criminal marijuana distribution enterprise run with family members and used her position as a senior state senator to shield it. The indictment, announced October 22, includes racketeering counts and honest-services fraud through bribery. The FBI estimates the operation at about $4.5 million.
 
-She is accused of leading a family marijuana enterprise and using her post to protect it, in a scheme the FBI puts at about $4.5 million.
+## Who she is
+
+Lucas, 82, chairs the Senate Finance and Appropriations Committee, which controls the state budget. That makes her one of the most powerful budget figures in Virginia's legislature.
+
+## Her response
+
+Lucas has denied wrongdoing and calls the prosecution an attack.

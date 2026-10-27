@@ -2,7 +2,7 @@
 title: "Daily Trump Administration Briefing — Oct. 27, 2026"
 desk: trump-administration
 date: 2026-10-27
-summary: "Maurene Comey's firing ruled illegal, James Comey charged a third time, DOJ ballot fights in Washington, California and Alaska, preliminary crime data, a SNAP card rule, campaign trail moments and this week's fact checks."
+summary: "Two Comey cases in one day, DOJ ballot fights in Washington, California and Alaska, preliminary crime data, a SNAP card rule, campaign trail moments and this week's fact checks."
 status: "Daily briefing"
 key_points:
   - Maurene Comey firing ruled illegal; DOJ to appeal
@@ -48,6 +48,9 @@ sources:
   - White House: Executive orders | https://www.whitehouse.gov/presidential-actions/executive-orders/
   - White House: Housing costs executive order | https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/
   - Federal Register: 2026 executive orders | https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026
+  - Fuentes post on X | https://x.com/NickJFuentes/status/2114784559279784051
+  - Newsweek: Fuentes post | https://www.newsweek.com/far-right-gen-z-influencer-tells-fans-to-skip-midterms-or-vote-democrat-11613601
+  - The Hill: Appeals court denies emergency election stay | https://thehill.com/homenews/administration/6173747-appeals-court-denies-emergency-election-stay/
   - @WhiteHouse on X | https://x.com/WhiteHouse/status/2114839466686701604
 ---
 
@@ -55,9 +58,9 @@ The AFNS daily briefing on the Trump administration for Tuesday, October 27, 202
 
 ## Courts and DOJ
 
-- [Judge rules Maurene Comey's firing illegal](../maurene-comey-firing-ruled-illegal/): ordered reinstated retroactively with back pay; DOJ says it will appeal.
+- [Two Comey cases in one day: judge rules Maurene Comey's firing illegal](../maurene-comey-firing-ruled-illegal/): ordered reinstated retroactively with back pay; DOJ says it will appeal.
 - [James Comey charged a third time](../james-comey-charged-third-time/) (charged, alleged): his lawyers say the 10-year limit has run out and have moved to dismiss.
-- [Ballot fights](../noncitizen-ballot-fights-washington-california-alaska/): DOJ's Washington noncitizen claim is an allegation; an appeals court split 2-1 and declined to rule on California; DOJ sued over the Alaska Senate count.
+- [Ballot fights](../noncitizen-ballot-fights-washington-california-alaska/): DOJ's Washington noncitizen claim is an allegation; an appeals court split 2-1 and declined to rule on California, calling DOJ's request premature ([Courts desk story](../../courts/ninth-circuit-denies-doj-bid-freeze-california-mail-ballots/)); DOJ sued over the Alaska Senate count.
 - [Epstein report](../house-democrats-epstein-report-special-counsel/): House Judiciary Democrats call for a special counsel; the White House calls it a "desperate attempt."
 
 ## Policy
@@ -67,7 +70,7 @@ The AFNS daily briefing on the Trump administration for Tuesday, October 27, 202
 - [CMS and USDA funding](../cms-275m-nurse-program-usda-57m-meat-poultry-processors/): $275M nursing home staffing program; $57M for meat and poultry processors.
 - [Trade](../ustr-greer-warns-eu-airbus-loan-tariff-truce/): USTR warns the EU over a $3.4B Airbus loan.
 - [Iran](../cnn-iran-strike-timing-hormuz-oil-claim-false/): CNN reports strikes could launch "within 96 hours" of an order.
-- **Executive orders:** No new executive orders were reported. Recent orders include housing costs and wind-turbine imports (Oct. 22) and EO 14437 on women's health (Oct. 19). [White House list](https://www.whitehouse.gov/presidential-actions/executive-orders/) · [Housing EO](https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/) · [Federal Register](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026)
+- **Executive orders:** The latest executive action is from Oct. 22 (housing costs and wind-turbine imports); the White House posted the housing-costs order as signed on Oct. 22 ([Housing EO](https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/)). The Federal Register runs a few days behind, so it still showed EO 14437 on women's health, signed Oct. 19, as the newest ([Federal Register](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026)). [White House list](https://www.whitehouse.gov/presidential-actions/executive-orders/)
 
 ## Personnel and press
 
@@ -77,10 +80,13 @@ The AFNS daily briefing on the Trump administration for Tuesday, October 27, 202
 ## Campaign trail
 
 - [Mississippi, Michigan, Hegseth, Libya](../campaign-trail-mississippi-michigan-hegseth-libya/): rallies, El-Sayed's denial, Jeffries on Hegseth, and Libya summoning the U.S. envoy.
+- [Fuentes tells followers to "stay home or vote Democrat"](../fuentes-stay-home-or-vote-democrat-post/) (**claims unverified**): the rally-removal claim and the arrest story are UNVERIFIED.
 - Top administration post of the day: the White House's "Dems are washed up. 🎷" at about 2.6M views ([X](https://x.com/WhiteHouse/status/2114839466686701604)).
 
 ## Fact checks
 
 - [This week's fact checks](../fact-check-hormuz-immigration-crime-el-sayed-washington-ballots/): Hormuz oil claim false; "7 million fewer illegal immigrants" false; Trump's crime counts unverifiable against DOJ's release.
+
+*Correction (Oct. 27): An earlier version of this briefing listed both the Oct. 22 housing order and EO 14437 (Oct. 19) without saying which was latest. The Oct. 22 housing order is the latest; the Federal Register lags the White House by a few days.*
 
 *The AFNS daily Trump administration briefing posts every morning.*

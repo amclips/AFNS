@@ -266,3 +266,8 @@ input:disabled,textarea:disabled{background:#eef0f4;cursor:not-allowed}
 .badge-status{display:inline-block;margin-left:8px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;background:var(--navy);color:var(--gold-2);border-radius:3px;padding:2px 7px;vertical-align:1px}
 .article-hero{margin:0 0 24px}
 .article-hero img{width:100%;height:auto;aspect-ratio:1200/675;border-radius:var(--r);background:var(--navy)}
+/* desk lead story */
+.card-desk-lead{border-top:4px solid var(--gold,#c9a23a);padding-top:22px}
+.card-desk-lead .card-body::before{content:"Lead story";display:block;font:700 12px/1 Oswald,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--red,#b22234);margin-bottom:8px}
+.card-desk-lead .card-title{font-size:30px}
+.card-row .card-thumb{align-self:flex-start}
