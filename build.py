@@ -58,7 +58,7 @@ def parse_front_matter(text):
         k, _, v = line.partition(":")
         key, v = k.strip(), v.strip()
         if len(v) >= 2 and v[0] == v[-1] and v[0] in "\"'":
-            v = v[1:-1]
+            v = v[1:-1].replace('\\"', '"') if v[0] == '"' else v[1:-1]
         if v.lower() in ("true", "false"):
             v = v.lower() == "true"
         meta[key] = v if v != "" else []
@@ -130,7 +130,7 @@ def load_articles():
         arts.append({
             "title": meta.get("title", f.stem), "slug": meta.get("slug") or f.stem, "desk": desk,
             "date": date, "summary": meta.get("summary", ""), "byline": meta.get("byline") or CFG["byline"],
-            "sample": meta.get("sample") is True, "featured": meta.get("featured") is True,
+            "sample": meta.get("sample") is True, "status": meta.get("status") or "", "featured": meta.get("featured") is True,
             "image": meta.get("image") or "", "image_alt": meta.get("image_alt", ""),
             "key_points": meta.get("key_points", []) or [], "sources": sources,
             "body": markdown(body), "words": len(re.findall(r"\w+", body)),
@@ -232,6 +232,7 @@ def card(a, size=""):
     img = (f'<img src="{esc(site_href(a["image"]))}" alt="{esc(a["image_alt"])}" loading="lazy">' if a["image"]
            else f'<span class="thumb-fallback" aria-hidden="true"><span>{esc(d["name"])}</span></span>')
     sample = '<span class="badge-sample">Sample — placeholder</span>' if a["sample"] else ""
+    if a["status"]: sample += f'<span class="badge-status">{esc(a["status"])}</span>'
     return f"""<article class="card {size}">
   <a class="card-thumb desk-{a['desk']}" href="{site_href(url_of(a))}" tabindex="-1" aria-hidden="true">{img}</a>
   <div class="card-body">
@@ -344,7 +345,7 @@ def build_articles(arts):
 <article class="article">
   <nav class="crumbs" aria-label="Breadcrumb"><a href="{site_href()}">Home</a> / <a href="{site_href(a['desk'] + '/')}">{esc(d['name'])}</a></nav>
   {sample}
-  <a class="desk-tag" href="{site_href(a['desk'] + '/')}">{esc(d['name'])}</a>
+  <a class="desk-tag" href="{site_href(a['desk'] + '/')}">{esc(d['name'])}</a>{f' <span class="badge-status">Status: {esc(a["status"])}</span>' if a["status"] else ""}
   <h1 class="headline">{esc(a['title'])}</h1>
   <div class="byline-row">
     <p class="meta"><span class="byline">By {esc(a['byline'])}</span> · <time datetime="{a['date'].isoformat()}">{fmt_date(a['date'])}</time> · {mins} min read</p>

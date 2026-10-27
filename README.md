@@ -18,7 +18,7 @@ python3 build.py --serve    # builds and serves at http://localhost:8000/AFNS/
 2. Fill in the front matter between the `---` lines:
    - `title`, `date` (YYYY-MM-DD), `summary` (required)
    - `key_points:` and `sources:` lists; each source is written as `Title | https://url`
-   - optional: `featured: true` (home page lead story), `image:` + `image_alt:` (put images in `assets/articles/`), `draft: true` (hides it), `byline:` (defaults to "AFNS Research Desk")
+   - optional: `status:` (shown as a badge, for example Alleged, Charged, Convicted, Sentenced, On trial), `featured: true` (home page lead story), `image:` + `image_alt:` (put images in `assets/articles/`), `draft: true` (hides it), `byline:` (defaults to "AFNS Research Desk")
 3. Write the body in Markdown below the front matter (`##` headings, `-` bullets, `**bold**`, `*italic*`, `[links](url)`, `> quotes`).
 4. Run `python3 build.py` to preview. Pushing `main` publishes the site (see Publishing). Do not commit `dist/`.
 

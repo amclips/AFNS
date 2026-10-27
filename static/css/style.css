@@ -263,3 +263,4 @@ input:disabled,textarea:disabled{background:#eef0f4;cursor:not-allowed}
   .footer-brand{flex-direction:column;text-align:center}
 }
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+.badge-status{display:inline-block;margin-left:8px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;background:var(--navy);color:var(--gold-2);border-radius:3px;padding:2px 7px;vertical-align:1px}
