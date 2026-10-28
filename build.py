@@ -227,7 +227,7 @@ def layout(title, body, *, desc=None, canonical="", og_type="website", active=""
   <div class="wrap footer-grid">
     <div class="footer-brand">
       <picture><source srcset="{site_href('assets/seal.webp')}" type="image/webp"><img src="{site_href('assets/seal.png')}" alt="America First News Syndicate seal" width="150" height="165" loading="lazy"></picture>
-      <p class="footer-tag">Real News. Real America.<br>Fair. Fearless. Fact-Based.<br>For America. Not the Agenda.</p>
+      <p class="footer-tag">Fact-Based. Fearless. America First.</p>
     </div>
     <div><h2 class="footer-h">Desks</h2><ul class="footer-links">{"".join(f'<li><a href="{site_href(d["slug"] + "/")}">{esc(d["name"])}</a></li>' for d in CFG["desks"])}</ul></div>
     <div><h2 class="footer-h">AFNS</h2><ul class="footer-links">
@@ -305,9 +305,7 @@ def build_home(arts):
     hero = f"""<section class="hero" aria-label="America First News Syndicate">
   <div class="hero-media"><img src="{site_href('assets/hero-banner.jpg')}" alt="AFNS — America First News Syndicate. America First. Truth First. America Always." width="1168" height="784" fetchpriority="high"></div>
   <div class="hero-pillars wrap"><ul>
-    <li><strong>Real News.</strong> Real America.</li>
-    <li><strong>Fair.</strong> Fearless. Fact-Based.</li>
-    <li><strong>For America.</strong> Not the Agenda.</li>
+    <li><strong>Fact-Based.</strong> Fearless. America First.</li>
   </ul></div>
 </section>"""
     top = ""
@@ -423,9 +421,9 @@ def build_static():
 <div class="about-grid"><div class="prose">
 <p class="lede">America First News Syndicate is an independent research and news outlet built on one principle: <strong>America First. Truth First. America Always.</strong></p>
 <h2>Our mission</h2>
-<p><strong>Real News. Real America.</strong> We publish research on the stories that matter to working Americans: the decisions coming out of our courts, how public money is spent, what Washington is actually doing, and how events abroad affect us at home.</p>
-<p><strong>Fair. Fearless. Fact-Based.</strong> Every report is tied to its sources. We link to the court opinions, government filings, official records, and on-the-record statements behind what we publish, so readers can check the work themselves.</p>
-<p><strong>For America. Not the Agenda.</strong> We report what the record shows, and we correct ourselves openly when we get something wrong.</p>
+<p><strong>Fact-Based.</strong> Every report is tied to its sources. We link to the court opinions, government filings, official records, and on-the-record statements behind what we publish, so readers can check the work themselves.</p>
+<p><strong>Fearless.</strong> We publish research on the stories that matter to working Americans: the decisions coming out of our courts, how public money is spent, what Washington is actually doing, and how events abroad affect us at home.</p>
+<p><strong>America First.</strong> We report what the record shows, and we correct ourselves openly when we get something wrong.</p>
 <h2>Our desks</h2><ul>{desks_li}</ul>
 <h2>How we work</h2>
 <p>AFNS research is compiled by the <strong>AFNS Research Desk</strong> using research tools and reviewed before publication. Read our <a href="{site_href('standards/')}">sourcing and corrections standards</a>.</p>

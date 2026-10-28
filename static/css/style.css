@@ -45,9 +45,8 @@ a:hover{color:var(--red)}
 .hero-media{max-width:1400px;margin:0 auto;aspect-ratio:1168/560;overflow:hidden}
 .hero-media img{width:100%;height:100%;object-fit:cover;object-position:center 45%}
 .hero-pillars{padding:0}
-.hero-pillars ul{list-style:none;margin:0;padding:14px 0;display:grid;grid-template-columns:repeat(3,1fr);gap:10px;color:#dfe4ee;font-family:var(--head);text-transform:uppercase;letter-spacing:.1em;font-size:15px;text-align:center}
-.hero-pillars li{border-left:2px solid var(--gold)}
-.hero-pillars li:first-child{border-left:0}
+.hero-pillars ul{list-style:none;margin:0;padding:14px 0;display:flex;justify-content:center;color:#dfe4ee;font-family:var(--head);text-transform:uppercase;letter-spacing:.1em;font-size:15px;text-align:center}
+.hero-pillars li{border-left:0;max-width:100%}
 .hero-pillars strong{color:var(--gold-2);font-weight:600}
 
 /* sections */
@@ -205,7 +204,7 @@ input:disabled,textarea:disabled{background:#eef0f4;cursor:not-allowed}
 .footer-grid{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:40px;padding-top:40px;padding-bottom:30px}
 .footer-brand{display:flex;gap:20px;align-items:center}
 .footer-brand img{width:130px;height:auto}
-.footer-tag{font-family:var(--head);text-transform:uppercase;letter-spacing:.12em;color:var(--gold);line-height:1.8;margin:0;font-size:14px}
+.footer-tag{font-family:var(--head);text-transform:uppercase;letter-spacing:.08em;color:var(--gold);line-height:1.4;margin:0;font-size:14px;white-space:nowrap}
 .footer-h{font-family:var(--head);text-transform:uppercase;letter-spacing:.12em;color:#fff;font-size:16px;margin:0 0 10px}
 .footer-links{list-style:none;margin:0;padding:0}
 .footer-links li{margin:6px 0}
@@ -247,8 +246,7 @@ input:disabled,textarea:disabled{background:#eef0f4;cursor:not-allowed}
   .brand img{width:48px;height:48px}
   .brand-abbr{font-size:26px}
   .brand-name{font-size:10.5px;letter-spacing:.14em}
-  .hero-pillars ul{grid-template-columns:1fr;gap:4px;font-size:13px;padding:12px 0}
-  .hero-pillars li{border-left:0}
+  .hero-pillars ul{font-size:13px;letter-spacing:.06em;padding:12px 0}
   .desks-grid,.grid-3{grid-template-columns:1fr}
   .card-lead .card-title{font-size:26px}
   .card-row{flex-direction:column;gap:12px}
