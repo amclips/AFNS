@@ -3,6 +3,11 @@ title: "Background: Missouri Will Use Its 2022 Congressional Map in November Aft
 desk: courts
 date: 2026-10-27
 summary: "In September, the Missouri Supreme Court unanimously ruled that the 2025 GOP-drawn congressional map never took effect because of a referendum petition. The U.S. Supreme Court then blocked a federal judge's order requiring the new map, so the 2022 map is in use for November."
+image: "img/stories/missouri-congressional-map-2022-map-in-use-november.jpg"
+image_alt: "Aerial view of the Missouri State Capitol in Jefferson City"
+image_credit: "KTrimble / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AAP_of_Missouri_State_Capitol_Building.jpg"
+image_license: "CC0"
 key_points:
   - Background: rulings from September
   - Missouri Supreme Court, unanimous: the 2025 map never took effect because of a referendum petition

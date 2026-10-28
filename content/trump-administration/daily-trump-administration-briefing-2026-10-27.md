@@ -3,6 +3,11 @@ title: "Daily Trump Administration Briefing — Oct. 27, 2026"
 desk: trump-administration
 date: 2026-10-27
 summary: "Two Comey cases in one day, DOJ ballot fights in Washington, California and Alaska, preliminary crime data, a SNAP card rule, campaign trail moments and this week's fact checks."
+image: "img/stories/daily-trump-administration-briefing-2026-10-27.jpg"
+image_alt: "North Portico of the White House"
+image_credit: "Don Ramey Logan / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ANorth_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg"
+image_license: "CC BY-SA 4.0"
 status: "Daily briefing"
 key_points:
   - Maurene Comey firing ruled illegal; DOJ to appeal

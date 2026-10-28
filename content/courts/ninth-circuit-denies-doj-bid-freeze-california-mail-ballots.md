@@ -3,6 +3,11 @@ title: "Appeals Court Refuses DOJ Bid to Freeze 20,000 California Mail Ballots a
 desk: courts
 date: 2026-10-26
 summary: "A divided 9th Circuit panel denied the Justice Department's emergency request to set aside about 20,000 disputed California mail ballots. The 2-1 unsigned ruling called the request premature because District Judge David Carter hasn't ruled yet, and said the \"claimed emergency, at least in part, is a self-constructed one.\""
+image: "img/stories/ninth-circuit-denies-doj-bid-freeze-california-mail-ballots.jpg"
+image_alt: "Courtroom in the James R. Browning U.S. Courthouse, home of the Ninth Circuit, in San Francisco"
+image_credit: "Sam Wheeler / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AJames_R_Browning_Courthouse_Courtroom_1.JPG"
+image_license: "CC BY-SA 3.0"
 status: "Denied 2-1; merits not decided"
 desk_lead: true
 key_points:

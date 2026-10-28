@@ -3,6 +3,11 @@ title: "Fort Bend County Tax Assessor Indicted for Allegedly Using County Payrol
 desk: fraud-corruption
 date: 2026-10-22
 summary: "Fort Bend County, Texas, Tax Assessor-Collector Carmen Turner (D) faces federal charges after allegedly putting two \"deputy tax clerks\" on the county payroll to care for her 81-year-old mother. Prosecutors also say she hired a man who already worked full-time in Chicago and had him kick back part of his county pay. She is still in office."
+image: "img/stories/fort-bend-tax-assessor-carmen-turner-indicted-payroll-fraud.jpg"
+image_alt: "Historic Fort Bend County Courthouse in Richmond, Texas"
+image_credit: "Larry D. Moore / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AFort_bend_courthouse.jpg"
+image_license: "CC BY 4.0"
 status: "Alleged"
 key_points:
   - She is charged with conspiracy, wire fraud, and theft from a program receiving federal funds.

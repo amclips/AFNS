@@ -3,6 +3,11 @@ title: "CNN Reports New Iran Strikes Could Launch \"Within 96 Hours\" of an Orde
 desk: trump-administration
 date: 2026-10-26
 summary: "CNN reports that new strikes on Iran could launch \"within 96 hours\" of an order, likely after the midterms. Separately, President Trump's claim that more oil is moving through the Strait of Hormuz than before the war is false, per CBS News."
+image: "img/stories/cnn-iran-strike-timing-hormuz-oil-claim-false.jpg"
+image_alt: "Aerial view of the Pentagon"
+image_credit: "David / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AAerial_photograph_of_the_Pentagon.jpg"
+image_license: "CC BY 2.0"
 status: "Reported by CNN; Hormuz claim false"
 key_points:
   - CNN reports strikes could launch "within 96 hours" of an order, likely after the midterms

@@ -3,6 +3,11 @@ title: "DOJ Charges 15 in Nearly $2B Los Angeles Health Care Fraud Takedown, Inc
 desk: fraud-corruption
 date: 2026-10-22
 summary: "The Justice Department charged 15 people, six of them medical professionals, in health care fraud schemes in Los Angeles totaling nearly $2B. The largest is a $1.6B scheme that allegedly lured vulnerable people into sham substance-use treatment programs. DOJ calls it the largest case of its kind it has ever prosecuted."
+image: "img/stories/doj-2b-los-angeles-health-care-fraud-takedown.jpg"
+image_alt: "Downtown Los Angeles skyline"
+image_credit: "Levi Clancy / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ASkyline_of_Los_Angeles%2C_Downtown_Los_Angeles%2C_California_13.jpg"
+image_license: "CC BY-SA 4.0"
 status: "Charged (alleged)"
 featured: true
 key_points:

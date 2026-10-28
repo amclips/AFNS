@@ -3,6 +3,11 @@ title: "One Week Out: Democrats Lead the Generic Ballot, but Key Senate Races Ar
 desk: dsa-democrat-watch
 date: 2026-10-27
 summary: "Democrats hold a 9-point lead on the generic congressional ballot a week before the Nov. 3 midterms. Still, several must-win Senate races are within the margin of error, and analysts caution against expecting a landslide."
+image: "img/stories/one-week-out-democrats-lead-generic-ballot-senate-coin-flips.jpg"
+image_alt: "Bilingual 'Polling Place – Vote Here' sign"
+image_credit: "Mrs. Gemstone / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3APolling_Place_-_Vote_Here_%288162709569%29.jpg"
+image_license: "CC BY-SA 2.0"
 desk_lead: true
 key_points:
   - Reuters/Ipsos has Democrats ahead 53% to 44% among likely voters, and Trump's approval at 32%.

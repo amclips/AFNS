@@ -3,6 +3,11 @@ title: "World Briefing — Oct. 27, 2026"
 desk: geopolitics
 date: 2026-10-27
 summary: "Israel votes; Hormuz attacks hit a record and Washington holds off until the midterms; Gulf envoys meet Iran and Egypt authorizes support for Saudi Arabia; Russia's offensive stalls as the Oleshky truce begins; Serbia's preliminary results; Lula wins in Brazil."
+image: "img/stories/world-briefing-2026-10-27.jpg"
+image_alt: "NASA Blue Marble image of Earth's Eastern Hemisphere"
+image_credit: "NASA / Reto Stöckli / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ABlue_Marble_Eastern_Hemisphere.jpg"
+image_license: "Public domain"
 status: "Daily briefing"
 key_points:
   - Israel: voting; results pending

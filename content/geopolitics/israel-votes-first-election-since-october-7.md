@@ -3,6 +3,11 @@ title: "Israel Votes in Its First Election Since October 7, With Neither Bloc Po
 desk: geopolitics
 date: 2026-10-27
 summary: "Israelis vote today in the first election since October 7. Polls show Gadi Eisenkot's Yashar party competing with or ahead of Likud, and neither bloc on track for the 61 seats needed to govern. Netanyahu could stay in office for months while parties negotiate a coalition."
+image: "img/stories/israel-votes-first-election-since-october-7.jpg"
+image_alt: "The Knesset, Israel's parliament, in Jerusalem"
+image_credit: "Clema12 / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_front_side_-_2022.jpg"
+image_license: "CC BY-SA 4.0"
 status: "Voting; results pending"
 key_points:
   - Status: voting today; exit polls this afternoon CT; official results due November 4.

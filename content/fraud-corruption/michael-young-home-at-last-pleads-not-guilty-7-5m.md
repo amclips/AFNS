@@ -3,6 +3,11 @@ title: "LA Homeless Nonprofit Founder Michael Young Pleads Not Guilty to Diverti
 desk: fraud-corruption
 date: 2026-10-26
 summary: "Michael Young, founder of the Los Angeles homeless nonprofit Home At Last, pleaded not guilty to diverting $7.5 million. Prosecutors say he ran homeless-housing funds through fake vendors and spent them on a nightclub, vacations and vintage cars. Trial is set for Dec. 7."
+image: "img/stories/michael-young-home-at-last-pleads-not-guilty-7-5m.jpg"
+image_alt: "Downtown Los Angeles skyline"
+image_credit: "Eric Polk / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ADowntown_Los_Angeles_skyline_from_Toy_District.jpg"
+image_license: "CC BY-SA 4.0"
 status: "Alleged"
 key_points:
   - Status: alleged; Young pleaded not guilty

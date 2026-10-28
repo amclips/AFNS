@@ -7,8 +7,11 @@ summary: "Two or three sentence summary shown in the summary box, on cards, and 
 # status: "Alleged"   # e.g. Alleged, Charged, Convicted, Sentenced, On trial
 # featured: true      # newest featured story is the home lead; other featured stories head the side list
 # desk_lead: true    # puts this story first on its desk page with a "Lead story" label
-# image: assets/articles/my-photo.jpg     # optional card/lead image (put file in assets/articles/)
+# image: img/stories/my-photo.jpg   # optional; file lives in static/img/stories/
 # image_alt: "Describe the image"
+# image_credit: "Photographer / Wikimedia Commons"
+# image_source_url: "https://commons.wikimedia.org/wiki/File:Example.jpg"
+# image_license: "CC BY 4.0"   # CC0, CC BY, CC BY-SA, or Public domain
 # draft: true         # hide from the site
 key_points:
   - First key point

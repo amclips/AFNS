@@ -3,6 +3,11 @@ title: "Supreme Court Leaves in Place Order Blocking Bureau of Prisons Transgend
 desk: courts
 date: 2026-10-21
 summary: "The Supreme Court refused the Trump administration's request to pause a D.C. federal judge's order blocking a Bureau of Prisons policy that cuts off hormone therapy and other accommodations for transgender inmates. Justices Alito and Thomas would have granted the request."
+image: "img/stories/supreme-court-leaves-block-on-bop-transgender-inmate-policy.jpg"
+image_alt: "West facade of the U.S. Supreme Court Building"
+image_credit: "Jarek Tuszyński / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AUS_Supreme_Court_-_corrected.jpg"
+image_license: "CC BY-SA 3.0"
 key_points:
   - Decision issued October 21
   - The Trump administration had asked the Court to pause a D.C. judge's order

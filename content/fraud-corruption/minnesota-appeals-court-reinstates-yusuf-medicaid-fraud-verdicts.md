@@ -3,6 +3,11 @@ title: "Minnesota Appeals Court Reinstates Guilty Verdicts in $7.2M Medicaid Fra
 desk: fraud-corruption
 date: 2026-10-26
 summary: "A unanimous Minnesota Court of Appeals panel reversed a Hennepin County judge who had thrown out a jury's six guilty verdicts against Abdifatah Yusuf of Promise Health Services in a $7.2M Medicaid fraud case. The court reinstated the convictions and sent the case back for sentencing."
+image: "img/stories/minnesota-appeals-court-reinstates-yusuf-medicaid-fraud-verdicts.jpg"
+image_alt: "Minnesota Judicial Center in St. Paul"
+image_credit: "Myotus / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3A2024-Minnesota_Judicial_Center_looking_Northeast.jpg"
+image_license: "CC0"
 status: "Convicted"
 key_points:
   - The case involves $7.2M in Medicaid fraud.

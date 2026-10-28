@@ -3,6 +3,11 @@ title: "DOJ's Ballot Fights: Washington Noncitizen Allegation, California Appeal
 desk: trump-administration
 date: 2026-10-27
 summary: "DOJ alleges that 400+ people who voted in Washington may be noncitizens — an accusation, not a finding. An appeals court split 2-1 and declined to rule on DOJ's bid to stop California from counting about 20K ballots, calling the request premature. DOJ also sued over the Alaska Senate count."
+image: "img/stories/noncitizen-ballot-fights-washington-california-alaska.jpg"
+image_alt: "Official ballot drop box"
+image_credit: "Paul Sableman / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ABallot_Drop_Box_%2831409335423%29.jpg"
+image_license: "CC BY 2.0"
 status: "Alleged (DOJ)"
 key_points:
   - Washington: DOJ alleges 400+ voters may be noncitizens (accusation, not a finding)

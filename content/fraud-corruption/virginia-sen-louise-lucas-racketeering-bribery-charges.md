@@ -3,6 +3,11 @@ title: "Virginia Sen. Louise Lucas Indicted on Racketeering and Bribery Charges"
 desk: fraud-corruption
 date: 2026-10-22
 summary: "A federal indictment charges Virginia state Sen. Louise Lucas, 82, chair of the Senate Finance and Appropriations Committee, with leading a family marijuana enterprise and using her office to protect it. The FBI puts the scheme at about $4.5M. Lucas calls the case an attack."
+image: "img/stories/virginia-sen-louise-lucas-racketeering-bribery-charges.jpg"
+image_alt: "Virginia State Capitol in Richmond"
+image_credit: "Ron Cogswell / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AState_Capitol_of_the_Commonwealth_of_Virginia_%287358972234%29.jpg"
+image_license: "CC BY 2.0"
 status: "Alleged"
 key_points:
   - The charges include racketeering and honest-services fraud through bribery.

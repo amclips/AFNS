@@ -3,6 +3,11 @@ title: "Federal SNAP Crackdown Targets About $42M in Alleged Food-Stamp Fraud Ac
 desk: fraud-corruption
 date: 2026-10-21
 summary: "DOJ's Fraud Section, the U.S. Department of Agriculture, and USDA's Office of Inspector General announced enforcement actions against more than 40 defendants in alleged SNAP benefit fraud totaling nearly $42M. The cases span 13 U.S. Attorney districts."
+image: "img/stories/snap-enforcement-surge-42m-alleged-food-stamp-fraud.jpg"
+image_alt: "Map of SNAP recipients by U.S. county"
+image_credit: "Wikideas1 / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ASNAP_recipients_by_County.png"
+image_license: "CC0"
 status: "Mostly alleged"
 key_points:
   - The actions involve nearly $42M in alleged SNAP fraud.
