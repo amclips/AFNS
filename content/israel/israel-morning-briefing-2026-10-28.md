@@ -2,7 +2,7 @@
 title: "Israel Morning Briefing: Wednesday, Oct. 28, 2026"
 desk: israel
 date: 2026-10-28
-summary: "Updated 9 AM CT: IDF says six Hamas operatives were killed in Gaza strikes, and a wildfire in Ben Shemen Forest closed Routes 1, 6 and 444. Also: a UN inquiry accuses Israel of war crimes, which Israel and the U.S. reject, plus Israeli shelling in south Lebanon, Gaza's fourth winter in tents, memorial demolitions near Nablus, Arab turnout and Ben-Gvir's latest remarks. For the election count, see the updated results article."
+summary: "Updated 1 PM CT: the IDF says it killed three Hamas commanders, and sea drones struck a Haifa-to-Romania container ship off Bulgaria. Earlier: IDF says six Hamas operatives were killed in Gaza strikes, and a wildfire in Ben Shemen Forest closed Routes 1, 6 and 444. Also: a UN inquiry accuses Israel of war crimes, which Israel and the U.S. reject, plus Israeli shelling in south Lebanon, Gaza's fourth winter in tents, memorial demolitions near Nablus, Arab turnout and Ben-Gvir's latest remarks. For the election count, see the updated results article."
 image: "img/stories/israel-morning-briefing-2026-10-28.jpg"
 image_alt: "The Palais des Nations, the United Nations Office at Geneva"
 image_credit: "Vassil / Wikimedia Commons"
@@ -10,6 +10,8 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3APalace_of_Nations_G
 image_license: "CC0"
 status: "Daily briefing"
 key_points:
+  - IDF (1 PM CT) - the IDF says it killed three Hamas commanders in Gaza
+  - Black Sea - container ship CONTSHIP JET, sailing from Haifa, was hit by sea drones off Bulgaria; all 18 crew rescued (X news summary)
   - Gaza strikes - the IDF says six Hamas operatives were killed, including Ahmed Baraka, whom it links to the abduction of Alex Dancyg
   - Wildfire - a large fire in Ben Shemen Forest closed Routes 1, 6 and 444 in central Israel
   - Election - counting continues, see the updated results article for the latest official figures
@@ -18,6 +20,8 @@ key_points:
   - Gaza - the UN says about 950,000 displaced people live in flood-risk sites as winter begins
   - West Bank, Arab turnout, Ben-Gvir - from X news summaries, not independently verified
 sources:
+  - IDF on X: three Hamas commanders | https://x.com/IDF/status/2115417255135641904
+  - X trending summary: CONTSHIP JET | https://x.com/i/trending/2115419415756128743
   - Times of Israel liveblog, Oct. 28: IDF strikes, wildfire | https://www.timesofisrael.com/liveblog-october-28-2026/
   - Hen Mazzig on X: IDF strikes | https://x.com/HenMazzig/status/2115445036691153352
   - X trending summary: UN Commission of Inquiry report | https://x.com/i/trending/2114743518409167155
@@ -30,6 +34,12 @@ sources:
 ---
 
 **Status: Daily briefing.** Each item names its source. Items marked **"Based on an X news summary; not independently verified"** come from X's trending summaries. AFNS has not confirmed them with a primary source.
+
+## Update, 1 PM CT
+
+**IDF says it killed three Hamas commanders (IDF statements).** The IDF says it killed three Hamas commanders in Gaza. It says one was a Nukhba commander who broke into the Sufa outpost, and another led a company that crossed into Israel on October 7. The IDF says they had been planning new attacks (IDF on X). AFNS has not independently verified the IDF's account.
+
+**Ship from Haifa hit off Bulgaria (based on an X news summary; not independently verified).** According to the summary, sea drones struck the Liberian-flagged container ship CONTSHIP JET in Bulgarian waters. It was sailing from Haifa to Constanta, Romania. All 18 crew were rescued. No attacker has been named, and the summary says the attack appears tied to the string of Black Sea ship attacks rather than to Israel itself.
 
 ## Update, 9 AM CT
 
