@@ -3,6 +3,11 @@ title: "Russia's Offensive Stalls as a Rare Local Truce Begins and Peace Talks H
 desk: geopolitics
 date: 2026-10-27
 summary: "Independent analysts at ISW say Russia has lost ground overall since September, even though Putin claims big gains. A ceasefire limited to the occupied town of Oleshky, brokered by First Lady Melania Trump according to the White House, took effect early today. Putin has agreed in principle to new US–Russia–Ukraine talks in Abu Dhabi in the first half of November."
+image: "img/stories/russia-offensive-stalls-oleshky-truce-abu-dhabi-talks.jpg"
+image_alt: "The Moscow Kremlin along the Moskva River at dusk"
+image_credit: "Diego Delso / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AVista_general_del_Kremlin%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_18-19_HDR.jpg"
+image_license: "CC BY-SA 4.0"
 status: "Casualty figure and battery-plant strike unverified"
 key_points:
   - ISW assesses that Russia had a net loss of about 241 square kilometers between September 1 and October 22. Putin claimed 1,301 square kilometers gained in September alone.

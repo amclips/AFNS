@@ -3,6 +3,11 @@ title: "Gulf Envoys Meet Iran's Leaders; Egypt Authorizes Military Support for S
 desk: geopolitics
 date: 2026-10-27
 summary: "Saudi, Pakistani and Turkish envoys met Iran's leaders Monday to try to stop the war from restarting, and the only agreement was to keep talking. Egypt's parliament authorized defensive military support for Saudi Arabia against the Houthis if Riyadh asks. No request has been made yet."
+image: "img/stories/gulf-envoys-meet-iran-egypt-authorizes-support-for-saudi-against-houthis.jpg"
+image_alt: "Tehran skyline with Milad Tower and the Alborz Mountains"
+image_credit: "Julia Maudlin / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ATehran_Skyline%2C_Milad_Tower_and_Alborz_Mountains%2C_Iran_%2810059004754%29.jpg"
+image_license: "CC BY 2.0"
 key_points:
   - Iran called Monday's talks "very good," but the only thing agreed was to keep talking.
   - Brent crude is around $116.

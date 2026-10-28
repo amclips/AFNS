@@ -3,6 +3,11 @@ title: "James Comey Charged a Third Time; His Lawyers Move to Dismiss"
 desk: trump-administration
 date: 2026-10-26
 summary: "A charge filed under seal on Oct. 5 and unsealed Monday at James Comey's request accuses him of passing national defense information to a reporter in 2016, plus conspiracy. His lawyers say the 10-year statute of limitations has run out and have moved to dismiss."
+image: "img/stories/james-comey-charged-third-time.jpg"
+image_alt: "Robert F. Kennedy Department of Justice Building in Washington"
+image_credit: "Gunnar Klack / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3A2014-04-04-Robert-F-Kennedy-Department-of-Justice-Building-Washington-DC.jpg"
+image_license: "CC BY-SA 4.0"
 status: "Charged (alleged)"
 key_points:
   - DOJ's third attempt in a little over a year to charge Comey

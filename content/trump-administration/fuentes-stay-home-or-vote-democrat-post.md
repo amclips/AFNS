@@ -3,6 +3,11 @@ title: "Fuentes Tells Followers to \"Stay Home or Vote Democrat\" as Unverified 
 desk: trump-administration
 date: 2026-10-27
 summary: "Nick Fuentes's Oct. 26 X post urging followers to skip the midterms or vote Democrat over the Iran war drew about 1.8M views. Separately, viral posts claim a Fuentes fan was removed from a JD Vance rally for wearing an \"America First\" hat. That claim is UNVERIFIED: no news outlet has confirmed it."
+image: "img/stories/fuentes-stay-home-or-vote-democrat-post.jpg"
+image_alt: "'Vote Here' sign outside a polling place"
+image_credit: "Lorie Shaull / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AVote_Here_sign_in_Minneapolis%2C_Minnesota_%2850563905866%29.jpg"
+image_license: "CC BY-SA 2.0"
 status: "Claims unverified"
 key_points:
   - Fuentes wrote: "Trump promised “no new wars,” then started a war with Iran that we are not only losing but which also destroyed the economy... Stay home or vote Democrat."

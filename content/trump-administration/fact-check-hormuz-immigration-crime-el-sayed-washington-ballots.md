@@ -3,6 +3,11 @@ title: "Fact Check: Hormuz Oil, \"7 Million Fewer Illegal Immigrants,\" Crime Co
 desk: trump-administration
 date: 2026-10-27
 summary: "A roundup of claims checked this week: the Hormuz oil claim and the viral \"7 million fewer illegal immigrants\" figure are false; Trump's raw crime counts can't be checked against DOJ's release; the El-Sayed Muslim Brotherhood claim was made without evidence, per Reuters, and is denied; Washington's \"400 noncitizen voters\" is still only DOJ's allegation."
+image: "img/stories/fact-check-hormuz-immigration-crime-el-sayed-washington-ballots.jpg"
+image_alt: "Aerial view of the Washington Monument and the White House"
+image_credit: "Tech. Sgt. Andy Dunaway, U.S. Air Force / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AWashMonument_WhiteHouse.jpg"
+image_license: "Public domain"
 status: "Fact check"
 key_points:
   - Hormuz oil claim: false

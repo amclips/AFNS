@@ -3,6 +3,11 @@ title: "DSA Backs 131 Candidates Nationwide as a Fight Over Its LA Mayoral Endor
 desk: dsa-democrat-watch
 date: 2026-10-27
 summary: "The Democratic Socialists of America and its chapters are backing 131 candidates on the Nov. 3 ballot, its biggest electoral push yet. At the same time, national leaders keep delaying a decision on whether to keep the LA chapter's endorsement of mayoral candidate Nithya Raman."
+image: "img/stories/dsa-backs-131-candidates-raman-endorsement-fight.jpg"
+image_alt: "Los Angeles City Hall in downtown Los Angeles"
+image_credit: "Levi Clancy / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ALos_Angeles_City_Hall%2C_Downtown_Los_Angeles%2C_California_08.jpg"
+image_license: "CC BY-SA 4.0"
 key_points:
   - The 131 candidates are running in 30 states plus D.C.: 10 for the U.S. House, 52 for state legislatures, and 69 for local office. DSA also took positions on 33 ballot measures.
   - DSA-backed candidates are running for mayor in Los Angeles, Louisville, and Washington, D.C.

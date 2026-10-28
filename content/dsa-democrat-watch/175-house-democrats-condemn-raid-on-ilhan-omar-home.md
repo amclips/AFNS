@@ -3,6 +3,11 @@ title: "175 House Democrats Condemn the Raid on Ilhan Omar's Home"
 desk: dsa-democrat-watch
 date: 2026-10-27
 summary: "175 House Democrats signed a letter condemning the federal raid on Rep. Ilhan Omar's home. The letter demands that the Justice Department and Homeland Security take no further steps that could affect the election. No charges have been filed against Omar."
+image: "img/stories/175-house-democrats-condemn-raid-on-ilhan-omar-home.jpg"
+image_alt: "West front of the U.S. Capitol"
+image_credit: "Noclip / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ACapitol_Building_Full_View.jpg"
+image_license: "Public domain"
 status: "No charges filed"
 key_points:
   - Reps. Jayapal, Raskin, Thompson, Garcia, Clarke and Casar led the letter.

@@ -3,6 +3,11 @@ title: "Minnesota AG Ellison Files Two More Child-Nutrition Fraud Lawsuits"
 desk: fraud-corruption
 date: 2026-10-26
 summary: "Minnesota Attorney General Ellison filed two more civil lawsuits alleging child-nutrition fraud. Nasib Bakery allegedly claimed more than $2.8 million for meals it never served, and East African Healthcare Network allegedly claimed more than $10 million for over 3 million meals in 2020-22."
+image: "img/stories/ellison-files-child-nutrition-fraud-lawsuits-nasib-bakery-eahn.jpg"
+image_alt: "Minnesota State Capitol in St. Paul"
+image_credit: "McGhiever / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AMinnesota_State_Capitol_2017.jpg"
+image_license: "CC BY-SA 4.0"
 status: "Alleged (civil)"
 key_points:
   - Status: alleged, civil lawsuits

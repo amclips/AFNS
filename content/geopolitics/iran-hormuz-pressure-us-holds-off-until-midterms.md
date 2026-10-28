@@ -3,6 +3,11 @@ title: "Iran Turns Up the Pressure on Hormuz as Washington Holds Off Until the M
 desk: geopolitics
 date: 2026-10-27
 summary: "Attacks on ships in and around the Strait of Hormuz hit a record high in October, after the White House said the US won't strike Iran before the November 3 midterms. Oil prices are back above $110 a barrel. Israel votes today in a close election that could decide whether Benjamin Netanyahu keeps power and how Israel handles Iran from here."
+image: "img/stories/iran-hormuz-pressure-us-holds-off-until-midterms.jpg"
+image_alt: "U.S. Navy ships USS New York and USS Porter transiting the Strait of Hormuz"
+image_credit: "U.S. Navy / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AFlickr_-_Official_U.S._Navy_Imagery_-_USS_New_York_and_USS_Porter_transit_the_Strait_of_Hormuz..jpg"
+image_license: "Public domain"
 status: "IRGC tanker claim unverified; CENTCOM disputes"
 desk_lead: true
 key_points:

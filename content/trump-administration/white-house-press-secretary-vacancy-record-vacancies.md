@@ -3,6 +3,11 @@ title: "White House Press Secretary Job Still Empty; Administration Has Record S
 desk: trump-administration
 date: 2026-10-26
 summary: "The White House press secretary job is still empty since Katie Zacharia left after five days. The administration also has record vacancies in Senate-confirmed posts, per the Washington Post."
+image: "img/stories/white-house-press-secretary-vacancy-record-vacancies.jpg"
+image_alt: "The empty James S. Brady Press Briefing Room at the White House"
+image_credit: "CabbageFuel / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AWhite_House_briefing_room_empty.jpg"
+image_license: "CC BY-SA 4.0"
 key_points:
   - Press secretary post empty since Katie Zacharia left after five days
   - Record vacancies in Senate-confirmed posts

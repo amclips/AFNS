@@ -3,6 +3,11 @@ title: "DOJ Preliminary Data: Serious Violent Crime Down 25% in 2025; Trump's Ra
 desk: trump-administration
 date: 2026-10-27
 summary: "DOJ's preliminary 2025 numbers show serious violent crime down 25% and property crime down 19%. President Trump's raw counts, such as \"100,000 fewer rapes\" and \"700,000 fewer violent crimes,\" can't be checked against DOJ's release, which gives percentage drops in rates rather than raw counts."
+image: "img/stories/doj-preliminary-2025-crime-data-trump-counts-fact-check.jpg"
+image_alt: "U.S. Department of Justice Building in Washington"
+image_credit: "Tony Webster / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ADepartment_of_Justice_Building_-_Washington%2C_DC_%2814323816141%29.jpg"
+image_license: "CC BY 2.0"
 status: "Preliminary; counts unverifiable"
 key_points:
   - Serious violent crime down 25% (preliminary)

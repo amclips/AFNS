@@ -3,6 +3,11 @@ title: "9th Circuit: Trump Overstepped in Federalizing California's National Gua
 desk: courts
 date: 2026-10-23
 summary: "A split 9th Circuit panel upheld the order that blocked President Trump's 2025 federalization of the California National Guard during the Los Angeles protests. The troops are already gone, but the decision sets precedent on when a president can take control of a state's Guard."
+image: "img/stories/ninth-circuit-newsom-v-trump-national-guard-ruling.jpg"
+image_alt: "California National Guard members on duty in Los Angeles, June 2025"
+image_credit: "U.S. Northern Command / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ACA_National_Guard%2C_June_2025.jpg"
+image_license: "Public domain"
 status: "Ruling (2-1)"
 key_points:
   - The case is Newsom v. Trump, No. 25-3727.

@@ -3,6 +3,11 @@ title: "Two Comey Cases in One Day: Judge Reinstates Maurene Comey as DOJ Charge
 desk: trump-administration
 date: 2026-10-27
 summary: "A federal judge ruled Monday that the Justice Department unlawfully fired Maurene Comey, James Comey's daughter, as a federal prosecutor. The same day, a charge against James Comey that was filed under seal on Oct. 5 was made public. It is DOJ's third attempt to charge him."
+image: "img/stories/maurene-comey-firing-ruled-illegal.jpg"
+image_alt: "Thurgood Marshall U.S. Courthouse in Manhattan"
+image_credit: "Kidfly182 / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AThurgood_Marshall_United_States_Courthouse_003.jpg"
+image_license: "CC BY-SA 4.0"
 status: "Ruling; DOJ to appeal"
 featured: true
 key_points:

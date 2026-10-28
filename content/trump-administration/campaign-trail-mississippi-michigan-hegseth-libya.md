@@ -3,6 +3,11 @@ title: "Campaign Trail: Trump in Mississippi and Michigan, El-Sayed Denies Claim
 desk: trump-administration
 date: 2026-10-27
 summary: "Trump rallied for Sen. Cindy Hyde-Smith in Corinth, Miss., and in Michigan with Nicki Minaj, where he stepped up attacks on Senate candidate Abdul El-Sayed. El-Sayed denies any ties to the Muslim Brotherhood; Reuters says the allegation was made without evidence. Jeffries said Democrats would hold Hegseth \"accountable.\""
+image: "img/stories/campaign-trail-mississippi-michigan-hegseth-libya.jpg"
+image_alt: "Mississippi State Capitol in Jackson"
+image_credit: "formulanone / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AMississippi_State_Capitol_Building_%2826815684617%29.jpg"
+image_license: "CC BY-SA 2.0"
 status: "El-Sayed claim: without evidence, denied"
 key_points:
   - Trump rallied for Hyde-Smith in Corinth, called opponent Scott Colom a "Democrat communist"

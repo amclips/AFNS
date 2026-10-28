@@ -3,6 +3,11 @@ title: "USDA Proposes Chip-Enabled SNAP Cards and Tap-to-Pay at Stores"
 desk: trump-administration
 date: 2026-10-26
 summary: "USDA proposed a rule that would require chip-enabled food-assistance cards and tap-to-pay at stores."
+image: "img/stories/usda-proposes-snap-chip-card-tap-to-pay-rule.jpg"
+image_alt: "Examples of state EBT cards used for SNAP benefits"
+image_credit: "Ken Hammond, USDA / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ADifferent_types_of_state_EBT_card%28s%29.jpg"
+image_license: "Public domain"
 status: "Proposed rule"
 key_points:
   - Proposed rule, not final

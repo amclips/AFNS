@@ -3,6 +3,11 @@ title: "Court Roundup: Louisiana's Coastal Suit Stalls, Lilly Wins Ad Fight, Pur
 desk: courts
 date: 2026-10-26
 summary: "Four more rulings from Monday: the Supreme Court's emergency docket handed Louisiana a setback in its coastal-damage case against Devon Energy, a federal judge let Eli Lilly keep running its obesity-drug ads, and two federal appeals courts ruled against an immigrant-rights activist and against opioid victims seeking restitution from Purdue Pharma."
+image: "img/stories/court-roundup-oct-26-louisiana-lilly-vizguerra-purdue.jpg"
+image_alt: "A judge's gavel resting on its sound block"
+image_credit: "Blogtrepreneur / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3ALegal_Gavel_%2827571702173%29.jpg"
+image_license: "CC BY 2.0"
 status: "Rulings"
 key_points:
   - Louisiana v. Devon Energy (No. 26A499): Justice Sotomayor denied the request to lift a 5th Circuit stay.

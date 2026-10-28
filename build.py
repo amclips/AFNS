@@ -135,6 +135,8 @@ def load_articles():
             "sample": meta.get("sample") is True, "status": meta.get("status") or "", "featured": meta.get("featured") is True,
             "desk_lead": meta.get("desk_lead") is True,
             "image": meta.get("image") or "", "image_alt": meta.get("image_alt", ""),
+            "image_credit": meta.get("image_credit", ""), "image_source_url": meta.get("image_source_url", ""),
+            "image_license": meta.get("image_license", ""),
             "key_points": meta.get("key_points", []) or [], "sources": sources,
             "path": f, "body": markdown(body), "words": len(re.findall(r"\w+", body)),
         })
@@ -241,6 +243,13 @@ def layout(title, body, *, desc=None, canonical="", og_type="website", active=""
 </body>
 </html>
 """
+
+LICENSE_URLS = {
+    "CC0": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "CC BY 2.0": "https://creativecommons.org/licenses/by/2.0/", "CC BY 4.0": "https://creativecommons.org/licenses/by/4.0/",
+    "CC BY-SA 2.0": "https://creativecommons.org/licenses/by-sa/2.0/", "CC BY-SA 3.0": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "CC BY-SA 4.0": "https://creativecommons.org/licenses/by-sa/4.0/",
+}
 
 def card(a, size=""):
     d = DESKS[a["desk"]]
@@ -356,13 +365,20 @@ def build_articles(arts):
         mins = max(1, round(a["words"] / 230))
         og = OG_CARDS.get(a["slug"])
         if a["image"]:
-            hero = f'<figure class="article-hero"><img src="{esc(site_href(a["image"]))}" alt="{esc(a["image_alt"])}" width="1200" height="675"></figure>'
-            og_meta = (a["image"], 1200, 675)
+            credit = ""
+            if a["image_credit"]:
+                lic = a["image_license"]
+                lic_url = LICENSE_URLS.get(lic)
+                lic_html = f'<a href="{esc(lic_url)}" rel="license noopener" target="_blank">{esc(lic)}</a>' if lic_url else esc(lic)
+                who = f'<a href="{esc(a["image_source_url"])}" rel="noopener" target="_blank">{esc(a["image_credit"])}</a>' if a["image_source_url"] else esc(a["image_credit"])
+                credit = f'<figcaption class="photo-credit">Photo: {who}{", " + lic_html if lic else ""}{" (cropped)" if lic.startswith("CC BY") else ""}</figcaption>'
+            hero = f'<figure class="article-hero"><img src="{esc(site_href(a["image"]))}" alt="{esc(a["image_alt"])}" width="1200" height="675" fetchpriority="high">{credit}</figure>'
         elif og:
             hero = f'<figure class="article-hero"><img src="{site_href(og)}" alt="{esc(a["title"])}: {esc(d["name"])}, AFNS share card" width="1200" height="675" fetchpriority="high"></figure>'
-            og_meta = (og, 1200, 675)
         else:
-            hero, og_meta = "", None
+            hero = ""
+        # Branded share card stays the link-preview image. JSON-LD below uses the photo.
+        og_meta = (og, 1200, 675) if og else ((a["image"], 1200, 675) if a["image"] else None)
         related = [x for x in arts if x["desk"] == a["desk"] and x is not a][:3]
         rel_html = f'<section class="wrap related">{section_head("More from " + esc(d["name"]), site_href(a["desk"] + "/"), "All")}<div class="grid-3">{"".join(card(x) for x in related)}</div></section>' if related else ""
         share_image = a["image"] or og or "assets/og-image.jpg"
@@ -461,10 +477,11 @@ def build_feeds(arts):
 OG_CARDS = {}  # slug -> site-relative path, e.g. og/<slug>.png
 
 def build_og_cards(arts):
-    """Publish static/og/<slug>.png for non-sample articles that have no image of their own.
+    """Publish static/og/<slug>.png for every non-sample article.
 
-    Committed cards are used as-is when Pillow is not installed. When it is, a card is
-    redrawn only if it is older than the article, site.json, or tools/og_cards.py.
+    Story photos do not replace the branded card. Committed cards are used as-is when
+    Pillow is not installed. When it is, a card is redrawn only if it is older than
+    the article, site.json, or tools/og_cards.py.
     """
     OG_CARDS.clear()
     og_mod = None
@@ -478,7 +495,7 @@ def build_og_cards(arts):
         gen_mtime = max(Path(og_mod.__file__).stat().st_mtime, (ROOT / "site.json").stat().st_mtime)
     made = 0
     for a in arts:
-        if a["sample"] or a["image"]:
+        if a["sample"]:
             continue
         out = STATIC / "og" / f"{a['slug']}.png"
         if og_mod is not None:

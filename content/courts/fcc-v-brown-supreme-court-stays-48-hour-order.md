@@ -3,6 +3,11 @@ title: "Supreme Court Halts Order That Gave FCC 48 Hours to Rule on Sherrod Brow
 desk: courts
 date: 2026-10-14
 summary: "In an unsigned opinion in FCC v. Brown, the Supreme Court put on hold a Fourth Circuit order that would have forced the FCC to rule on Sherrod Brown's campaign-ad complaint within 48 hours. Justices Sotomayor and Jackson would have denied the stay."
+image: "img/stories/fcc-v-brown-supreme-court-stays-48-hour-order.jpg"
+image_alt: "Exterior of the U.S. Supreme Court Building in Washington"
+image_credit: "颐园居 / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AExterior_of_Supreme_Court_Building_20240601.jpg"
+image_license: "CC BY-SA 4.0"
 key_points:
   - Unsigned Supreme Court opinion, October 14
   - Fourth Circuit order requiring an FCC ruling within 48 hours is on hold
