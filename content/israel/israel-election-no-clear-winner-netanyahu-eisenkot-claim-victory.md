@@ -1,8 +1,8 @@
 ---
-title: "Israel Election: Likud Makes Unproven Claim That Arab Parties 'Stole' the Vote as Count Reaches 92.9%"
+title: "Israel Election: Coalition Scramble and Repeat-Vote Talk as Likud's Fraud Claims Remain Unproven"
 desk: israel
 date: 2026-10-28
-summary: "Netanyahu's Likud claims, without proof so far, that Arab parties \"stole\" the election, and it has asked police and the Shin Bet to investigate. A Central Elections Committee official dismissed fraud claims. With 92.9% of ballot boxes counted, the seats are unchanged: Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19. About 430,000-480,000 double-envelope ballots remain."
+summary: "With 92.9% of ballot boxes counted, the seats are unchanged: Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19. Ynet reports that Likud is reaching out to Bennett and Liberman, and Haaretz analysts say another election looks likely. The elections committee says it is reviewing Likud's fraud claims against Arab parties, which remain unproven. About 430,000-480,000 double-envelope ballots remain."
 image: "img/stories/israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory.jpg"
 image_alt: "Ballot slips for each party list laid out in a voting booth at an Israeli polling station, Oct. 27, 2026"
 image_credit: "Nizzan Cohen / Wikimedia Commons"
@@ -12,7 +12,9 @@ status: "Partial results; no winner declared"
 featured: true
 desk_lead: true
 key_points:
-  - UNPROVEN - Likud claims Arab parties "stole" the election and asks police and the Shin Bet to investigate. A Central Elections Committee official dismissed fraud claims on Channel 12
+  - Coalition scramble - ynet reports Likud is reaching out to Bennett and Liberman; Haaretz analysts say another election looks likely
+  - UNPROVEN - Likud claims Arab parties "stole" the election. The elections committee says it is reviewing all fraud claims but has not backed them, and Likud has shown no proof publicly
+  - Trump, in comments reported from an Axios interview, said Netanyahu is "in pretty good shape"
   - Status - partial results, 92.9% of ballot boxes counted (Central Elections Committee via the Times of Israel). Seats can still move
   - Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19; Likud 26, Yashar 21
   - The committee estimates 430,000-480,000 double-envelope ballots remain, worth roughly 12 seats. The full count is due Thursday afternoon Israel time, and official results Nov. 4
@@ -25,6 +27,12 @@ key_points:
 sources:
   - Times of Israel: CEC estimates up to 480,000 ballots left, worth some 12 seats | https://www.timesofisrael.com/liveblog_entry/cec-estimates-up-to-480000-ballots-from-troops-police-diplomats-yet-to-be-counted-worth-some-12-knesset-seats/
   - Times of Israel: earlier partial count (Central Elections Committee) | https://www.timesofisrael.com/liveblog_entry/with-over-85-of-votes-counted-pro-netanyahu-bloc-gets-53-seats-eisenkot-led-bloc-at-48-and-arab-parties-have-19/
+  - Times of Israel on X: elections committee reviewing fraud claims | https://x.com/TimesofIsrael/status/2115493850932510971
+  - Hindustan Times on X: Trump's Axios comments | https://x.com/htTweets/status/2115499654641324391
+  - Clash Report on X: Trump's Axios comments | https://x.com/clashreport/status/2115472710377631752
+  - Ynetnews on X: Likud outreach to Bennett and Liberman | https://x.com/ynetnews/status/2115488915775705478
+  - Haaretz on X: analysts on a repeat election | https://x.com/haaretzcom/status/2115495470906651119
+  - X trending summary: Netanyahu and MK Osama Saadi (unverified) | https://x.com/i/trending/2115491456840319485
   - Amit Segal on X: Likud fraud claims | https://x.com/AmitSegal/status/2115464750050013546
   - Times of Israel liveblog, Oct. 28: Likud claims, Katz, EU, Herzog, speakership, markets | https://www.timesofisrael.com/liveblog-october-28-2026/
   - X trending summary: Mansour Abbas interview (unconfirmed) | https://x.com/i/trending/2115430450852512197
@@ -47,9 +55,15 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 28, 2026, 11 AM CT.** This article now uses the Central Elections Committee's partial results at 92.9% of ballot boxes counted, and its new estimate of the ballots still outstanding. They replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 28, 2026, 1 PM CT.** The count is unchanged since 11 AM CT, at 92.9% of ballot boxes. This update adds the coalition outreach, talk of a repeat election, the elections committee's review of fraud claims, Trump's reported Axios comments and Netanyahu's clash with MK Osama Saadi. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Partial results; no winner declared.** Counting is not finished, so **seats can still move**. No camp has a majority.
+
+## Coalition scramble and talk of a repeat election
+
+- **Outreach:** ynet reports that senior Likud ministers are pushing for talks with Naftali Bennett and Avigdor Liberman, both former Netanyahu allies (via Ynetnews on X).
+- **Skipped calls:** ynet also reports that Netanyahu skipped his usual election-night calls to the leaders of his own bloc's parties.
+- **Repeat election:** Haaretz analysts now say another election looks likely (via Haaretz on X). President Herzog has urged the parties to avoid one (see below).
 
 ## Likud alleges fraud. The claims are unproven
 
@@ -59,6 +73,7 @@ Netanyahu's Likud party claims the Arab parties "stole" the election. It alleges
 
 - **The request:** Likud wants police and the Shin Bet to investigate.
 - **Its material:** it says it is handing over "hundreds of testimonies." They include claims of cash envelopes with Ra'am ballots, double voting, and mismatches in envelope counts.
+- **The committee's response:** the elections committee says it is reviewing all the fraud claims. It has not backed them, and Likud has still not shown proof publicly (Times of Israel on X).
 
 ## Where the count stands
 
@@ -103,6 +118,8 @@ Without Arab party support, the anti-Netanyahu bloc can't reach 61 on the curren
 - **Joint List chair Yousef Jabareen** said anyone who wants to replace Netanyahu "will have to talk to us." He said his party is "ready to pave the way" to oust Netanyahu (Times of Israel).
 - **Yair Golan** is urging a coalition with the Arab parties (Times of Israel).
 
+**Netanyahu vs. MK Osama Saadi.** In a victory speech, Joint List MK Osama Saadi dedicated the Arab parties' gains to Palestinians in Gaza, the West Bank and Jerusalem, and called the government fascist. **UNVERIFIED (based on an X trending summary):** according to the summary, Netanyahu accused Saadi of praising terrorists and warned against any coalition relying on Arab parties. AFNS has not found Netanyahu's own words.
+
 **UNCONFIRMED (based on an X trending summary; not independently confirmed):** according to the summary, Ra'am leader Mansour Abbas would not call Hamas terrorists in a live interview. It says he accepted the first three of Eisenkot's coalition conditions but refused the fourth, labeling Hamas a terrorist group, while saying he condemns October 7. AFNS has not reviewed the interview.
 
 ## The opposition moves on the Knesset speakership
@@ -125,6 +142,7 @@ AFP reported that both leaders vowed to form the next government.
 
 - **On Truth Social,** President Trump shared a quote saying "the whole tide turned" after he endorsed Netanyahu (Times of Israel).
 - **To reporters,** Trump said the endorsement "helped him a lot" and that the result looks like "a stalemate or a win." He said he has not spoken to Netanyahu yet (Times of Israel; Jerusalem Post).
+- **To Axios:** according to reports quoting an Axios interview, Trump said he first got "horror reports" about Netanyahu's chances, but "he's in pretty good shape now." He also said, "I heard my endorsement made a big difference for Bibi." He was asked whether he would get involved in forming a unity government (via Hindustan Times and Clash Report on X; AFNS has not reviewed the Axios piece itself). Trump did not say where he heard about his endorsement's effect. On the current count, Netanyahu's bloc is eight seats short of a majority.
 - **Unconfirmed, based on anonymous sources:** ynet cites unnamed sources close to Trump who say he does not want Ben-Gvir, and probably not Smotrich, in the next government. AFNS has not confirmed this, and the White House has not said it publicly.
 
 ## Other reactions from election night
