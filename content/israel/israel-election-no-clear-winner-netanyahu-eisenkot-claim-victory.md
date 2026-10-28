@@ -1,8 +1,8 @@
 ---
-title: "Israel Election: Coalition Scramble and Repeat-Vote Talk as Likud's Fraud Claims Remain Unproven"
+title: "Israel Election: Police Say No Evidence Supports Likud's Fraud Claim as Double-Envelope Count Set to Begin"
 desk: israel
 date: 2026-10-28
-summary: "With 92.9% of ballot boxes counted, the seats are unchanged: Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19. Ynet reports that Likud is reaching out to Bennett and Liberman, and Haaretz analysts say another election looks likely. The elections committee says it is reviewing Likud's fraud claims against Arab parties, which remain unproven. About 430,000-480,000 double-envelope ballots remain."
+summary: "Israel Police say no investigative or intelligence evidence supports Likud's claim that Arab parties stole the election (via i24NEWS). Counting of the remaining double-envelope ballots, which the elections committee estimates at 430,000-480,000, is set to begin at 1 AM Israel time (about 6 PM CT Oct. 28). Netanyahu has opened coalition talks with Smotrich and Ben-Gvir, and Eisenkot says \"we will succeed.\" Seats are unchanged at 53-48-19."
 image: "img/stories/israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory.jpg"
 image_alt: "Ballot slips for each party list laid out in a voting booth at an Israeli polling station, Oct. 27, 2026"
 image_credit: "Nizzan Cohen / Wikimedia Commons"
@@ -12,12 +12,17 @@ status: "Partial results; no winner declared"
 featured: true
 desk_lead: true
 key_points:
+  - Police - Israel Police say no investigative or intelligence evidence supports Likud's fraud claim (via i24NEWS on X)
+  - Count - double-envelope ballots are set to begin counting at 1 AM Israel time (about 6 PM CT Oct. 28), and the count should finish Thursday evening (elections committee via i24NEWS)
+  - Coalition talks - Netanyahu met Smotrich and Ben-Gvir first, with Haredi leaders next (ynet). Eisenkot says "we will succeed"
+  - ANALYSIS - Amichai Stein relays an assessment that Herzog may give Eisenkot the first try if the Arab parties back him. It is not a decision
+  - Anonymous-source claim - an unnamed U.S. official told i24NEWS that Trump may invite Eisenkot and Netanyahu to Mar-a-Lago
   - Coalition scramble - ynet reports Likud is reaching out to Bennett and Liberman; Haaretz analysts say another election looks likely
-  - UNPROVEN - Likud claims Arab parties "stole" the election. The elections committee says it is reviewing all fraud claims but has not backed them, and Likud has shown no proof publicly
+  - UNPROVEN - Likud claims Arab parties "stole" the election. The elections committee is reviewing the claims and has not backed them, and Likud has shown no proof publicly
   - Trump, in comments reported from an Axios interview, said Netanyahu is "in pretty good shape"
   - Status - partial results, 92.9% of ballot boxes counted (Central Elections Committee via the Times of Israel). Seats can still move
   - Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19; Likud 26, Yashar 21
-  - The committee estimates 430,000-480,000 double-envelope ballots remain, worth roughly 12 seats. The full count is due Thursday afternoon Israel time, and official results Nov. 4
+  - The committee estimates 430,000-480,000 double-envelope ballots remain, worth roughly 12 seats. Official results are due Nov. 4
   - Netanyahu's bloc was as high as 57 overnight at about 42% counted and has slipped since
   - Herzog urged parties to avoid a repeat election; he expects official results next week, with consultations after
   - The opposition is moving to replace Likud's Amir Ohana as Knesset speaker (Channel 12 via the Times of Israel)
@@ -27,6 +32,15 @@ key_points:
 sources:
   - Times of Israel: CEC estimates up to 480,000 ballots left, worth some 12 seats | https://www.timesofisrael.com/liveblog_entry/cec-estimates-up-to-480000-ballots-from-troops-police-diplomats-yet-to-be-counted-worth-some-12-knesset-seats/
   - Times of Israel: earlier partial count (Central Elections Committee) | https://www.timesofisrael.com/liveblog_entry/with-over-85-of-votes-counted-pro-netanyahu-bloc-gets-53-seats-eisenkot-led-bloc-at-48-and-arab-parties-have-19/
+  - i24NEWS on X: police find no evidence of fraud | https://x.com/i24NEWS_EN/status/2115513363606466745
+  - i24NEWS on X: double-envelope count timing | https://x.com/i24NEWS_EN/status/2115518148086550633
+  - i24NEWS on X: correspondent's seat estimate | https://x.com/i24NEWS_EN/status/2115518974259532064
+  - Ynetnews on X: Netanyahu's first coalition meetings | https://x.com/ynetnews/status/2115527408619049254
+  - i24NEWS on X: Eisenkot's remarks | https://x.com/i24NEWS_EN/status/2115531654441951403
+  - Amichai Stein on X: Eisenkot's remarks | https://x.com/AmichaiStein1/status/2115531763950710872
+  - Amichai Stein on X: analysis on who gets the mandate first | https://x.com/AmichaiStein1/status/2115507719352221726
+  - i24NEWS on X: U.S. official on a possible Mar-a-Lago meeting | https://x.com/i24NEWS_EN/status/2115510415996358853
+  - Haaretz on X: rallies for a Jewish-Arab government | https://x.com/haaretzcom/status/2115532843090686054
   - Times of Israel on X: elections committee reviewing fraud claims | https://x.com/TimesofIsrael/status/2115493850932510971
   - Hindustan Times on X: Trump's Axios comments | https://x.com/htTweets/status/2115499654641324391
   - Clash Report on X: Trump's Axios comments | https://x.com/clashreport/status/2115472710377631752
@@ -55,19 +69,30 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 28, 2026, 1 PM CT.** The count is unchanged since 11 AM CT, at 92.9% of ballot boxes. This update adds the coalition outreach, talk of a repeat election, the elections committee's review of fraud claims, Trump's reported Axios comments and Netanyahu's clash with MK Osama Saadi. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 28, 2026, 3 PM CT.** The seat count is unchanged, at 92.9% of ballot boxes. This update adds the police finding on Likud's fraud claim, the timing of the double-envelope count, Netanyahu's first coalition meetings, Eisenkot's first remarks since election night, analysis on who may get the first try at forming a government, a reported possible Trump invitation and rallies for a Jewish-Arab government. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Partial results; no winner declared.** Counting is not finished, so **seats can still move**. No camp has a majority.
 
 ## Coalition scramble and talk of a repeat election
 
+- **Netanyahu's first meetings:** Netanyahu held his first post-election coalition meetings with Bezalel Smotrich and Itamar Ben-Gvir, with Haredi party leaders next (ynet via X).
+- **Speakership:** the opposition is preparing its bid to replace Knesset Speaker Amir Ohana (ynet; see below).
 - **Outreach:** ynet reports that senior Likud ministers are pushing for talks with Naftali Bennett and Avigdor Liberman, both former Netanyahu allies (via Ynetnews on X).
 - **Skipped calls:** ynet also reports that Netanyahu skipped his usual election-night calls to the leaders of his own bloc's parties.
 - **Repeat election:** Haaretz analysts now say another election looks likely (via Haaretz on X). President Herzog has urged the parties to avoid one (see below).
+- **Rallies:** Haaretz reports that hundreds demonstrated across Israel for a coalition that includes Arab parties (via Haaretz on X).
 
-## Likud alleges fraud. The claims are unproven
+## Eisenkot speaks
 
-**These are unproven allegations.** No evidence has been made public, and no authority has found fraud. A Central Elections Committee official dismissed the fraud claims earlier on Channel 12 (Times of Israel).
+In his first remarks since election night, Eisenkot said his bloc is focused on forming a "Zionist government committed to national service." He said voters rejected "the Oct. 7 government" and added, "we will succeed" (via i24NEWS and Amichai Stein on X).
+
+## ANALYSIS: who gets the first try
+
+**This is analysis, not a decision.** Amichai Stein passes on an assessment that President Herzog may give Eisenkot the mandate first if the Arab parties back him. Stein also says Netanyahu's associates report that Netanyahu does not want to try first (via Amichai Stein on X). Herzog has said his consultations come after the official results.
+
+## Likud alleges fraud. Police say no evidence supports it
+
+**These are unproven allegations.** Israel Police say no investigative or intelligence evidence supports Likud's claim that the Arab parties stole the election (via i24NEWS on X). No evidence has been made public, and no authority has found fraud. A Central Elections Committee official dismissed the fraud claims earlier on Channel 12 (Times of Israel).
 
 Netanyahu's Likud party claims the Arab parties "stole" the election. It alleges bribery, threats, violence, forgery and illegal voter-mobilization software (Times of Israel; Amit Segal on X).
 
@@ -90,8 +115,9 @@ The seat totals are unchanged from the earlier partial count.
 
 ## What's left to count, and when
 
-- **Double-envelope ballots:** the Central Elections Committee now estimates 430,000-480,000 remain, fewer than first reported. They come from soldiers, police, diplomats and others, and are worth roughly 12 seats (Times of Israel).
-- **Full count:** due Thursday afternoon Israel time.
+- **Double-envelope ballots:** the Central Elections Committee's official estimate is that 430,000-480,000 remain, fewer than first reported. They come from soldiers, police, diplomats and others, and are worth roughly 12 seats (Times of Israel).
+- **When:** the committee says counting of these ballots is set to begin at 1 AM Israel time, about 6 PM CT on Oct. 28. It should finish Thursday evening Israel time (via i24NEWS on X).
+- **One reporter's estimate:** an i24NEWS correspondent estimates the ballots could shift the results by up to 10 seats. That is one reporter's estimate, not an official figure.
 - **Official results:** due Nov. 4. President Isaac Herzog said he expects them next week.
 - **Coalition talks:** AP says weeks of talks could lie ahead.
 
@@ -143,6 +169,7 @@ AFP reported that both leaders vowed to form the next government.
 - **On Truth Social,** President Trump shared a quote saying "the whole tide turned" after he endorsed Netanyahu (Times of Israel).
 - **To reporters,** Trump said the endorsement "helped him a lot" and that the result looks like "a stalemate or a win." He said he has not spoken to Netanyahu yet (Times of Israel; Jerusalem Post).
 - **To Axios:** according to reports quoting an Axios interview, Trump said he first got "horror reports" about Netanyahu's chances, but "he's in pretty good shape now." He also said, "I heard my endorsement made a big difference for Bibi." He was asked whether he would get involved in forming a unity government (via Hindustan Times and Clash Report on X; AFNS has not reviewed the Axios piece itself). Trump did not say where he heard about his endorsement's effect. On the current count, Netanyahu's bloc is eight seats short of a majority.
+- **Anonymous-source claim:** an unnamed U.S. official told i24NEWS that Trump may "see which way the wind blows" and then invite Eisenkot and Netanyahu to Mar-a-Lago to close a deal (via i24NEWS on X). AFNS has not confirmed this, and the White House has not announced any such invitation.
 - **Unconfirmed, based on anonymous sources:** ynet cites unnamed sources close to Trump who say he does not want Ben-Gvir, and probably not Smotrich, in the next government. AFNS has not confirmed this, and the White House has not said it publicly.
 
 ## Other reactions from election night
