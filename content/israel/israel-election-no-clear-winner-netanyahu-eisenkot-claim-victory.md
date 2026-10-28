@@ -1,8 +1,8 @@
 ---
-title: "Israel Election: Count Paused at 85.6% With No Majority as Herzog Urges Parties to Avoid a Repeat Vote"
+title: "Israel Election: Likud Makes Unproven Claim That Arab Parties 'Stole' the Vote as Count Reaches 92.9%"
 desk: israel
 date: 2026-10-28
-summary: "With 85.6% counted, the Central Elections Committee gives Netanyahu's bloc 53 seats, eight short of the 61 needed. Eisenkot's bloc has 48, and the Arab parties have a record 19. Counting is paused for the day, with about 600,000 double-envelope ballots still to be added. President Herzog urged parties to avoid a repeat election."
+summary: "Netanyahu's Likud claims, without proof so far, that Arab parties \"stole\" the election, and it has asked police and the Shin Bet to investigate. A Central Elections Committee official dismissed fraud claims. With 92.9% of ballot boxes counted, the seats are unchanged: Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19. About 430,000-480,000 double-envelope ballots remain."
 image: "img/stories/israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory.jpg"
 image_alt: "Ballot slips for each party list laid out in a voting booth at an Israeli polling station, Oct. 27, 2026"
 image_credit: "Nizzan Cohen / Wikimedia Commons"
@@ -12,16 +12,21 @@ status: "Partial results; no winner declared"
 featured: true
 desk_lead: true
 key_points:
-  - Status - partial results, 85.6% counted (Central Elections Committee via the Times of Israel). Counting is paused for the day, and seats can still move
+  - UNPROVEN - Likud claims Arab parties "stole" the election and asks police and the Shin Bet to investigate. A Central Elections Committee official dismissed fraud claims on Channel 12
+  - Status - partial results, 92.9% of ballot boxes counted (Central Elections Committee via the Times of Israel). Seats can still move
   - Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19; Likud 26, Yashar 21
-  - About 600,000 double-envelope ballots and about 7% of regular ballots needing extra checks are still to come over the next couple of days
+  - The committee estimates 430,000-480,000 double-envelope ballots remain, worth roughly 12 seats. The full count is due Thursday afternoon Israel time, and official results Nov. 4
   - Netanyahu's bloc was as high as 57 overnight at about 42% counted and has slipped since
   - Herzog urged parties to avoid a repeat election; he expects official results next week, with consultations after
   - The opposition is moving to replace Likud's Amir Ohana as Knesset speaker (Channel 12 via the Times of Israel)
   - The shekel weakened and the Tel Aviv stock exchange slumped
+  - Defense Minister Katz called Eisenkot's election-night appeal to security chiefs undemocratic
+  - The EU congratulated Israel, citing nearly 78% turnout as a sign of a "vibrant democracy"
 sources:
-  - Times of Israel: with over 85% counted, 53-48-19 (Central Elections Committee) | https://www.timesofisrael.com/liveblog_entry/with-over-85-of-votes-counted-pro-netanyahu-bloc-gets-53-seats-eisenkot-led-bloc-at-48-and-arab-parties-have-19/
-  - Times of Israel liveblog, Oct. 28: Herzog, speakership, markets | https://www.timesofisrael.com/liveblog-october-28-2026/
+  - Times of Israel: CEC estimates up to 480,000 ballots left, worth some 12 seats | https://www.timesofisrael.com/liveblog_entry/cec-estimates-up-to-480000-ballots-from-troops-police-diplomats-yet-to-be-counted-worth-some-12-knesset-seats/
+  - Times of Israel: earlier partial count (Central Elections Committee) | https://www.timesofisrael.com/liveblog_entry/with-over-85-of-votes-counted-pro-netanyahu-bloc-gets-53-seats-eisenkot-led-bloc-at-48-and-arab-parties-have-19/
+  - Amit Segal on X: Likud fraud claims | https://x.com/AmitSegal/status/2115464750050013546
+  - Times of Israel liveblog, Oct. 28: Likud claims, Katz, EU, Herzog, speakership, markets | https://www.timesofisrael.com/liveblog-october-28-2026/
   - X trending summary: Mansour Abbas interview (unconfirmed) | https://x.com/i/trending/2115430450852512197
   - AP: Arab parties and coalition talks | https://apnews.com/article/israel-elections-netanyahu-eisenkot-arab-coalition-results-d4680e90210c9a8611853fda9d0deb61
   - NPR: Israel election results | https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results
@@ -42,38 +47,52 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 28, 2026, 9 AM CT.** This article now uses the Central Elections Committee's partial results at 85.6% counted. They replace the earlier partial figures from Wednesday morning and the election-night early count. First published Oct. 27.
+**Updated Oct. 28, 2026, 11 AM CT.** This article now uses the Central Elections Committee's partial results at 92.9% of ballot boxes counted, and its new estimate of the ballots still outstanding. They replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
-**Status: Partial results; no winner declared.** Counting is paused for the day and is not finished, so **seats can still move**. No camp has a majority.
+**Status: Partial results; no winner declared.** Counting is not finished, so **seats can still move**. No camp has a majority.
+
+## Likud alleges fraud. The claims are unproven
+
+**These are unproven allegations.** No evidence has been made public, and no authority has found fraud. A Central Elections Committee official dismissed the fraud claims earlier on Channel 12 (Times of Israel).
+
+Netanyahu's Likud party claims the Arab parties "stole" the election. It alleges bribery, threats, violence, forgery and illegal voter-mobilization software (Times of Israel; Amit Segal on X).
+
+- **The request:** Likud wants police and the Shin Bet to investigate.
+- **Its material:** it says it is handing over "hundreds of testimonies." They include claims of cash envelopes with Ra'am ballots, double voting, and mismatches in envelope counts.
 
 ## Where the count stands
 
-With 85.6% of votes counted, the Central Elections Committee's partial results, as reported by the Times of Israel, are:
+With 92.9% of ballot boxes counted, the Central Elections Committee's partial results, as reported by the Times of Israel, are:
 
 - **Netanyahu bloc:** 53 seats, eight short of the 61 needed for a majority
 - **Eisenkot bloc:** 48 seats
 - **Arab parties:** 19 seats, a record
 - **Largest parties:** Likud 26, Yashar 21
 
-That is slightly worse for Netanyahu's bloc than Wednesday morning's partial count.
+The seat totals are unchanged from the earlier partial count.
 
 **The trend:** overnight, at about 42% counted, Netanyahu's bloc was as high as 57 seats. It has slipped since, while Eisenkot's side and the Arab parties have gained.
 
 ## What's left to count, and when
 
-- **Paused for the day:** no more updates are expected Wednesday (Times of Israel).
-- **Extra checks:** about 7% of regular ballots need additional checks.
-- **Double-envelope ballots:** about 600,000 are to be added over the next couple of days. They include ballots cast by soldiers, diplomats, hospital patients and prisoners.
-- **Official results:** President Isaac Herzog expects them next week. CNBC reported final results are expected around Nov. 4.
+- **Double-envelope ballots:** the Central Elections Committee now estimates 430,000-480,000 remain, fewer than first reported. They come from soldiers, police, diplomats and others, and are worth roughly 12 seats (Times of Israel).
+- **Full count:** due Thursday afternoon Israel time.
+- **Official results:** due Nov. 4. President Isaac Herzog said he expects them next week.
 - **Coalition talks:** AP says weeks of talks could lie ahead.
 
 ## Herzog urges parties to avoid a repeat election
 
 In his first comments since the vote, Herzog urged the parties to avoid another election. He asked them to come to coalition talks "with an open mind." He said he expects official results next week, with his consultations on who forms the government to follow (Times of Israel).
 
-## Turnout
+## Turnout and the EU
 
 Turnout was 77.7%, the highest in more than 25 years.
+
+The European Union congratulated Israel. It praised the nearly 78% turnout as a sign of a "vibrant democracy" and said it looks forward to working with the next government (Times of Israel).
+
+## Katz hits back at Eisenkot
+
+On election night, Eisenkot appealed to Israel's security chiefs to "stand firm against any attempt to pressure you." Defense Minister Israel Katz called the appeal undemocratic. The exchange comes amid reports that the IDF chief resisted a push for strikes on Iran before the vote (Times of Israel). AFNS has not confirmed those reports.
 
 ## The Arab parties are the swing question
 

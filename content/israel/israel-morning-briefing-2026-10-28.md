@@ -12,7 +12,7 @@ status: "Daily briefing"
 key_points:
   - Gaza strikes - the IDF says six Hamas operatives were killed, including Ahmed Baraka, whom it links to the abduction of Alex Dancyg
   - Wildfire - a large fire in Ben Shemen Forest closed Routes 1, 6 and 444 in central Israel
-  - Election - counting is paused for the day, see the updated results article for the latest official figures
+  - Election - counting continues, see the updated results article for the latest official figures
   - UN inquiry - UN accuses Israel of war crimes and crimes against humanity; Israel and the U.S. reject the findings (X news summary; report not reviewed)
   - Lebanon - Lebanon's news agency reports Israeli shelling of Majdal Zoun and Haddatha
   - Gaza - the UN says about 950,000 displaced people live in flood-risk sites as winter begins
@@ -37,9 +37,9 @@ sources:
 
 **Wildfire.** A large wildfire is burning in Ben Shemen Forest. Routes 1, 6 and 444 are closed in central Israel, and traffic leaving Jerusalem is heavy (Times of Israel).
 
-## Election: counting paused for the day
+## Election: counting continues
 
-No camp has a majority yet. Counting is paused for the day, and about 600,000 double-envelope ballots are still to be added. For the latest official figures, see [the updated election results article](../israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory/). For the reported U.S. planning on Iran and the Tehran talks, see [Iran after the midterms](../us-israel-signal-iran-campaign-after-midterms-tehran-talks/).
+No camp has a majority yet, and double-envelope ballots are still to be added. For the latest official figures, see [the updated election results article](../israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory/). For the reported U.S. planning on Iran and the Tehran talks, see [Iran after the midterms](../us-israel-signal-iran-campaign-after-midterms-tehran-talks/).
 
 ## UN inquiry accuses Israel; Israel and the U.S. reject the findings
 
