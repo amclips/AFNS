@@ -10,6 +10,7 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3ASun_rises_over_Patr
 image_license: "Public domain"
 status: "Reported; not confirmed"
 key_points:
+  - Update (Oct. 29, 11 AM CT) - Kan, citing an unnamed Israeli official, reports Israel asked the U.S. to approve strikes on Iranian energy facilities not yet hit, in case fighting resumes. No U.S. response has been reported. Trump says he wants to end the war very quickly (Kan; TASS, Russian state media)
   - Update (Oct. 29) - Qatar, backed by Saudi Arabia, Pakistan, Egypt and Turkey, is pushing a seven-day plan to let UN inspectors into bombed nuclear sites for some sanctions relief. A senior Iranian official called it "unacceptable"; Araghchi says Tehran is still talking to mediators
   - Update (Oct. 29) - Trump said "anything is possible" and hasn't made a final decision. Iran's reply to Qatar is expected by Saturday
   - Update (Oct. 29) - Trump says Vance's letter to Rezaei was about medical supplies; the WSJ says its purpose was to revive talks
@@ -30,6 +31,8 @@ key_points:
   - Saudi, Pakistani and Turkish officials met Iran's leadership in Tehran and agreed to keep talking
   - Why it matters for Americans: U.S. forces, U.S. energy prices and the post-midterm agenda are all in play
 sources:
+  - Kan (Hebrew): Israel asks U.S. to approve energy-site strikes | https://www.kan.org.il/content/kan-news/defense/live-1113966/liveid-1114033/
+  - TASS (Russian state media): summary of the Kan report | https://tass.com/world/2210251
   - CBS News live: Qatar mediators' new proposal | https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/
   - Axios: Arab mediators and the war after the midterms | https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms
   - Iran International: reaction to the plan | https://www.iranintl.com/en/202610282816
@@ -60,9 +63,15 @@ sources:
   - Al-Monitor: Iran holds "very good talks" | https://www.al-monitor.com/originals/2026/10/iran-holds-very-good-talks-mecca-pact-nations-regions-security
 ---
 
-**Updated Oct. 29, 2026, 7 AM CT.** This article adds the Qatar-led seven-day plan and Iran's response, Trump's latest comments, the dispute over the Vance letter's purpose, a blockade boarding advisory and the Pentagon's cost figure. First published Oct. 28.
+**Updated Oct. 29, 2026, 11 AM CT.** This article adds Kan's report that Israel asked the U.S. to approve strikes on Iranian energy sites. The 7 AM update added the Qatar-led seven-day plan and Iran's response, Trump's latest comments, the dispute over the Vance letter's purpose, a blockade boarding advisory and the Pentagon's cost figure. First published Oct. 28.
 
 **Status: Reported; not confirmed.** The planning described below comes from a Wall Street Journal report, as relayed by Anadolu. AP has since reported similar warnings, citing two diplomats briefed on them. None of it has been officially announced. The diplomatic meetings in Tehran were reported by Al Jazeera, AP and Al-Monitor.
+
+## Update, Oct. 29, 11 AM CT: Israel reportedly seeks U.S. approval for energy-site strikes
+
+- **The report:** Kan, citing an unnamed Israeli official, says Israel asked Washington to approve strikes on Iranian energy facilities that have not yet been hit, in case fighting resumes ([Kan, Hebrew](https://www.kan.org.il/content/kan-news/defense/live-1113966/liveid-1114033/); [TASS summary](https://tass.com/world/2210251), Russian state media). This is based on an unnamed source.
+- **Washington:** no U.S. response has been reported.
+- **Trump:** he says he wants to end the Iran war very quickly (TASS summary).
 
 ## Update, Oct. 29: a Qatari plan, Iran's rejection and no final decision
 
