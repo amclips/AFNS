@@ -2,7 +2,7 @@
 title: "Israel Election: Count Complete With Deadlock Unchanged; Official Results Due Wednesday"
 desk: israel
 date: 2026-10-28
-summary: "Updated Oct. 29, 11 AM CT: the Central Elections Committee says counting is complete. With about 99% entered, the blocs are unchanged: Netanyahu bloc 53, and the opposition including Arab parties 67 (the same 53-48-19 split). The Reservists list missed the threshold, and official results come Wednesday, Nov. 4, after a final integrity review. Unnamed UTJ sources say the party could back Eisenkot from outside the coalition, on a draft-exemption condition. Seven people have been arrested in an alleged vote-buying probe in the Negev, while officials call wider fraud claims baseless. The elections committee asked the Shin Bet to look into foreign-interference claims, which are unproven; police say there is no evidence of fraud. A unity deal floated by Netanyahu's camp is UNVERIFIED, and Liberman ruled out more partners."
+summary: "Updated Oct. 29, 1 PM CT: Eisenkot accuses Likud of a campaign to delegitimize the results, and he met Bennett on forming a government. Earlier, the Central Elections Committee said counting is complete. With about 99% entered, the blocs are unchanged: Netanyahu bloc 53, and the opposition including Arab parties 67 (the same 53-48-19 split). The Reservists list missed the threshold, and official results come Wednesday, Nov. 4, after a final integrity review. Unnamed UTJ sources say the party could back Eisenkot from outside the coalition, on a draft-exemption condition. Seven people have been arrested in an alleged vote-buying probe in the Negev, while officials call wider fraud claims baseless. The elections committee asked the Shin Bet to look into foreign-interference claims, which are unproven; police say there is no evidence of fraud. A unity deal floated by Netanyahu's camp is UNVERIFIED, and Liberman ruled out more partners."
 image: "img/stories/israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory.jpg"
 image_alt: "Ballot slips for each party list laid out in a voting booth at an Israeli polling station, Oct. 27, 2026"
 image_credit: "Nizzan Cohen / Wikimedia Commons"
@@ -12,6 +12,10 @@ status: "Count complete; results not yet official; no winner declared"
 featured: true
 desk_lead: true
 key_points:
+  - 1 PM CT - Eisenkot accused Netanyahu and Likud of an "orchestrated and organized campaign to delegitimize the election results." This is his accusation. He met Shin Bet chief Zini and elections chair Sohlberg first (i24NEWS and ILTV on X)
+  - 1 PM CT - Eisenkot and Bennett met to discuss forming a government "as quickly as possible" (i24NEWS on X); Golan met Mansour Abbas again (Jerusalem Post on X)
+  - 1 PM CT - police say three officers were hurt at a Haredi draft protest on Route 4; Ben-Gvir said the police commissioner is "trying to please Yair Golan" (Kan News on X)
+  - 1 PM CT - Gallant urged a "Jewish, Zionist national unity government" (Jerusalem Post on X)
   - Count complete (Oct. 29, 11 AM CT) - the Central Elections Committee says counting is done. With about 99% entered, the Netanyahu bloc has 53 and the opposition including Arab parties 67 (Haaretz; ynet)
   - Seats - Likud 27, Yashar 21, Together 12, Joint List 11, Ra'am 8, Democrats 8, Otzma Yehudit 7, Yisrael Beiteinu 7, UTJ 7, Shas 6, Religious Zionism 6. The Reservists list missed the threshold (Haaretz; ynet)
   - Official results come Wednesday, Nov. 4, after a final election-integrity review
@@ -44,6 +48,16 @@ key_points:
   - Defense Minister Katz called Eisenkot's election-night appeal to security chiefs undemocratic
   - The EU congratulated Israel, citing nearly 78% turnout as a sign of a "vibrant democracy"
 sources:
+  - i24NEWS on X: Eisenkot's video | https://x.com/i24NEWS_EN/status/2115852942737822036
+  - ILTV News on X: Eisenkot's video | https://x.com/ILTVNews/status/2115867145922068720
+  - Barak Ravid on X: Netanyahu and the results | https://x.com/BarakRavid/status/2115868240434069902
+  - i24NEWS on X: Eisenkot meets Bennett | https://x.com/i24NEWS_EN/status/2115855776262607114
+  - Jerusalem Post on X: Golan meets Abbas again | https://x.com/Jerusalem_Post/status/2115861451223289870
+  - Emanuel Fabian (Times of Israel) on X: soldier charged with spying for Iran | https://x.com/manniefabian/status/2115852675577270369
+  - Kan News on X: officers hurt at Route 4 protest | https://x.com/kann_news/status/2115849943189692459
+  - Kan News on X: Ben-Gvir on the police commissioner | https://x.com/kann_news/status/2115862544459997555
+  - Jerusalem Post on X: Gallant on a unity government | https://x.com/Jerusalem_Post/status/2115867982580633644
+  - Jerusalem Post on X: possible Hebron pullback (unconfirmed) | https://x.com/Jerusalem_Post/status/2115861605401477465
   - Haaretz live, Oct. 29: count complete, Shin Bet on the probe | https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article-live/seat-results-steady-as-elections-committee-begins-counting-absentee-ballots/000001a1-8567-d9b5-a3b5-cdf7e5cc0004
   - Ynetnews: UTJ open to backing Eisenkot from outside | https://www.ynetnews.com/article/z6u0ropnp
   - Times of Israel: UTJ sources on backing Eisenkot from outside | https://www.timesofisrael.com/liveblog_entry/utj-sources-proposing-to-back-eisenkot-from-outside-the-government-report/
@@ -121,9 +135,41 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 29, 2026, 11 AM CT.** The Central Elections Committee says counting is complete, replacing the earlier 97.3% figures. The blocs are unchanged. The 11 AM update below adds the full seat list, UTJ's reported opening to Eisenkot and the Shin Bet on its probe. The 9 AM update added the widening vote-buying probe, officials' pushback on fraud claims, Qatar's denial and new opposition talks. The 7 AM update added the Shin Bet request on the fraud claims, an UNVERIFIED unity-deal briefing, Liberman's new refusals and the latest opposition talks. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 29, 2026, 1 PM CT.** There are no new vote numbers; the completed count from 11 AM stands. The 1 PM update below adds Eisenkot's video accusing Likud, the Eisenkot-Bennett meeting, the Route 4 protest and Gallant's call for a unity government. The 11 AM update added the full seat list, UTJ's reported opening to Eisenkot and the Shin Bet on its probe. The 9 AM update added the widening vote-buying probe, officials' pushback on fraud claims, Qatar's denial and new opposition talks. The 7 AM update added the Shin Bet request on the fraud claims, an UNVERIFIED unity-deal briefing, Liberman's new refusals and the latest opposition talks. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Count complete; results not yet official; no winner declared.** The Central Elections Committee says counting is done. Official results come Wednesday, after a final election-integrity review. No camp has a majority.
+
+## 1 PM CT update, Oct. 29
+
+No new vote numbers. The completed count from 11 AM stands: Netanyahu bloc 53, opposition including Arab parties 67.
+
+### Eisenkot accuses Likud of trying to delegitimize the vote
+
+**This is Eisenkot's accusation.** After meeting Shin Bet chief David Zini and elections committee chair Justice Noam Sohlberg, Gadi Eisenkot released a video (via [i24NEWS on X](https://x.com/i24NEWS_EN/status/2115852942737822036); [ILTV News on X](https://x.com/ILTVNews/status/2115867145922068720)).
+
+- **On the probe:** he said it's "too early to understand what happened" and that investigators must work without political interference.
+- **The charge:** he accused Netanyahu and Likud of an "orchestrated and organized campaign to delegitimize the election results."
+- **The swearing-in:** he vowed not to let the Knesset swearing-in slip "by a centimeter."
+- **Legislation:** Kan reports he is preparing legislation on this (as relayed in the posts above).
+
+**Barak Ravid (Axios)** also reports that Netanyahu is trying to delegitimize the results after losing his majority (via [Barak Ravid on X](https://x.com/BarakRavid/status/2115868240434069902)).
+
+### Opposition talks: Eisenkot meets Bennett
+
+Eisenkot and Naftali Bennett met Thursday evening, Israel time, at Bennett's home in Ra'anana to discuss forming the next government "as quickly as possible" (via [i24NEWS on X](https://x.com/i24NEWS_EN/status/2115855776262607114)). Separately, Yair Golan met Ra'am's Mansour Abbas again about a possible partnership (via [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115861451223289870)).
+
+### Route 4 Haredi draft protest: three officers hurt
+
+Police say three officers were hurt at an ultra-Orthodox protest on Route 4 (via [Kan News on X](https://x.com/kann_news/status/2115849943189692459)). Itamar Ben-Gvir attacked the police commissioner, saying he is "trying to please Yair Golan" (via [Kan News on X](https://x.com/kann_news/status/2115862544459997555)).
+
+### Gallant calls for a unity government
+
+Former Defense Minister Yoav Gallant urged a broad "Jewish, Zionist national unity government." He warned against a coalition that depends on parties that don't recognize Israel as the Jewish nation-state (via [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115867982580633644)).
+
+### Also in Israel
+
+- **Soldier charged with spying for Iran:** an IDF soldier arrested in September after a joint Shin Bet investigation has been charged with carrying out espionage tasks for Iran in exchange for cryptocurrency (via [Emanuel Fabian, Times of Israel, on X](https://x.com/manniefabian/status/2115852675577270369)).
+- **UNCONFIRMED: possible Hebron pullback.** The IDF may leave or scale back this weekend in the Hebron neighborhood it has held since last weekend (via [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115861605401477465)). This has not been confirmed.
 
 ## 11 AM CT update, Oct. 29
 
