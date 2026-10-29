@@ -2,7 +2,7 @@
 title: "Israel Election: Deadlock Holds as Count Nears End and Fraud Claims Go to Shin Bet"
 desk: israel
 date: 2026-10-28
-summary: "Updated Oct. 29: with about 96.1% counted, including 233,815 double-envelope ballots so far, seats are unchanged at 53-48-19 and the count should finish Thursday afternoon or evening Israel time. The elections committee asked the Shin Bet to look into foreign-interference claims, which are unproven; police say there is no evidence of fraud. A unity deal floated by Netanyahu's camp is UNVERIFIED, and Liberman ruled out more partners."
+summary: "Updated Oct. 29, 9 AM CT: with about 97.3% counted, Likud is up a seat to 27 and Shas is down to 6, but the blocs are unchanged at 53-48-19. The count should finish Thursday afternoon or evening Israel time. Seven people have been arrested in an alleged vote-buying probe in the Negev, while officials call wider fraud claims baseless. The elections committee asked the Shin Bet to look into foreign-interference claims, which are unproven; police say there is no evidence of fraud. A unity deal floated by Netanyahu's camp is UNVERIFIED, and Liberman ruled out more partners."
 image: "img/stories/israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory.jpg"
 image_alt: "Ballot slips for each party list laid out in a voting booth at an Israeli polling station, Oct. 27, 2026"
 image_credit: "Nizzan Cohen / Wikimedia Commons"
@@ -12,8 +12,12 @@ status: "Partial results; no winner declared"
 featured: true
 desk_lead: true
 key_points:
-  - Count (Oct. 29) - about 96.1% counted, including 233,815 double-envelope ballots so far; blocs unchanged at 53-48-19, Likud 26, Yashar 21 (ynet; Globes)
-  - Thresholds - the Reservists list looks set to miss the threshold, and Shas's 120th seat could still flip to Likud. The count should finish Thursday afternoon or evening Israel time
+  - Count (Oct. 29, 9 AM CT) - about 97.3% counted; Likud up a seat to 27, Shas down to 6; blocs unchanged at 53-48-19 (Kan News and Jerusalem Post on X)
+  - Thresholds - the Reservists list looks set to miss the threshold. The count should finish Thursday afternoon or evening Israel time
+  - Allegations - the Negev vote-buying probe has grown to seven arrests, including three Bedouin school principals; Kan says four were released to house arrest. Likud is preparing to seek revotes at some Arab polling stations (Ynet and Kan News on X)
+  - Pushback - the elections committee director says widespread fraud claims appear baseless; a senior police official called them "baseless spin" (Times of Israel and Haaretz on X)
+  - Qatar "categorically" denies interfering (i24NEWS and Ynet on X)
+  - Ra'am is willing to recommend Eisenkot, Kan reports, after Mansour Abbas met Yair Golan (Kan News on X)
   - UNPROVEN - the elections committee asked the Shin Bet to look into foreign-interference claims; Shin Bet chief David Zini briefed Netanyahu and Eisenkot. Police say there is no evidence of fraud
   - Herzog said the claims must be investigated but warned against "tarnishing an entire community"; Eisenkot accused Netanyahu of an "influence operation"
   - UNVERIFIED - people close to Netanyahu are briefing reporters on a unity deal with Eisenkot. Herzog's office called a Channel 14 rotation-and-pardon report "a complete lie"
@@ -29,7 +33,7 @@ key_points:
   - Coalition scramble - ynet reports Likud is reaching out to Bennett and Liberman; Haaretz analysts say another election looks likely
   - UNPROVEN - Likud claims Arab parties "stole" the election. The elections committee is reviewing the claims and has not backed them, and Likud has shown no proof publicly
   - Trump, in comments reported from an Axios interview, said Netanyahu is "in pretty good shape"
-  - Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19; Likud 26, Yashar 21
+  - Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19; Likud 27, Yashar 21
   - Official results go to Herzog next Wednesday, Nov. 4. Seats can still move until then
   - Netanyahu's bloc was as high as 57 overnight at about 42% counted and has slipped since
   - Herzog urged parties to avoid a repeat election; he expects official results next week, with consultations after
@@ -38,6 +42,19 @@ key_points:
   - Defense Minister Katz called Eisenkot's election-night appeal to security chiefs undemocratic
   - The EU congratulated Israel, citing nearly 78% turnout as a sign of a "vibrant democracy"
 sources:
+  - Kan News on X: count at 97.3% | https://x.com/kann_news/status/2115796715194274060
+  - Jerusalem Post on X: count at 97.3% | https://x.com/Jerusalem_Post/status/2115804621650161775
+  - Ynetnews on X: vote-buying probe widens | https://x.com/ynetnews/status/2115762924660601131
+  - Kan News on X: suspects released to house arrest; Likud revotes | https://x.com/kann_news/status/2115802102740226229
+  - Times of Israel on X: elections committee director on fraud claims | https://x.com/TimesofIsrael/status/2115785582198899195
+  - Haaretz on X: police official calls claims "baseless spin" | https://x.com/haaretzcom/status/2115787028176511339
+  - i24NEWS on X: Qatar denies interfering | https://x.com/i24NEWS_EN/status/2115787906119827698
+  - Ynetnews on X: Qatar won't be a "scapegoat" | https://x.com/ynetnews/status/2115800533743051023
+  - Kan News on X: Sohlberg met Eisenkot | https://x.com/kann_news/status/2115792299968061782
+  - Kan News on X: Abbas met Golan | https://x.com/kann_news/status/2115783837133451335
+  - Jerusalem Post on X: Golan met Lapid | https://x.com/Jerusalem_Post/status/2115804575206715832
+  - Jerusalem Post on X: Highway 4 Haredi protest | https://x.com/Jerusalem_Post/status/2115806033519996936
+  - X story summary: Al-Maghazi strike (unverified) | https://x.com/i/trending/2115777964608545249
   - ynet live (Hebrew): the count | https://www.ynet.co.il/news/blogs/article/sj60fvepze
   - Globes live (Hebrew): the count | https://www.globes.co.il/news/article.aspx?did=1001561230
   - Israel National News: the count | https://www.israelnationalnews.com/news/435322
@@ -99,17 +116,52 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 29, 2026, 7 AM CT.** About 96.1% of the vote is counted, replacing the earlier 92.9% figure. Seats are unchanged. This update adds the Shin Bet request on the fraud claims, an UNVERIFIED unity-deal briefing, Liberman's new refusals and the latest opposition talks. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 29, 2026, 9 AM CT.** About 97.3% of the vote is counted, replacing the earlier 96.1% figure. Likud is up a seat and Shas is down one, and the blocs are unchanged. The 9 AM update below adds the widening vote-buying probe, officials' pushback on fraud claims, Qatar's denial and new opposition talks. The 7 AM update added the Shin Bet request on the fraud claims, an UNVERIFIED unity-deal briefing, Liberman's new refusals and the latest opposition talks. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Partial results; no winner declared.** Counting is not finished, so **seats can still move**. No camp has a majority.
+
+## 9 AM CT update, Oct. 29
+
+### The count: Likud up a seat, blocs unchanged
+
+At about 97.3% counted, Likud gained a seat to 27 and Shas dropped to 6. The bloc balance is unchanged at 53-48-19 (via [Kan News on X](https://x.com/kann_news/status/2115796715194274060); [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115804621650161775)).
+
+### Vote-buying probe grows to seven arrests. These are allegations
+
+- **Arrests:** four more suspects were arrested, including three Bedouin school principals, in the alleged cash-for-Ra'am-votes case in the Negev. That brings the total to seven (via [Ynet on X](https://x.com/ynetnews/status/2115762924660601131)).
+- **Released:** Kan says this morning's four were later released to house arrest (via [Kan News on X](https://x.com/kann_news/status/2115802102740226229)).
+- **Likud's next step:** Likud is preparing to seek revotes at some Arab polling stations (via Ynet and Kan News on X).
+
+These are allegations, and the suspects have not been convicted.
+
+### Officials call the fraud claims baseless
+
+- **Elections committee:** the committee's director says the claims of widespread fraud appear baseless and the vote was lawful (via [Times of Israel on X](https://x.com/TimesofIsrael/status/2115785582198899195)).
+- **Police:** a senior police official called them "baseless spin" (via [Haaretz on X](https://x.com/haaretzcom/status/2115787028176511339)).
+
+### Qatar denies interfering
+
+Qatar "categorically" denies interfering and says it won't be a "scapegoat" for Israeli politicians (via [i24NEWS on X](https://x.com/i24NEWS_EN/status/2115787906119827698); [Ynet on X](https://x.com/ynetnews/status/2115800533743051023)). Kan reports that elections chief Justice Sohlberg met Eisenkot on Wednesday over the interference suspicions (via [Kan News on X](https://x.com/kann_news/status/2115792299968061782)).
+
+### Opposition talks
+
+Kan reports that Ra'am's Mansour Abbas met Democrats chair Yair Golan, and that Ra'am is willing to recommend Eisenkot (via [Kan News on X](https://x.com/kann_news/status/2115783837133451335)). Golan then met Yair Lapid to coordinate (via [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115804575206715832)).
+
+### Haredi protest on Highway 4
+
+Ultra-Orthodox protesters blocked Highway 4 near Bnei Brak over the arrest of a draft deserter, and police closed the road (via [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115806033519996936)).
+
+### UNVERIFIED: strike near Al-Maghazi in Gaza
+
+**IDF has not confirmed.** According to an X story summary, Palestinian outlets and witnesses say an Israeli strike on a car near the entrance to Al-Maghazi camp killed two people (via [X story summary](https://x.com/i/trending/2115777964608545249)). AFNS has not verified this.
 
 ## Update, Oct. 29: deadlock holds as the count nears its end
 
 ### The count
 
-- **Counted:** about 96.1% of the vote, including more than half of the roughly 400,000-500,000 double-envelope ballots. 233,815 of them have been counted so far (ynet; Globes; Israel National News).
-- **Blocs unchanged:** Netanyahu bloc 53, Eisenkot bloc 48, Arab-led parties a record 19. Likud has 26 seats and Eisenkot's Yashar 21.
-- **Still moving:** the Reservists list of Yoaz Hendel and Zelikha looks set to miss the electoral threshold, and Shas's 120th seat could still flip to Likud.
+- **Counted (7 AM CT):** about 96.1% of the vote, including more than half of the roughly 400,000-500,000 double-envelope ballots. 233,815 of them have been counted so far (ynet; Globes; Israel National News).
+- **Blocs unchanged:** Netanyahu bloc 53, Eisenkot bloc 48, Arab-led parties a record 19. At 96.1%, Likud had 26 seats and Eisenkot's Yashar 21; at 97.3%, Likud has 27 (Kan News and Jerusalem Post on X).
+- **Still moving:** the Reservists list of Yoaz Hendel and Zelikha looks set to miss the electoral threshold. At 97.3%, Likud gained a seat and Shas fell to 6 (Kan News and Jerusalem Post on X).
 - **Timing:** the count should finish Thursday afternoon or evening Israel time. Official results go to President Herzog next Wednesday.
 - **Why it matters:** on these numbers, neither side has a path to 61 without breaking a campaign promise.
 
@@ -178,14 +230,14 @@ Netanyahu's Likud party claims the Arab parties "stole" the election. It alleges
 
 ## Where the count stands
 
-With about 96.1% counted, including 233,815 double-envelope ballots so far, the partial results are (ynet; Globes):
+With about 97.3% counted, the partial results are (Kan News and Jerusalem Post on X; earlier figures from ynet and Globes):
 
 - **Netanyahu bloc:** 53 seats, eight short of the 61 needed for a majority
 - **Eisenkot bloc:** 48 seats
 - **Arab parties:** 19 seats, a record
-- **Largest parties:** Likud 26, Yashar 21
+- **Largest parties:** Likud 27, Yashar 21
 
-The seat totals are unchanged from the earlier partial counts, at 85% and 92.9%.
+The bloc totals are unchanged from the earlier partial counts, at 85%, 92.9% and 96.1%.
 
 **The trend:** overnight, at about 42% counted, Netanyahu's bloc was as high as 57 seats. It has slipped since, while Eisenkot's side and the Arab parties have gained.
 
