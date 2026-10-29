@@ -2,7 +2,7 @@
 title: "Report: U.S. Tells Gulf States to Prepare for Iran Campaign After Midterms as Regional Powers Talk in Tehran"
 desk: israel
 date: 2026-10-28
-summary: "Updated 9 PM CT Oct. 28: The Atlantic and The Hill report Defense Secretary Hegseth removed the Joint Staff's top military planner, which the Pentagon hasn't confirmed publicly, and Haaretz reports Iran is reviewing a new proposal to reopen the Strait of Hormuz. Earlier, Axios and the Jerusalem Post reported Vice President Vance's nuclear condition for talks, and a White House spokesperson said the U.S. \"will not be attacking Iran at any time prior to the midterm elections.\""
+summary: "Updated 11 PM CT Oct. 28: two diplomats briefed on the warnings told AP that U.S. officials advised several Middle East countries to prepare for renewed U.S. strikes on Iran after the Nov. 3 elections, and for Iranian retaliation. They stressed Trump hasn't made a final decision. Earlier: reports of a senior Pentagon planner's removal, Iran's review of a Strait of Hormuz proposal, and a White House pledge of no attack before the midterms."
 image: "img/stories/us-israel-signal-iran-campaign-after-midterms-tehran-talks.jpg"
 image_alt: "A U.S. Army Patriot missile launcher at sunrise during a 2022 exercise in Slovakia (file photo)"
 image_credit: "U.S. Army photo by 2nd Lt. Emily Park / Wikimedia Commons"
@@ -10,6 +10,8 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3ASun_rises_over_Patr
 image_license: "Public domain"
 status: "Reported; not confirmed"
 key_points:
+  - Update (11 PM CT) - two diplomats briefed on the warnings told AP the U.S. advised several Middle East countries to prepare for renewed strikes on Iran after Nov. 3, and for Iranian retaliation on energy sites and other infrastructure. This is anonymous sourcing, not an official announcement
+  - Update (11 PM CT) - the U.S. says strikes could last several days; regional officials expect a longer fight. The diplomats stress Trump hasn't made a final decision
   - Update (9 PM CT) - The Atlantic and The Hill report Hegseth removed Lt. Gen. Brett Sylvia, the Joint Staff's top military planner, with no explanation given. The Pentagon hasn't confirmed it publicly
   - Update (9 PM CT) - Haaretz reports Iran says it is reviewing a new proposal to reopen the Strait of Hormuz
   - Update (9 PM CT) - The Jerusalem Post also reports Vance's condition that any talks must deal with the nuclear issue
@@ -24,6 +26,8 @@ key_points:
   - Saudi, Pakistani and Turkish officials met Iran's leadership in Tehran and agreed to keep talking
   - Why it matters for Americans: U.S. forces, U.S. energy prices and the post-midterm agenda are all in play
 sources:
+  - AP: U.S. warns allies to prepare for possible Iran strikes after the elections | https://apnews.com/article/trump-iran-strikes-midterm-elections-c7df622f1e87de6035173be8fb8c4add
+  - The Hill (AP copy) | https://thehill.com/homenews/ap/ap-international/ap-us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say-2/
   - Clash Report on X: Sylvia removal (The Atlantic, The Hill) | https://x.com/clashreport/status/2115613190713192459
   - Osint613 on X: Sylvia removal | https://x.com/Osint613/status/2115618060878975378
   - Haaretz on X: Iran reviewing Hormuz proposal | https://x.com/haaretzcom/status/2115620921406857416
@@ -46,9 +50,21 @@ sources:
   - Al-Monitor: Iran holds "very good talks" | https://www.al-monitor.com/originals/2026/10/iran-holds-very-good-talks-mecca-pact-nations-regions-security
 ---
 
-**Updated Oct. 28, 2026, 9 PM CT.** This article adds reports of a senior Pentagon planner's removal, Iran's review of a Strait of Hormuz proposal and a second outlet's report of Vance's nuclear condition. First published Oct. 28.
+**Updated Oct. 28, 2026, 11 PM CT.** This article adds AP's report, based on two diplomats, that the U.S. has told Middle East countries to prepare for possible strikes after the elections. First published Oct. 28.
 
-**Status: Reported; not confirmed.** The planning described below comes from a Wall Street Journal report, as relayed by Anadolu. It has not been officially confirmed. The diplomatic meetings in Tehran were reported by Al Jazeera, AP and Al-Monitor.
+**Status: Reported; not confirmed.** The planning described below comes from a Wall Street Journal report, as relayed by Anadolu. AP has since reported similar warnings, citing two diplomats briefed on them. None of it has been officially announced. The diplomatic meetings in Tehran were reported by Al Jazeera, AP and Al-Monitor.
+
+## Update, 11 PM CT: AP says the U.S. told allies to prepare
+
+**Anonymous sourcing, not an official announcement.** AP's report is based on two diplomats briefed on the warnings.
+
+- **The warning:** U.S. officials have advised several Middle East countries to prepare for renewed U.S. military action against Iran after the Nov. 3 elections. They also told them to prepare for Iranian retaliation against energy sites and other key infrastructure (AP; The Hill's AP copy).
+- **How long:** the U.S. says the strikes could last several days. Regional officials expect a longer fight once Iran and its proxies respond.
+- **No decision yet:** the diplomats stressed that Trump hasn't made a final decision.
+- **Iran:** Foreign Minister Abbas Araghchi says Tehran "continues to give diplomacy a chance" through mediators.
+- **UAE:** the United Arab Emirates is urging both sides to seek a political solution.
+
+AP's report follows the earlier Axios and Wall Street Journal reports below.
 
 ## Update, 9 PM CT: a Pentagon planner removed, and a Hormuz proposal
 
