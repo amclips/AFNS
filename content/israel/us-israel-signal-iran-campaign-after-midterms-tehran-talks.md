@@ -2,7 +2,7 @@
 title: "Report: U.S. Tells Gulf States to Prepare for Iran Campaign After Midterms as Regional Powers Talk in Tehran"
 desk: israel
 date: 2026-10-28
-summary: "Updated 11 PM CT Oct. 28: two diplomats briefed on the warnings told AP that U.S. officials advised several Middle East countries to prepare for renewed U.S. strikes on Iran after the Nov. 3 elections, and for Iranian retaliation. They stressed Trump hasn't made a final decision. Earlier: reports of a senior Pentagon planner's removal, Iran's review of a Strait of Hormuz proposal, and a White House pledge of no attack before the midterms."
+summary: "Updated Oct. 29: Qatar, backed by regional powers, is pushing a seven-day plan to let UN inspectors back in for some sanctions relief; a senior Iranian official called it \"unacceptable.\" Trump says \"anything is possible\" and hasn't made a final decision. Earlier, 11 PM CT Oct. 28: two diplomats briefed on the warnings told AP that U.S. officials advised several Middle East countries to prepare for renewed U.S. strikes on Iran after the Nov. 3 elections, and for Iranian retaliation. They stressed Trump hasn't made a final decision. Earlier: reports of a senior Pentagon planner's removal, Iran's review of a Strait of Hormuz proposal, and a White House pledge of no attack before the midterms."
 image: "img/stories/us-israel-signal-iran-campaign-after-midterms-tehran-talks.jpg"
 image_alt: "A U.S. Army Patriot missile launcher at sunrise during a 2022 exercise in Slovakia (file photo)"
 image_credit: "U.S. Army photo by 2nd Lt. Emily Park / Wikimedia Commons"
@@ -10,6 +10,10 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3ASun_rises_over_Patr
 image_license: "Public domain"
 status: "Reported; not confirmed"
 key_points:
+  - Update (Oct. 29) - Qatar, backed by Saudi Arabia, Pakistan, Egypt and Turkey, is pushing a seven-day plan to let UN inspectors into bombed nuclear sites for some sanctions relief. A senior Iranian official called it "unacceptable"; Araghchi says Tehran is still talking to mediators
+  - Update (Oct. 29) - Trump said "anything is possible" and hasn't made a final decision. Iran's reply to Qatar is expected by Saturday
+  - Update (Oct. 29) - Trump says Vance's letter to Rezaei was about medical supplies; the WSJ says its purpose was to revive talks
+  - Update (Oct. 29) - a UK maritime advisory says U.S. forces may question, board or search neutral ships near Hormuz; the Pentagon puts the war's cost at $47.1 billion as of Oct. 16
   - Update (11 PM CT) - two diplomats briefed on the warnings told AP the U.S. advised several Middle East countries to prepare for renewed strikes on Iran after Nov. 3, and for Iranian retaliation on energy sites and other infrastructure. This is anonymous sourcing, not an official announcement
   - Update (11 PM CT) - the U.S. says strikes could last several days; regional officials expect a longer fight. The diplomats stress Trump hasn't made a final decision
   - Update (9 PM CT) - The Atlantic and The Hill report Hegseth removed Lt. Gen. Brett Sylvia, the Joint Staff's top military planner, with no explanation given. The Pentagon hasn't confirmed it publicly
@@ -26,6 +30,12 @@ key_points:
   - Saudi, Pakistani and Turkish officials met Iran's leadership in Tehran and agreed to keep talking
   - Why it matters for Americans: U.S. forces, U.S. energy prices and the post-midterm agenda are all in play
 sources:
+  - CBS News live: Qatar mediators' new proposal | https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/
+  - Axios: Arab mediators and the war after the midterms | https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms
+  - Iran International: reaction to the plan | https://www.iranintl.com/en/202610282816
+  - Iran International liveblog: Vance letter | https://www.iranintl.com/en/liveblog/202610244311
+  - AP: Mideast latest (Vance letter) | https://apnews.com/article/mideast-iran-israel-elections-netanyahu-october-282026-c11dac838a072af25ba8d0eb81d01035
+  - Gulf News: blockade advisory and war cost | https://gulfnews.com/uae/middle-east-war-10-things-uae-residents-need-to-know-today-october-28-1.500727139
   - AP: U.S. warns allies to prepare for possible Iran strikes after the elections | https://apnews.com/article/trump-iran-strikes-midterm-elections-c7df622f1e87de6035173be8fb8c4add
   - The Hill (AP copy) | https://thehill.com/homenews/ap/ap-international/ap-us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say-2/
   - Clash Report on X: Sylvia removal (The Atlantic, The Hill) | https://x.com/clashreport/status/2115613190713192459
@@ -50,9 +60,19 @@ sources:
   - Al-Monitor: Iran holds "very good talks" | https://www.al-monitor.com/originals/2026/10/iran-holds-very-good-talks-mecca-pact-nations-regions-security
 ---
 
-**Updated Oct. 28, 2026, 11 PM CT.** This article adds AP's report, based on two diplomats, that the U.S. has told Middle East countries to prepare for possible strikes after the elections. First published Oct. 28.
+**Updated Oct. 29, 2026, 7 AM CT.** This article adds the Qatar-led seven-day plan and Iran's response, Trump's latest comments, the dispute over the Vance letter's purpose, a blockade boarding advisory and the Pentagon's cost figure. First published Oct. 28.
 
 **Status: Reported; not confirmed.** The planning described below comes from a Wall Street Journal report, as relayed by Anadolu. AP has since reported similar warnings, citing two diplomats briefed on them. None of it has been officially announced. The diplomatic meetings in Tehran were reported by Al Jazeera, AP and Al-Monitor.
+
+## Update, Oct. 29: a Qatari plan, Iran's rejection and no final decision
+
+- **The plan:** Qatar, backed by Saudi Arabia, Pakistan, Egypt and Turkey, is pushing a seven-day plan that would let UN inspectors into bombed nuclear sites in exchange for some sanctions relief ([CBS News](https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/); [Axios](https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms)). This is the plan that was UNCONFIRMED in posts trending on X on Oct. 28. Major outlets have now reported it.
+- **Iran's response:** a senior Iranian official called the plan "unacceptable." Foreign Minister Abbas Araghchi says Tehran is still talking to the mediators ([Iran International](https://www.iranintl.com/en/202610282816)).
+- **What's next:** Iran's reply to Qatar is expected by Saturday.
+- **Trump:** he said "anything is possible" and has not made a final decision (CBS News). Axios reports a possible week of heavy strikes on leadership, energy and nuclear targets if diplomacy fails.
+- **The Vance letter:** Trump says Vice President Vance's letter to Mohsen Rezaei was about medical supplies. The Wall Street Journal says its purpose was to revive talks (AP; Iran International).
+- **The blockade:** a UK maritime advisory says U.S. forces may question, board or search neutral ships moving between the Gulf of Oman and the Strait of Hormuz (Gulf News).
+- **The cost:** the Pentagon puts the war's cost at $47.1 billion as of Oct. 16 (Gulf News).
 
 ## Update, 11 PM CT: AP says the U.S. told allies to prepare
 

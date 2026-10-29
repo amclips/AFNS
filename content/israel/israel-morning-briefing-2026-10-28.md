@@ -2,7 +2,7 @@
 title: "Israel Morning Briefing: Wednesday, Oct. 28, 2026"
 desk: israel
 date: 2026-10-28
-summary: "Updated 7 PM CT: the IDF says it fired an interceptor at a suspected aerial target over southern Lebanon. Earlier: the IDF says it killed three Hamas commanders, and sea drones struck a Haifa-to-Romania container ship off Bulgaria. Earlier: IDF says six Hamas operatives were killed in Gaza strikes, and a wildfire in Ben Shemen Forest closed Routes 1, 6 and 444. Also: a UN inquiry accuses Israel of war crimes, which Israel and the U.S. reject, plus Israeli shelling in south Lebanon, Gaza's fourth winter in tents, memorial demolitions near Nablus, Arab turnout and Ben-Gvir's latest remarks. For the election count, see the updated results article."
+summary: "Updated Oct. 29: the Contship Jet sank after the drone attack off Bulgaria; all 18 crew were rescued, the drones' origin is unknown, and there is no evidence Israel was the target. Earlier, 7 PM CT: the IDF says it fired an interceptor at a suspected aerial target over southern Lebanon. Earlier: the IDF says it killed three Hamas commanders, and sea drones struck a Haifa-to-Romania container ship off Bulgaria. Earlier: IDF says six Hamas operatives were killed in Gaza strikes, and a wildfire in Ben Shemen Forest closed Routes 1, 6 and 444. Also: a UN inquiry accuses Israel of war crimes, which Israel and the U.S. reject, plus Israeli shelling in south Lebanon, Gaza's fourth winter in tents, memorial demolitions near Nablus, Arab turnout and Ben-Gvir's latest remarks. For the election count, see the updated results article."
 image: "img/stories/israel-morning-briefing-2026-10-28.jpg"
 image_alt: "The Palais des Nations, the United Nations Office at Geneva"
 image_credit: "Vassil / Wikimedia Commons"
@@ -12,7 +12,8 @@ status: "Daily briefing"
 key_points:
   - Lebanon (7 PM CT) - the IDF says it fired an interceptor at a suspected aerial target over southern Lebanon
   - IDF (1 PM CT) - the IDF says it killed three Hamas commanders in Gaza
-  - Black Sea - container ship CONTSHIP JET, sailing from Haifa, was hit by sea drones off Bulgaria; all 18 crew rescued (X news summary)
+  - Black Sea (updated Oct. 29) - the CONTSHIP JET, sailing from Haifa to Romania, sank after a sea-drone attack off Bulgaria; all 18 crew rescued. The drones' origin is unknown, and there is no evidence Israel was the target (AP)
+  - UNCONFIRMED ATTRIBUTION - ISW says the drones were possibly Russian; nobody has confirmed who launched them
   - Gaza strikes - the IDF says six Hamas operatives were killed, including Ahmed Baraka, whom it links to the abduction of Alex Dancyg
   - Wildfire - a large fire in Ben Shemen Forest closed Routes 1, 6 and 444 in central Israel
   - Election - counting continues, see the updated results article for the latest official figures
@@ -21,6 +22,10 @@ key_points:
   - Gaza - the UN says about 950,000 displaced people live in flood-risk sites as winter begins
   - West Bank, Arab turnout, Ben-Gvir - from X news summaries, not independently verified
 sources:
+  - AP: drone attack on a container ship off Bulgaria | https://apnews.com/article/bulgaria-drone-attack-container-ship-black-sea-2bfd978d36fbb958781cf2721cabcf5c
+  - Ynetnews: Contship Jet | https://www.ynetnews.com/article/6d2fsepho
+  - ISW: Russian offensive campaign assessment, Oct. 28 | https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-28-2026/
+  - Channel 14 English (c14english) on X: early claims | https://x.com/c14english/status/2115771684099592438
   - Osint613 on X: IDF interceptor over southern Lebanon | https://x.com/Osint613/status/2115546174350393846
   - IDF on X: three Hamas commanders | https://x.com/IDF/status/2115417255135641904
   - X trending summary: CONTSHIP JET | https://x.com/i/trending/2115419415756128743
@@ -37,6 +42,15 @@ sources:
 
 **Status: Daily briefing.** Each item names its source. Items marked **"Based on an X news summary; not independently verified"** come from X's trending summaries. AFNS has not confirmed them with a primary source.
 
+## Update, Oct. 29: Contship Jet sinks off Bulgaria
+
+- **The ship:** the Greek-managed, Liberian-flagged container ship Contship Jet, chartered by ZIM, was sailing from Haifa to Constanța, Romania (AP; Ynetnews).
+- **The attack:** three maritime drones hit it about 21 nautical miles off Bulgaria on Wednesday. It sank overnight.
+- **The crew:** all 18 crew were rescued.
+- **Who launched the drones:** Bulgaria says the drones' origin is not yet known. AP says it was the fifth drone attack in Bulgaria's waters this month, against the backdrop of the Russia-Ukraine war.
+- **UNCONFIRMED ATTRIBUTION:** the Institute for the Study of War says the drones were possibly Russian. Nobody has confirmed who launched them (ISW).
+- **No evidence Israel was the target:** the ship had sailed from Haifa, but there is no evidence so far that Israel was the target. Early posts on X claiming that "Reuters and AP confirm" an Israeli ship was hit overstated what those outlets reported.
+
 ## Update, 7 PM CT
 
 **Lebanon (IDF statement).** The IDF says it fired an interceptor at a suspected aerial target over southern Lebanon, where its forces operate. No further details were given (via Osint613 on X).
@@ -45,7 +59,7 @@ sources:
 
 **IDF says it killed three Hamas commanders (IDF statements).** The IDF says it killed three Hamas commanders in Gaza. It says one was a Nukhba commander who broke into the Sufa outpost, and another led a company that crossed into Israel on October 7. The IDF says they had been planning new attacks (IDF on X). AFNS has not independently verified the IDF's account.
 
-**Ship from Haifa hit off Bulgaria (based on an X news summary; not independently verified).** According to the summary, sea drones struck the Liberian-flagged container ship CONTSHIP JET in Bulgarian waters. It was sailing from Haifa to Constanta, Romania. All 18 crew were rescued. No attacker has been named, and the summary says the attack appears tied to the string of Black Sea ship attacks rather than to Israel itself.
+**Ship from Haifa hit off Bulgaria (based on an X news summary; see the Oct. 29 update above).** According to the summary, sea drones struck the Liberian-flagged container ship CONTSHIP JET in Bulgarian waters. It was sailing from Haifa to Constanta, Romania. All 18 crew were rescued. No attacker has been named, and the summary says the attack appears tied to the string of Black Sea ship attacks rather than to Israel itself.
 
 ## Update, 9 AM CT
 

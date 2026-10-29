@@ -1,8 +1,8 @@
 ---
-title: "Israel Election: Soldier and Absentee Ballot Count Underway as Coalition Maneuvering Continues"
+title: "Israel Election: Deadlock Holds as Count Nears End and Fraud Claims Go to Shin Bet"
 desk: israel
 date: 2026-10-28
-summary: "Counting of the remaining double-envelope ballots from soldiers, diplomats and other absentee voters is underway, and Kan says it should finish by Thursday evening Israel time. Seats are unchanged at 53-48-19. Channel 12 reports Avigdor Liberman has largely stopped talking to opposition partners. Israel Police say no evidence supports Likud's claim that Arab parties stole the election."
+summary: "Updated Oct. 29: with about 96.1% counted, including 233,815 double-envelope ballots so far, seats are unchanged at 53-48-19 and the count should finish Thursday afternoon or evening Israel time. The elections committee asked the Shin Bet to look into foreign-interference claims, which are unproven; police say there is no evidence of fraud. A unity deal floated by Netanyahu's camp is UNVERIFIED, and Liberman ruled out more partners."
 image: "img/stories/israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory.jpg"
 image_alt: "Ballot slips for each party list laid out in a voting booth at an Israeli polling station, Oct. 27, 2026"
 image_credit: "Nizzan Cohen / Wikimedia Commons"
@@ -12,10 +12,16 @@ status: "Partial results; no winner declared"
 featured: true
 desk_lead: true
 key_points:
+  - Count (Oct. 29) - about 96.1% counted, including 233,815 double-envelope ballots so far; blocs unchanged at 53-48-19, Likud 26, Yashar 21 (ynet; Globes)
+  - Thresholds - the Reservists list looks set to miss the threshold, and Shas's 120th seat could still flip to Likud. The count should finish Thursday afternoon or evening Israel time
+  - UNPROVEN - the elections committee asked the Shin Bet to look into foreign-interference claims; Shin Bet chief David Zini briefed Netanyahu and Eisenkot. Police say there is no evidence of fraud
+  - Herzog said the claims must be investigated but warned against "tarnishing an entire community"; Eisenkot accused Netanyahu of an "influence operation"
+  - UNVERIFIED - people close to Netanyahu are briefing reporters on a unity deal with Eisenkot. Herzog's office called a Channel 14 rotation-and-pardon report "a complete lie"
+  - Liberman says he won't sit with Netanyahu, Tibi, Hujirat, Deri or Goldknopf; ANALYSIS - Amichai Stein reads that as pointing toward new elections
+  - Opposition talks - Golan meets Eisenkot and Lapid; Ra'am's Mansour Abbas says he would join an Eisenkot government
   - AFP reports Herzog hopes to avoid a second election, and that protesters near the PM's residence in Jerusalem called for an end to the Gaza war
   - Joint List offer - ynet reports the Joint List is offering to back Eisenkot from outside a coalition. Eisenkot's bloc hasn't answered
   - Police - Israel Police say no investigative or intelligence evidence supports Likud's fraud claim (via i24NEWS on X)
-  - Count - the double-envelope count is underway and should finish by Thursday evening Israel time (Kan)
   - Liberman - Channel 12 reports he has largely stopped talking to opposition partners (via Times of Israel on X)
   - Coalition talks - Netanyahu met Smotrich and Ben-Gvir first, with Haredi leaders next (ynet). Eisenkot says "we will succeed"
   - ANALYSIS - Amichai Stein relays an assessment that Herzog may give Eisenkot the first try if the Arab parties back him. It is not a decision
@@ -23,16 +29,29 @@ key_points:
   - Coalition scramble - ynet reports Likud is reaching out to Bennett and Liberman; Haaretz analysts say another election looks likely
   - UNPROVEN - Likud claims Arab parties "stole" the election. The elections committee is reviewing the claims and has not backed them, and Likud has shown no proof publicly
   - Trump, in comments reported from an Axios interview, said Netanyahu is "in pretty good shape"
-  - Status - partial results, 92.9% of ballot boxes counted (Central Elections Committee via the Times of Israel). Seats can still move
   - Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19; Likud 26, Yashar 21
-  - The committee estimates 430,000-480,000 double-envelope ballots remain, worth roughly 12 seats. Official results are due Nov. 4
+  - Official results go to Herzog next Wednesday, Nov. 4. Seats can still move until then
   - Netanyahu's bloc was as high as 57 overnight at about 42% counted and has slipped since
   - Herzog urged parties to avoid a repeat election; he expects official results next week, with consultations after
   - The opposition is moving to replace Likud's Amir Ohana as Knesset speaker (Channel 12 via the Times of Israel)
-  - The shekel weakened and the Tel Aviv stock exchange slumped
+  - The shekel fell more than 2% on Wednesday, its worst day since October 2023, and the Tel Aviv benchmark dropped 2.5% (Guardian)
   - Defense Minister Katz called Eisenkot's election-night appeal to security chiefs undemocratic
   - The EU congratulated Israel, citing nearly 78% turnout as a sign of a "vibrant democracy"
 sources:
+  - ynet live (Hebrew): the count | https://www.ynet.co.il/news/blogs/article/sj60fvepze
+  - Globes live (Hebrew): the count | https://www.globes.co.il/news/article.aspx?did=1001561230
+  - Israel National News: the count | https://www.israelnationalnews.com/news/435322
+  - Guardian live, Oct. 29: Shin Bet request, Herzog, Ben-Gvir, Smotrich, markets, opposition talks | https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news
+  - i24NEWS on X: Zini briefings, unnamed sources | https://x.com/i24NEWS_EN/status/2115769249234846149
+  - Jerusalem Post on X: suspicions of foreign funding | https://x.com/Jerusalem_Post/status/2115758064930275687
+  - Barak Ravid on X: when the probe began | https://x.com/BarakRavid/status/2115757120339800282
+  - Barak Ravid on X: Eisenkot on an "influence operation" | https://x.com/BarakRavid/status/2115753336544608600
+  - AFP on X: Netanyahu's bloc presses Arab leaders | https://x.com/AFP/status/2115758046441803789
+  - Jerusalem Post: unity deal floated (Maariv) | https://www.jpost.com/israel-election-2026/article-913185
+  - Israel National News: unity deal | https://www.israelnationalnews.com/news/435332
+  - Anadolu: Channel 14 power-sharing report | https://www.aa.com.tr/en/middle-east/israeli-channel-reports-proposed-netanyahu-eisenkot-power-sharing-deal/4104412
+  - Times of Israel: Netanyahu vows to stick with partners | https://www.timesofisrael.com/netanyahu-vows-to-stick-with-far-right-partners-as-eisenkot-seeks-path-to-bring-change/
+  - Amichai Stein on X: Liberman's refusals (analysis) | https://x.com/AmichaiStein1/status/2115758328366121179
   - AFP on X: Herzog and Jerusalem protest | https://x.com/AFP/status/2115626295656579577
   - Ynetnews on X: Joint List offers outside support | https://x.com/ynetnews/status/2115600223988842688
   - Haaretz on X: rallies in Tel Aviv, Jerusalem and Haifa | https://x.com/haaretzcom/status/2115613377821053397
@@ -80,9 +99,51 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 28, 2026, 11 PM CT.** The seat count is unchanged, at 92.9% of ballot boxes, and the double-envelope count is underway. This update adds AFP's report on Herzog and a protest in Jerusalem. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 29, 2026, 7 AM CT.** About 96.1% of the vote is counted, replacing the earlier 92.9% figure. Seats are unchanged. This update adds the Shin Bet request on the fraud claims, an UNVERIFIED unity-deal briefing, Liberman's new refusals and the latest opposition talks. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Partial results; no winner declared.** Counting is not finished, so **seats can still move**. No camp has a majority.
+
+## Update, Oct. 29: deadlock holds as the count nears its end
+
+### The count
+
+- **Counted:** about 96.1% of the vote, including more than half of the roughly 400,000-500,000 double-envelope ballots. 233,815 of them have been counted so far (ynet; Globes; Israel National News).
+- **Blocs unchanged:** Netanyahu bloc 53, Eisenkot bloc 48, Arab-led parties a record 19. Likud has 26 seats and Eisenkot's Yashar 21.
+- **Still moving:** the Reservists list of Yoaz Hendel and Zelikha looks set to miss the electoral threshold, and Shas's 120th seat could still flip to Likud.
+- **Timing:** the count should finish Thursday afternoon or evening Israel time. Official results go to President Herzog next Wednesday.
+- **Why it matters:** on these numbers, neither side has a path to 61 without breaking a campaign promise.
+
+### Fraud claims go to the Shin Bet. They are unproven
+
+**These claims are unproven.** Police and a committee official say there is no evidence of fraud (Guardian live).
+
+- **The request:** the Central Elections Committee asked the Shin Bet to look into foreign-interference claims, which allege Qatari money was used to mobilize Arab voters. The committee wants findings within a week, ahead of the Nov. 4 certification deadline (AP via the Guardian).
+- **The briefings:** Shin Bet chief David Zini briefed Netanyahu and Eisenkot separately (via i24NEWS on X). The Jerusalem Post reports the suspicions involve foreign entities, possibly Qatar and Turkey, funding Arab turnout (via Jerusalem Post on X). Barak Ravid reports the probe began days ago, based on pre-election intelligence (via Barak Ravid on X).
+- **Unnamed sources:** unnamed sources told i24NEWS the affair is smaller than it looks. That is anonymous sourcing.
+- **Ben-Gvir** called for the arrest of Arab party leaders. **Smotrich** said they should be questioned by the Shin Bet (Guardian live). AFP reports Netanyahu's bloc is pressing Arab leaders over the funding claims (via AFP on X).
+- **Herzog** said the claims must be investigated, but warned against "tarnishing an entire community" (Guardian live).
+- **Eisenkot** said the new Knesset must be sworn in on time. He accused Netanyahu of an "influence operation" to delay the results using claims that haven't been investigated (via Barak Ravid on X).
+- **Yair Golan** called it a "delegitimisation campaign" (Guardian live).
+
+### UNVERIFIED: a unity deal floated by Netanyahu's camp
+
+**This comes from anonymous briefings. No talks have been confirmed.**
+
+- **The briefing:** people close to Netanyahu are briefing reporters on a national unity government with Eisenkot, first reported by Maariv. Under the idea, Netanyahu would serve about two years and then rotate out, or Eisenkot would get a senior ministry instead. Haredi parties might be left out at first (Jerusalem Post; Israel National News). Eisenkot hasn't shown any willingness.
+- **Channel 14:** Channel 14 separately reported that Herzog was brokering a rotation-plus-pardon deal (Anadolu). Herzog's office called that "a complete lie."
+- **In public:** Netanyahu told Ben-Gvir and Smotrich, "we are together and we are staying together" (Times of Israel).
+
+### Liberman rules out more partners
+
+Avigdor Liberman says he won't sit with Netanyahu, Ahmad Tibi, Hujirat, Aryeh Deri or Yitzhak Goldknopf, "not directly and not indirectly." The only coalition he would consider is an all-Zionist one, including a Likud without Netanyahu (via Amichai Stein on X).
+
+**ANALYSIS:** Amichai Stein reads this as ruling out outside Arab support for an Eisenkot government, which in effect points toward new elections. That is his reading, not a decision.
+
+### Opposition talks
+
+- **Golan** meets Eisenkot and Lapid on Thursday (Guardian live).
+- **Joint List:** it won't join a government, but could back an Eisenkot minority government from outside.
+- **Ra'am:** Mansour Abbas says he would join one.
 
 ## Coalition scramble and talk of a repeat election
 
@@ -105,6 +166,8 @@ In his first remarks since election night, Eisenkot said his bloc is focused on 
 
 ## Likud alleges fraud. Police say no evidence supports it
 
+For the Oct. 29 Shin Bet request, see the update above.
+
 **These are unproven allegations.** Israel Police say no investigative or intelligence evidence supports Likud's claim that the Arab parties stole the election (via i24NEWS on X). No evidence has been made public, and no authority has found fraud. A Central Elections Committee official dismissed the fraud claims earlier on Channel 12 (Times of Israel).
 
 Netanyahu's Likud party claims the Arab parties "stole" the election. It alleges bribery, threats, violence, forgery and illegal voter-mobilization software (Times of Israel; Amit Segal on X).
@@ -115,21 +178,21 @@ Netanyahu's Likud party claims the Arab parties "stole" the election. It alleges
 
 ## Where the count stands
 
-With 92.9% of ballot boxes counted, the Central Elections Committee's partial results, as reported by the Times of Israel, are:
+With about 96.1% counted, including 233,815 double-envelope ballots so far, the partial results are (ynet; Globes):
 
 - **Netanyahu bloc:** 53 seats, eight short of the 61 needed for a majority
 - **Eisenkot bloc:** 48 seats
 - **Arab parties:** 19 seats, a record
 - **Largest parties:** Likud 26, Yashar 21
 
-The seat totals are unchanged from the earlier partial count.
+The seat totals are unchanged from the earlier partial counts, at 85% and 92.9%.
 
 **The trend:** overnight, at about 42% counted, Netanyahu's bloc was as high as 57 seats. It has slipped since, while Eisenkot's side and the Arab parties have gained.
 
 ## What's left to count, and when
 
-- **Double-envelope ballots:** the Central Elections Committee's official estimate is that 430,000-480,000 remain, fewer than first reported. They come from soldiers, police, diplomats and others, and are worth roughly 12 seats (Times of Israel).
-- **Now underway:** counting of these ballots has begun. Kan says it is expected to finish by Thursday evening Israel time (via Kan News on X).
+- **Double-envelope ballots:** these come from soldiers, police, diplomats and others. On Oct. 28, the Central Elections Committee estimated 430,000-480,000 of them, worth roughly 12 seats (Times of Israel). As of Oct. 29, 233,815 have been counted, more than half of the total (ynet; Globes).
+- **Finish:** the count should finish Thursday afternoon or evening Israel time.
 - **One reporter's estimate:** an i24NEWS correspondent estimates the ballots could shift the results by up to 10 seats. That is one reporter's estimate, not an official figure.
 - **Official results:** due Nov. 4. President Isaac Herzog said he expects them next week.
 - **Coalition talks:** AP says weeks of talks could lie ahead.
@@ -179,7 +242,7 @@ A viral clip that claims to show Netanyahu being attacked in Tel Aviv is 2013 fo
 
 ## Markets react
 
-The shekel weakened and the Tel Aviv stock exchange slumped (Times of Israel).
+The shekel weakened and the Tel Aviv stock exchange slumped (Times of Israel). On Wednesday, the shekel fell more than 2%, its worst day since October 2023, and the Tel Aviv benchmark dropped 2.5% (Guardian live).
 
 ## Both leaders claim the mandate
 
