@@ -2,7 +2,7 @@
 title: "Report: U.S. Tells Gulf States to Prepare for Iran Campaign After Midterms as Regional Powers Talk in Tehran"
 desk: israel
 date: 2026-10-28
-summary: "Updated 3 PM CT Oct. 28: Axios reports the U.S. and Israel are preparing for a possible week-long bombing campaign against Iran after the midterms, while Qatar-led mediators try to restart U.S.-Iran talks. Earlier, the Wall Street Journal reported, via Anadolu, that the U.S. told Gulf states to prepare for a \"short, intense military campaign.\" Regional powers met in Tehran and agreed to keep talking."
+summary: "Updated 7 PM CT Oct. 28: Axios reports that Vice President Vance sent a letter to Iran's Mohsen Rezaei saying any talks must cover the nuclear issue. A White House spokesperson told the Jerusalem Post the U.S. \"will not be attacking Iran at any time prior to the midterm elections.\" Earlier, the Wall Street Journal reported, via Anadolu, that the U.S. told Gulf states to prepare for a \"short, intense military campaign\" after the midterms."
 image: "img/stories/us-israel-signal-iran-campaign-after-midterms-tehran-talks.jpg"
 image_alt: "A U.S. Army Patriot missile launcher at sunrise during a 2022 exercise in Slovakia (file photo)"
 image_credit: "U.S. Army photo by 2nd Lt. Emily Park / Wikimedia Commons"
@@ -10,6 +10,8 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3ASun_rises_over_Patr
 image_license: "Public domain"
 status: "Reported; not confirmed"
 key_points:
+  - Update (7 PM CT) - Axios, citing a U.S. official, reports Vance wrote to Iran's Mohsen Rezaei that any talks must cover the nuclear issue; Trump said he didn't direct peace talks
+  - Update (7 PM CT) - White House spokesperson Anna Kelly told the Jerusalem Post the U.S. "will not be attacking Iran at any time prior to the midterm elections"; the blockade stays in force
   - Update (3 PM CT) - Axios reports the U.S. and Israel are preparing for a possible week-long post-midterm bombing campaign aimed at Iran's leadership, energy and nuclear sites; IDF chief Zamir met CENTCOM about it
   - Update (3 PM CT) - Barak Ravid reports Qatar-led mediators are trying to restart U.S.-Iran talks; i24NEWS says Qatar expects Tehran's answer, possibly tomorrow, on letting UN inspectors back in for sanctions relief
   - The WSJ reports, via Anadolu, that the U.S. told Gulf states to prepare for a "short, intense military campaign" against Iran after Nov. 3
@@ -19,6 +21,12 @@ key_points:
   - Saudi, Pakistani and Turkish officials met Iran's leadership in Tehran and agreed to keep talking
   - Why it matters for Americans: U.S. forces, U.S. energy prices and the post-midterm agenda are all in play
 sources:
+  - Barak Ravid on X: Vance letter to Rezaei (Axios) | https://x.com/BarakRavid/status/2115588055021035522
+  - Barak Ravid on X: Trump on the outreach | https://x.com/BarakRavid/status/2115589179174236392
+  - Osint613 on X: Vance letter | https://x.com/Osint613/status/2115581521671434509
+  - Barak Ravid on X: Saudi message to the White House | https://x.com/BarakRavid/status/2115582188116914482
+  - Amichai Stein on X: White House to the Jerusalem Post | https://x.com/AmichaiStein1/status/2115584462352163308
+  - Osint613 on X: AP on regional preparations | https://x.com/Osint613/status/2115581083270209852
   - Axios on X: possible week-long campaign, Zamir-CENTCOM meeting | https://x.com/axios/status/2115506529625399807
   - Barak Ravid on X: Qatar-led mediation | https://x.com/BarakRavid/status/2115511603898757153
   - i24NEWS on X: Qatar awaits Tehran's answer | https://x.com/i24NEWS_EN/status/2115526730869805100
@@ -31,9 +39,17 @@ sources:
   - Al-Monitor: Iran holds "very good talks" | https://www.al-monitor.com/originals/2026/10/iran-holds-very-good-talks-mecca-pact-nations-regions-security
 ---
 
-**Updated Oct. 28, 2026, 3 PM CT.** This article adds new reporting on strike planning and diplomacy. First published Oct. 28.
+**Updated Oct. 28, 2026, 7 PM CT.** This article adds new reporting on U.S. outreach to Iran, the White House's statement on timing and regional preparations. First published Oct. 28.
 
 **Status: Reported; not confirmed.** The planning described below comes from a Wall Street Journal report, as relayed by Anadolu. It has not been officially confirmed. The diplomatic meetings in Tehran were reported by Al Jazeera, AP and Al-Monitor.
+
+## Update, 7 PM CT: a letter to Tehran and a White House timing pledge
+
+- **Vance letter (not officially confirmed):** Axios, citing a U.S. official, reports that Vice President JD Vance sent a letter to Iran's national security chief, Mohsen Rezaei. Axios calls it the most senior U.S. outreach to Iran in months. The letter reportedly says any talks to head off U.S. strikes must cover the nuclear issue (via Barak Ravid and Osint613 on X).
+- **Trump:** asked whether he directed Vance to open peace talks, Trump said no and described the outreach as getting medical supplies into Iran (via Barak Ravid on X).
+- **Saudi message (not officially confirmed):** after visiting Tehran, Saudi officials told the White House that Iran is worried about a U.S.-Israeli bombing campaign after the midterms, and asked Trump not to rush into war, according to a U.S. official (via Barak Ravid on X).
+- **White House on timing:** spokesperson Anna Kelly told the Jerusalem Post the U.S. "will not be attacking Iran at any time prior to the midterm elections." The blockade stays in force (via Amichai Stein on X).
+- **AP (as reported):** AP reports that regional governments are preparing for a U.S. campaign lasting several days (as relayed by Osint613 on X).
 
 ## Update, 3 PM CT: strike planning and diplomacy at once
 

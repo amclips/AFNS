@@ -1,8 +1,8 @@
 ---
-title: "Israel Election: Police Say No Evidence Supports Likud's Fraud Claim as Double-Envelope Count Set to Begin"
+title: "Israel Election: Soldier and Absentee Ballot Count Underway as Coalition Maneuvering Continues"
 desk: israel
 date: 2026-10-28
-summary: "Israel Police say no investigative or intelligence evidence supports Likud's claim that Arab parties stole the election (via i24NEWS). Counting of the remaining double-envelope ballots, which the elections committee estimates at 430,000-480,000, is set to begin at 1 AM Israel time (about 6 PM CT Oct. 28). Netanyahu has opened coalition talks with Smotrich and Ben-Gvir, and Eisenkot says \"we will succeed.\" Seats are unchanged at 53-48-19."
+summary: "Counting of the remaining double-envelope ballots from soldiers, diplomats and other absentee voters is underway, and Kan says it should finish by Thursday evening Israel time. Seats are unchanged at 53-48-19. Channel 12 reports Avigdor Liberman has largely stopped talking to opposition partners. Israel Police say no evidence supports Likud's claim that Arab parties stole the election."
 image: "img/stories/israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory.jpg"
 image_alt: "Ballot slips for each party list laid out in a voting booth at an Israeli polling station, Oct. 27, 2026"
 image_credit: "Nizzan Cohen / Wikimedia Commons"
@@ -13,7 +13,8 @@ featured: true
 desk_lead: true
 key_points:
   - Police - Israel Police say no investigative or intelligence evidence supports Likud's fraud claim (via i24NEWS on X)
-  - Count - double-envelope ballots are set to begin counting at 1 AM Israel time (about 6 PM CT Oct. 28), and the count should finish Thursday evening (elections committee via i24NEWS)
+  - Count - the double-envelope count is underway and should finish by Thursday evening Israel time (Kan)
+  - Liberman - Channel 12 reports he has largely stopped talking to opposition partners (via Times of Israel on X)
   - Coalition talks - Netanyahu met Smotrich and Ben-Gvir first, with Haredi leaders next (ynet). Eisenkot says "we will succeed"
   - ANALYSIS - Amichai Stein relays an assessment that Herzog may give Eisenkot the first try if the Arab parties back him. It is not a decision
   - Anonymous-source claim - an unnamed U.S. official told i24NEWS that Trump may invite Eisenkot and Netanyahu to Mar-a-Lago
@@ -30,6 +31,11 @@ key_points:
   - Defense Minister Katz called Eisenkot's election-night appeal to security chiefs undemocratic
   - The EU congratulated Israel, citing nearly 78% turnout as a sign of a "vibrant democracy"
 sources:
+  - Kan News on X: double-envelope count underway | https://x.com/kann_news/status/2115593153743131117
+  - Times of Israel on X: Liberman goes silent (Channel 12) | https://x.com/TimesofIsrael/status/2115550477672685886
+  - Israel News Pulse on X: Tibi's Al Mayadeen interview (secondary account) | https://x.com/israelnewspulse/status/2115550523944517814
+  - Times of Israel analysis: Arab parties as potential kingmakers | https://www.timesofisrael.com/arab-parties-emerge-as-potential-kingmakers-presenting-zionist-opposition-with-fateful-choice/
+  - X trending summary: viral Tel Aviv clip debunked | https://x.com/i/trending/2115567741251789239
   - Times of Israel: CEC estimates up to 480,000 ballots left, worth some 12 seats | https://www.timesofisrael.com/liveblog_entry/cec-estimates-up-to-480000-ballots-from-troops-police-diplomats-yet-to-be-counted-worth-some-12-knesset-seats/
   - Times of Israel: earlier partial count (Central Elections Committee) | https://www.timesofisrael.com/liveblog_entry/with-over-85-of-votes-counted-pro-netanyahu-bloc-gets-53-seats-eisenkot-led-bloc-at-48-and-arab-parties-have-19/
   - i24NEWS on X: police find no evidence of fraud | https://x.com/i24NEWS_EN/status/2115513363606466745
@@ -69,7 +75,7 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 28, 2026, 3 PM CT.** The seat count is unchanged, at 92.9% of ballot boxes. This update adds the police finding on Likud's fraud claim, the timing of the double-envelope count, Netanyahu's first coalition meetings, Eisenkot's first remarks since election night, analysis on who may get the first try at forming a government, a reported possible Trump invitation and rallies for a Jewish-Arab government. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 28, 2026, 7 PM CT.** The seat count is unchanged, at 92.9% of ballot boxes, and the double-envelope count is now underway. This update adds Liberman's reported silence, MK Ahmad Tibi's reported remarks, a Times of Israel analysis on the Arab parties, and a debunked viral video. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Partial results; no winner declared.** Counting is not finished, so **seats can still move**. No camp has a majority.
 
@@ -78,6 +84,7 @@ sources:
 - **Netanyahu's first meetings:** Netanyahu held his first post-election coalition meetings with Bezalel Smotrich and Itamar Ben-Gvir, with Haredi party leaders next (ynet via X).
 - **Speakership:** the opposition is preparing its bid to replace Knesset Speaker Amir Ohana (ynet; see below).
 - **Outreach:** ynet reports that senior Likud ministers are pushing for talks with Naftali Bennett and Avigdor Liberman, both former Netanyahu allies (via Ynetnews on X).
+- **Liberman goes silent:** Channel 12 reports that Avigdor Liberman, whose party is projected to win about 7 seats, has largely stopped talking to his opposition partners and is not taking calls from Eisenkot or Bennett (via Times of Israel on X). He still says he won't join a Netanyahu government or back a minority government that relies on Arab parties.
 - **Skipped calls:** ynet also reports that Netanyahu skipped his usual election-night calls to the leaders of his own bloc's parties.
 - **Repeat election:** Haaretz analysts now say another election looks likely (via Haaretz on X). President Herzog has urged the parties to avoid one (see below).
 - **Rallies:** Haaretz reports that hundreds demonstrated across Israel for a coalition that includes Arab parties (via Haaretz on X).
@@ -116,7 +123,7 @@ The seat totals are unchanged from the earlier partial count.
 ## What's left to count, and when
 
 - **Double-envelope ballots:** the Central Elections Committee's official estimate is that 430,000-480,000 remain, fewer than first reported. They come from soldiers, police, diplomats and others, and are worth roughly 12 seats (Times of Israel).
-- **When:** the committee says counting of these ballots is set to begin at 1 AM Israel time, about 6 PM CT on Oct. 28. It should finish Thursday evening Israel time (via i24NEWS on X).
+- **Now underway:** counting of these ballots has begun. Kan says it is expected to finish by Thursday evening Israel time (via Kan News on X).
 - **One reporter's estimate:** an i24NEWS correspondent estimates the ballots could shift the results by up to 10 seats. That is one reporter's estimate, not an official figure.
 - **Official results:** due Nov. 4. President Isaac Herzog said he expects them next week.
 - **Coalition talks:** AP says weeks of talks could lie ahead.
@@ -146,11 +153,19 @@ Without Arab party support, the anti-Netanyahu bloc can't reach 61 on the curren
 
 **Netanyahu vs. MK Osama Saadi.** In a victory speech, Joint List MK Osama Saadi dedicated the Arab parties' gains to Palestinians in Gaza, the West Bank and Jerusalem, and called the government fascist. **UNVERIFIED (based on an X trending summary):** according to the summary, Netanyahu accused Saadi of praising terrorists and warned against any coalition relying on Arab parties. AFNS has not found Netanyahu's own words.
 
+**Tibi (secondary account; treat with caution):** according to a secondary account summarizing his interview with Lebanon's Al Mayadeen, Joint List MK Ahmad Tibi urged Eisenkot to form a minority government backed by the Arab parties. The account says Tibi expects Herzog to give Eisenkot the first chance, and that a senior opposition figure contacted him about replacing Knesset Speaker Ohana (via Israel News Pulse on X). AFNS has not reviewed the interview.
+
+For background, see the Times of Israel's analysis on [the Arab parties as potential kingmakers](https://www.timesofisrael.com/arab-parties-emerge-as-potential-kingmakers-presenting-zionist-opposition-with-fateful-choice/).
+
 **UNCONFIRMED (based on an X trending summary; not independently confirmed):** according to the summary, Ra'am leader Mansour Abbas would not call Hamas terrorists in a live interview. It says he accepted the first three of Eisenkot's coalition conditions but refused the fourth, labeling Hamas a terrorist group, while saying he condemns October 7. AFNS has not reviewed the interview.
 
 ## The opposition moves on the Knesset speakership
 
 According to Channel 12, as reported by the Times of Israel, the Eisenkot bloc wants to use its votes plus the Arab parties' votes to replace Likud's Amir Ohana as Knesset speaker. Oded Forer and Elazar Stern are among the names discussed.
+
+## Fake video: Netanyahu was not attacked
+
+A viral clip that claims to show Netanyahu being attacked in Tel Aviv is 2013 footage of Bulgarian politician Ahmed Dogan. No incident involving Netanyahu has been reported (X trending summary).
 
 ## Markets react
 

@@ -2,7 +2,7 @@
 title: "Israel Morning Briefing: Wednesday, Oct. 28, 2026"
 desk: israel
 date: 2026-10-28
-summary: "Updated 1 PM CT: the IDF says it killed three Hamas commanders, and sea drones struck a Haifa-to-Romania container ship off Bulgaria. Earlier: IDF says six Hamas operatives were killed in Gaza strikes, and a wildfire in Ben Shemen Forest closed Routes 1, 6 and 444. Also: a UN inquiry accuses Israel of war crimes, which Israel and the U.S. reject, plus Israeli shelling in south Lebanon, Gaza's fourth winter in tents, memorial demolitions near Nablus, Arab turnout and Ben-Gvir's latest remarks. For the election count, see the updated results article."
+summary: "Updated 7 PM CT: the IDF says it fired an interceptor at a suspected aerial target over southern Lebanon. Earlier: the IDF says it killed three Hamas commanders, and sea drones struck a Haifa-to-Romania container ship off Bulgaria. Earlier: IDF says six Hamas operatives were killed in Gaza strikes, and a wildfire in Ben Shemen Forest closed Routes 1, 6 and 444. Also: a UN inquiry accuses Israel of war crimes, which Israel and the U.S. reject, plus Israeli shelling in south Lebanon, Gaza's fourth winter in tents, memorial demolitions near Nablus, Arab turnout and Ben-Gvir's latest remarks. For the election count, see the updated results article."
 image: "img/stories/israel-morning-briefing-2026-10-28.jpg"
 image_alt: "The Palais des Nations, the United Nations Office at Geneva"
 image_credit: "Vassil / Wikimedia Commons"
@@ -10,6 +10,7 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3APalace_of_Nations_G
 image_license: "CC0"
 status: "Daily briefing"
 key_points:
+  - Lebanon (7 PM CT) - the IDF says it fired an interceptor at a suspected aerial target over southern Lebanon
   - IDF (1 PM CT) - the IDF says it killed three Hamas commanders in Gaza
   - Black Sea - container ship CONTSHIP JET, sailing from Haifa, was hit by sea drones off Bulgaria; all 18 crew rescued (X news summary)
   - Gaza strikes - the IDF says six Hamas operatives were killed, including Ahmed Baraka, whom it links to the abduction of Alex Dancyg
@@ -20,6 +21,7 @@ key_points:
   - Gaza - the UN says about 950,000 displaced people live in flood-risk sites as winter begins
   - West Bank, Arab turnout, Ben-Gvir - from X news summaries, not independently verified
 sources:
+  - Osint613 on X: IDF interceptor over southern Lebanon | https://x.com/Osint613/status/2115546174350393846
   - IDF on X: three Hamas commanders | https://x.com/IDF/status/2115417255135641904
   - X trending summary: CONTSHIP JET | https://x.com/i/trending/2115419415756128743
   - Times of Israel liveblog, Oct. 28: IDF strikes, wildfire | https://www.timesofisrael.com/liveblog-october-28-2026/
@@ -34,6 +36,10 @@ sources:
 ---
 
 **Status: Daily briefing.** Each item names its source. Items marked **"Based on an X news summary; not independently verified"** come from X's trending summaries. AFNS has not confirmed them with a primary source.
+
+## Update, 7 PM CT
+
+**Lebanon (IDF statement).** The IDF says it fired an interceptor at a suspected aerial target over southern Lebanon, where its forces operate. No further details were given (via Osint613 on X).
 
 ## Update, 1 PM CT
 
