@@ -2,7 +2,7 @@
 title: "Israel Election: Count Complete With Deadlock Unchanged; Official Results Due Wednesday"
 desk: israel
 date: 2026-10-28
-summary: "Updated Oct. 29, 1 PM CT: Eisenkot accuses Likud of a campaign to delegitimize the results, and he met Bennett on forming a government. Earlier, the Central Elections Committee said counting is complete. With about 99% entered, the blocs are unchanged: Netanyahu bloc 53, and the opposition including Arab parties 67 (the same 53-48-19 split). The Reservists list missed the threshold, and official results come Wednesday, Nov. 4, after a final integrity review. Unnamed UTJ sources say the party could back Eisenkot from outside the coalition, on a draft-exemption condition. Seven people have been arrested in an alleged vote-buying probe in the Negev, while officials call wider fraud claims baseless. The elections committee asked the Shin Bet to look into foreign-interference claims, which are unproven; police say there is no evidence of fraud. A unity deal floated by Netanyahu's camp is UNVERIFIED, and Liberman ruled out more partners."
+summary: "Updated Oct. 29, 3 PM CT: the Jerusalem Post says 100% is counted, with Likud the largest party and the blocs unchanged at 53-67; official results come Wednesday, Nov. 4. Likud alleges a \"Ra'amgate\" that \"stole\" the election; police and the elections committee say there is no evidence of widespread fraud. Earlier: Eisenkot accuses Likud of a campaign to delegitimize the results, and he met Bennett on forming a government. Earlier, the Central Elections Committee said counting is complete. With about 99% entered, the blocs are unchanged: Netanyahu bloc 53, and the opposition including Arab parties 67 (the same 53-48-19 split). The Reservists list missed the threshold, and official results come Wednesday, Nov. 4, after a final integrity review. Unnamed UTJ sources say the party could back Eisenkot from outside the coalition, on a draft-exemption condition. Seven people have been arrested in an alleged vote-buying probe in the Negev, while officials call wider fraud claims baseless. The elections committee asked the Shin Bet to look into foreign-interference claims, which are unproven; police say there is no evidence of fraud. A unity deal floated by Netanyahu's camp is UNVERIFIED, and Liberman ruled out more partners."
 image: "img/stories/israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory.jpg"
 image_alt: "Ballot slips for each party list laid out in a voting booth at an Israeli polling station, Oct. 27, 2026"
 image_credit: "Nizzan Cohen / Wikimedia Commons"
@@ -12,6 +12,10 @@ status: "Count complete; results not yet official; no winner declared"
 featured: true
 desk_lead: true
 key_points:
+  - 3 PM CT - 100% counted, Likud the largest party, blocs unchanged at 53-67; official results Wednesday, Nov. 4 (Jerusalem Post on X)
+  - 3 PM CT - Likud's allegation - Likud called "Ra'amgate" an "earthquake" and said the election was "stolen" (seen via an unofficial repost). Police and the elections committee say there is no evidence of widespread fraud
+  - 3 PM CT - Mansour Abbas reportedly told party members a minority Eisenkot government backed from outside would be weak or impossible (Channel 12 via Times of Israel on X)
+  - 3 PM CT - a Hebrew University poll found 61% of opposition-bloc voters support an Eisenkot-led government that includes Ra'am
   - 1 PM CT - Eisenkot accused Netanyahu and Likud of an "orchestrated and organized campaign to delegitimize the election results." This is his accusation. He met Shin Bet chief Zini and elections chair Sohlberg first (i24NEWS and ILTV on X)
   - 1 PM CT - Eisenkot and Bennett met to discuss forming a government "as quickly as possible" (i24NEWS on X); Golan met Mansour Abbas again (Jerusalem Post on X)
   - 1 PM CT - police say three officers were hurt at a Haredi draft protest on Route 4; Ben-Gvir said the police commissioner is "trying to please Yair Golan" (Kan News on X)
@@ -48,6 +52,16 @@ key_points:
   - Defense Minister Katz called Eisenkot's election-night appeal to security chiefs undemocratic
   - The EU congratulated Israel, citing nearly 78% turnout as a sign of a "vibrant democracy"
 sources:
+  - Jerusalem Post on X: 100% counted | https://x.com/Jerusalem_Post/status/2115892947925475837
+  - Kan News on X: Din Livneh on the fraud claims | https://x.com/kann_news/status/2115882030680731807
+  - Likud statement on "Ra'amgate" (unofficial repost on X) | https://x.com/mirchev124/status/2115866903335874908
+  - Times of Israel on X: Abbas on a minority government (Channel 12) | https://x.com/TimesofIsrael/status/2115888948224344287
+  - Times of Israel on X: Abbas and the Hebrew University poll | https://x.com/TimesofIsrael/status/2115880691498147950
+  - Jerusalem Post on X: Abbas and the Hebrew University poll | https://x.com/Jerusalem_Post/status/2115888309389991974
+  - Kan News on X: senior civil servant questioned in security affair | https://x.com/kann_news/status/2115880843902398578
+  - Quds News Network on X: northern Gaza City strike (unverified) | https://x.com/QudsNen/status/2115859651929747719
+  - MOSSADil on X: northern Gaza City strike (unverified) | https://x.com/MOSSADil/status/2115873802672578896
+  - Kan News on X: Boulder attacker pleads guilty | https://x.com/kann_news/status/2115896412466556978
   - i24NEWS on X: Eisenkot's video | https://x.com/i24NEWS_EN/status/2115852942737822036
   - ILTV News on X: Eisenkot's video | https://x.com/ILTVNews/status/2115867145922068720
   - Barak Ravid on X: Netanyahu and the results | https://x.com/BarakRavid/status/2115868240434069902
@@ -135,9 +149,34 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 29, 2026, 1 PM CT.** There are no new vote numbers; the completed count from 11 AM stands. The 1 PM update below adds Eisenkot's video accusing Likud, the Eisenkot-Bennett meeting, the Route 4 protest and Gallant's call for a unity government. The 11 AM update added the full seat list, UTJ's reported opening to Eisenkot and the Shin Bet on its probe. The 9 AM update added the widening vote-buying probe, officials' pushback on fraud claims, Qatar's denial and new opposition talks. The 7 AM update added the Shin Bet request on the fraud claims, an UNVERIFIED unity-deal briefing, Liberman's new refusals and the latest opposition talks. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 29, 2026, 3 PM CT.** The Jerusalem Post confirms 100% is counted, and the blocs are unchanged. The 3 PM update below adds Likud's "Ra'amgate" allegation and the officials' response, Abbas's doubts about a minority government and a new poll. The 1 PM update added Eisenkot's video accusing Likud, the Eisenkot-Bennett meeting, the Route 4 protest and Gallant's call for a unity government. The 11 AM update added the full seat list, UTJ's reported opening to Eisenkot and the Shin Bet on its probe. The 9 AM update added the widening vote-buying probe, officials' pushback on fraud claims, Qatar's denial and new opposition talks. The 7 AM update added the Shin Bet request on the fraud claims, an UNVERIFIED unity-deal briefing, Liberman's new refusals and the latest opposition talks. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Count complete; results not yet official; no winner declared.** The Central Elections Committee says counting is done. Official results come Wednesday, after a final election-integrity review. No camp has a majority.
+
+## 3 PM CT update, Oct. 29
+
+### 100% counted; blocs unchanged
+
+The Jerusalem Post says 100% of the vote is counted, with Likud the largest party. The blocs are unchanged at 53 for Netanyahu's bloc and 67 for the opposition including Arab parties. Official results come Wednesday, Nov. 4 (via [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115892947925475837)).
+
+### Likud alleges "Ra'amgate." Officials say there is no evidence of widespread fraud
+
+**This is Likud's allegation.** Likud called what it terms "Ra'amgate" an "earthquake" and said the election was "stolen." AFNS saw the statement via an unofficial repost, not an official Likud account (via [repost on X](https://x.com/mirchev124/status/2115866903335874908)).
+
+- **Police and the elections committee** say there is no evidence of widespread fraud (via [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115892947925475837); [Kan News on X](https://x.com/kann_news/status/2115882030680731807)).
+- **Din Livneh,** the committee's acting director, told Kan that people are "trying to cast doubt on the results before there even are results" (via [Kan News on X](https://x.com/kann_news/status/2115882030680731807)).
+
+### Abbas doubts a minority Eisenkot government
+
+Channel 12 reports that Ra'am's Mansour Abbas told party members a minority Eisenkot government propped up from outside by Arab parties would be weak or impossible (via [Times of Israel on X](https://x.com/TimesofIsrael/status/2115888948224344287)).
+
+A Hebrew University poll found that 61% of opposition-bloc voters support an Eisenkot-led government that includes Ra'am (via [Times of Israel on X](https://x.com/TimesofIsrael/status/2115880691498147950); [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115888309389991974)).
+
+### Also in Israel
+
+- **Security probe:** Kan reports a senior civil servant in a sensitive role was questioned in a security affair and released to house arrest. No other details have been published (via [Kan News on X](https://x.com/kann_news/status/2115880843902398578)).
+- **UNVERIFIED: strike in northern Gaza City.** Palestinian and OSINT accounts say an Israeli strike hit an al-Madhoun family residential building near Ahmed Yassin Street, reportedly after an evacuation warning (via [Quds News Network on X](https://x.com/QudsNen/status/2115859651929747719); [MOSSADil on X](https://x.com/MOSSADil/status/2115873802672578896)). There is no IDF statement and no casualty figures yet.
+- **Boulder attacker pleads guilty:** Mohamed Sabry Soliman pleaded guilty to 12 counts, including hate crimes, for the June 2025 firebombing of a hostage march in Boulder, Colorado, that killed 82-year-old Karen Diamond. He admitted targeting marchers because they were Jewish or Israeli (via [Kan News on X](https://x.com/kann_news/status/2115896412466556978)).
 
 ## 1 PM CT update, Oct. 29
 

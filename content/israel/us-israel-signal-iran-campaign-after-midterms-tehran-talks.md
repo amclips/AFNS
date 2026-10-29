@@ -10,6 +10,7 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3ASun_rises_over_Patr
 image_license: "Public domain"
 status: "Reported; not confirmed"
 key_points:
+  - Update (Oct. 29, 3 PM CT) - Kan reports at least 10 U.S. military transport planes landed in Israel in the past 24 hours; an Israeli source told Kan security services are preparing for Trump's decision on the Iran campaign. No decision has been announced (Kan News on X)
   - Update (Oct. 29, 11 AM CT) - Kan, citing an unnamed Israeli official, reports Israel asked the U.S. to approve strikes on Iranian energy facilities not yet hit, in case fighting resumes. No U.S. response has been reported. Trump says he wants to end the war very quickly (Kan; TASS, Russian state media)
   - Update (Oct. 29) - Qatar, backed by Saudi Arabia, Pakistan, Egypt and Turkey, is pushing a seven-day plan to let UN inspectors into bombed nuclear sites for some sanctions relief. A senior Iranian official called it "unacceptable"; Araghchi says Tehran is still talking to mediators
   - Update (Oct. 29) - Trump said "anything is possible" and hasn't made a final decision. Iran's reply to Qatar is expected by Saturday
@@ -31,6 +32,8 @@ key_points:
   - Saudi, Pakistani and Turkish officials met Iran's leadership in Tehran and agreed to keep talking
   - Why it matters for Americans: U.S. forces, U.S. energy prices and the post-midterm agenda are all in play
 sources:
+  - Kan News on X: U.S. transport planes land in Israel | https://x.com/kann_news/status/2115878426855067927
+  - Osint613 on X: airlift details (OSINT, unconfirmed) | https://x.com/Osint613/status/2115881963332493532
   - Kan (Hebrew): Israel asks U.S. to approve energy-site strikes | https://www.kan.org.il/content/kan-news/defense/live-1113966/liveid-1114033/
   - TASS (Russian state media): summary of the Kan report | https://tass.com/world/2210251
   - CBS News live: Qatar mediators' new proposal | https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/
@@ -63,9 +66,15 @@ sources:
   - Al-Monitor: Iran holds "very good talks" | https://www.al-monitor.com/originals/2026/10/iran-holds-very-good-talks-mecca-pact-nations-regions-security
 ---
 
-**Updated Oct. 29, 2026, 11 AM CT.** This article adds Kan's report that Israel asked the U.S. to approve strikes on Iranian energy sites. The 7 AM update added the Qatar-led seven-day plan and Iran's response, Trump's latest comments, the dispute over the Vance letter's purpose, a blockade boarding advisory and the Pentagon's cost figure. First published Oct. 28.
+**Updated Oct. 29, 2026, 3 PM CT.** This article adds Kan's report of at least 10 U.S. military transport planes landing in Israel. The 11 AM update added Kan's report that Israel asked the U.S. to approve strikes on Iranian energy sites. The 7 AM update added the Qatar-led seven-day plan and Iran's response, Trump's latest comments, the dispute over the Vance letter's purpose, a blockade boarding advisory and the Pentagon's cost figure. First published Oct. 28.
 
 **Status: Reported; not confirmed.** The planning described below comes from a Wall Street Journal report, as relayed by Anadolu. AP has since reported similar warnings, citing two diplomats briefed on them. None of it has been officially announced. The diplomatic meetings in Tehran were reported by Al Jazeera, AP and Al-Monitor.
+
+## Update, Oct. 29, 3 PM CT: U.S. transport planes land in Israel
+
+- **The report:** Kan reports at least 10 U.S. military transport planes landed in Israel in the past 24 hours (via [Kan News on X](https://x.com/kann_news/status/2115878426855067927)).
+- **An Israeli source:** the source told Kan that the security services are preparing for Trump's decision on the Iran campaign. No decision has been announced.
+- **UNCONFIRMED (OSINT claims):** OSINT accounts say the planes landed at Ovda and Nevatim, some from Fort Bliss, Texas, with more flights into Saudi Arabia, Qatar and Jordan (via [Osint613 on X](https://x.com/Osint613/status/2115881963332493532)). These details have not been independently confirmed.
 
 ## Update, Oct. 29, 11 AM CT: Israel reportedly seeks U.S. approval for energy-site strikes
 
