@@ -12,6 +12,7 @@ status: "Partial results; no winner declared"
 featured: true
 desk_lead: true
 key_points:
+  - AFP reports Herzog hopes to avoid a second election, and that protesters near the PM's residence in Jerusalem called for an end to the Gaza war
   - Joint List offer - ynet reports the Joint List is offering to back Eisenkot from outside a coalition. Eisenkot's bloc hasn't answered
   - Police - Israel Police say no investigative or intelligence evidence supports Likud's fraud claim (via i24NEWS on X)
   - Count - the double-envelope count is underway and should finish by Thursday evening Israel time (Kan)
@@ -32,6 +33,7 @@ key_points:
   - Defense Minister Katz called Eisenkot's election-night appeal to security chiefs undemocratic
   - The EU congratulated Israel, citing nearly 78% turnout as a sign of a "vibrant democracy"
 sources:
+  - AFP on X: Herzog and Jerusalem protest | https://x.com/AFP/status/2115626295656579577
   - Ynetnews on X: Joint List offers outside support | https://x.com/ynetnews/status/2115600223988842688
   - Haaretz on X: rallies in Tel Aviv, Jerusalem and Haifa | https://x.com/haaretzcom/status/2115613377821053397
   - Kan News on X: double-envelope count underway | https://x.com/kann_news/status/2115593153743131117
@@ -78,7 +80,7 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 28, 2026, 9 PM CT.** The seat count is unchanged, at 92.9% of ballot boxes, and the double-envelope count is underway. This update adds the Joint List's reported offer to back Eisenkot from outside a coalition and new rallies for a Jewish-Arab government. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 28, 2026, 11 PM CT.** The seat count is unchanged, at 92.9% of ballot boxes, and the double-envelope count is underway. This update adds AFP's report on Herzog and a protest in Jerusalem. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Partial results; no winner declared.** Counting is not finished, so **seats can still move**. No camp has a majority.
 
@@ -135,6 +137,10 @@ The seat totals are unchanged from the earlier partial count.
 ## Herzog urges parties to avoid a repeat election
 
 In his first comments since the vote, Herzog urged the parties to avoid another election. He asked them to come to coalition talks "with an open mind." He said he expects official results next week, with his consultations on who forms the government to follow (Times of Israel).
+
+AFP also reports that Herzog hopes to avoid a second election after the vote produced no clear winner (via AFP on X).
+
+**Protest in Jerusalem:** AFP reports that protesters gathered near the prime minister's residence in Jerusalem, calling for an end to the war in Gaza (via AFP on X).
 
 ## Turnout and the EU
 
