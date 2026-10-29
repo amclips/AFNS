@@ -12,6 +12,7 @@ status: "Partial results; no winner declared"
 featured: true
 desk_lead: true
 key_points:
+  - Joint List offer - ynet reports the Joint List is offering to back Eisenkot from outside a coalition. Eisenkot's bloc hasn't answered
   - Police - Israel Police say no investigative or intelligence evidence supports Likud's fraud claim (via i24NEWS on X)
   - Count - the double-envelope count is underway and should finish by Thursday evening Israel time (Kan)
   - Liberman - Channel 12 reports he has largely stopped talking to opposition partners (via Times of Israel on X)
@@ -31,6 +32,8 @@ key_points:
   - Defense Minister Katz called Eisenkot's election-night appeal to security chiefs undemocratic
   - The EU congratulated Israel, citing nearly 78% turnout as a sign of a "vibrant democracy"
 sources:
+  - Ynetnews on X: Joint List offers outside support | https://x.com/ynetnews/status/2115600223988842688
+  - Haaretz on X: rallies in Tel Aviv, Jerusalem and Haifa | https://x.com/haaretzcom/status/2115613377821053397
   - Kan News on X: double-envelope count underway | https://x.com/kann_news/status/2115593153743131117
   - Times of Israel on X: Liberman goes silent (Channel 12) | https://x.com/TimesofIsrael/status/2115550477672685886
   - Israel News Pulse on X: Tibi's Al Mayadeen interview (secondary account) | https://x.com/israelnewspulse/status/2115550523944517814
@@ -75,7 +78,7 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 28, 2026, 7 PM CT.** The seat count is unchanged, at 92.9% of ballot boxes, and the double-envelope count is now underway. This update adds Liberman's reported silence, MK Ahmad Tibi's reported remarks, a Times of Israel analysis on the Arab parties, and a debunked viral video. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 28, 2026, 9 PM CT.** The seat count is unchanged, at 92.9% of ballot boxes, and the double-envelope count is underway. This update adds the Joint List's reported offer to back Eisenkot from outside a coalition and new rallies for a Jewish-Arab government. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Partial results; no winner declared.** Counting is not finished, so **seats can still move**. No camp has a majority.
 
@@ -87,7 +90,8 @@ sources:
 - **Liberman goes silent:** Channel 12 reports that Avigdor Liberman, whose party is projected to win about 7 seats, has largely stopped talking to his opposition partners and is not taking calls from Eisenkot or Bennett (via Times of Israel on X). He still says he won't join a Netanyahu government or back a minority government that relies on Arab parties.
 - **Skipped calls:** ynet also reports that Netanyahu skipped his usual election-night calls to the leaders of his own bloc's parties.
 - **Repeat election:** Haaretz analysts now say another election looks likely (via Haaretz on X). President Herzog has urged the parties to avoid one (see below).
-- **Rallies:** Haaretz reports that hundreds demonstrated across Israel for a coalition that includes Arab parties (via Haaretz on X).
+- **Joint List offer:** ynet reports that the Joint List is offering to help form a government without Netanyahu by backing Eisenkot from outside a coalition, without joining it. Eisenkot's bloc hasn't answered (via Ynetnews on X).
+- **Rallies:** Haaretz reports that hundreds demonstrated across Israel for a coalition that includes Arab parties (via Haaretz on X). Later on Oct. 28, Haaretz reported that hundreds rallied in Tel Aviv, Jerusalem and Haifa, chanting for "a Jewish-Arab government now" (via Haaretz on X).
 
 ## Eisenkot speaks
 
