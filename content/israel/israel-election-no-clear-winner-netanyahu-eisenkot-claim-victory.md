@@ -2,7 +2,7 @@
 title: "Israel Election: Count Complete With Deadlock Unchanged; Official Results Due Wednesday"
 desk: israel
 date: 2026-10-28
-summary: "Updated Oct. 29, 3 PM CT: the Jerusalem Post says 100% is counted, with Likud the largest party and the blocs unchanged at 53-67; official results come Wednesday, Nov. 4. Likud alleges a \"Ra'amgate\" that \"stole\" the election; police and the elections committee say there is no evidence of widespread fraud. Earlier: Eisenkot accuses Likud of a campaign to delegitimize the results, and he met Bennett on forming a government. Earlier, the Central Elections Committee said counting is complete. With about 99% entered, the blocs are unchanged: Netanyahu bloc 53, and the opposition including Arab parties 67 (the same 53-48-19 split). The Reservists list missed the threshold, and official results come Wednesday, Nov. 4, after a final integrity review. Unnamed UTJ sources say the party could back Eisenkot from outside the coalition, on a draft-exemption condition. Seven people have been arrested in an alleged vote-buying probe in the Negev, while officials call wider fraud claims baseless. The elections committee asked the Shin Bet to look into foreign-interference claims, which are unproven; police say there is no evidence of fraud. A unity deal floated by Netanyahu's camp is UNVERIFIED, and Liberman ruled out more partners."
+summary: "Updated Oct. 29, 5 PM CT: the final count stands at 53-67. Ynet reports political figures expect Eisenkot to get the first chance to form a government. Earlier: the Jerusalem Post says 100% is counted, with Likud the largest party and the blocs unchanged at 53-67; official results come Wednesday, Nov. 4. Likud alleges a \"Ra'amgate\" that \"stole\" the election; police and the elections committee say there is no evidence of widespread fraud. Earlier: Eisenkot accuses Likud of a campaign to delegitimize the results, and he met Bennett on forming a government. Earlier, the Central Elections Committee said counting is complete. With about 99% entered, the blocs are unchanged: Netanyahu bloc 53, and the opposition including Arab parties 67 (the same 53-48-19 split). The Reservists list missed the threshold, and official results come Wednesday, Nov. 4, after a final integrity review. Unnamed UTJ sources say the party could back Eisenkot from outside the coalition, on a draft-exemption condition. Seven people have been arrested in an alleged vote-buying probe in the Negev, while officials call wider fraud claims baseless. The elections committee asked the Shin Bet to look into foreign-interference claims, which are unproven; police say there is no evidence of fraud. A unity deal floated by Netanyahu's camp is UNVERIFIED, and Liberman ruled out more partners."
 image: "img/stories/israel-election-no-clear-winner-netanyahu-eisenkot-claim-victory.jpg"
 image_alt: "Ballot slips for each party list laid out in a voting booth at an Israeli polling station, Oct. 27, 2026"
 image_credit: "Nizzan Cohen / Wikimedia Commons"
@@ -12,6 +12,7 @@ status: "Count complete; results not yet official; no winner declared"
 featured: true
 desk_lead: true
 key_points:
+  - 5 PM CT - Ynet reports political figures expect Eisenkot to get the first chance to form a government; Haredi draft-exemption demands and friction among partners are obstacles, and Netanyahu keeps the unity option open (Ynet on X)
   - 3 PM CT - 100% counted, Likud the largest party, blocs unchanged at 53-67; official results Wednesday, Nov. 4 (Jerusalem Post on X)
   - 3 PM CT - Likud's allegation - Likud called "Ra'amgate" an "earthquake" and said the election was "stolen" (seen via an unofficial repost). Police and the elections committee say there is no evidence of widespread fraud
   - 3 PM CT - Mansour Abbas reportedly told party members a minority Eisenkot government backed from outside would be weak or impossible (Channel 12 via Times of Israel on X)
@@ -52,6 +53,7 @@ key_points:
   - Defense Minister Katz called Eisenkot's election-night appeal to security chiefs undemocratic
   - The EU congratulated Israel, citing nearly 78% turnout as a sign of a "vibrant democracy"
 sources:
+  - Ynetnews on X: coalition outlook | https://x.com/ynetnews/status/2115902476893278518
   - Jerusalem Post on X: 100% counted | https://x.com/Jerusalem_Post/status/2115892947925475837
   - Kan News on X: Din Livneh on the fraud claims | https://x.com/kann_news/status/2115882030680731807
   - Likud statement on "Ra'amgate" (unofficial repost on X) | https://x.com/mirchev124/status/2115866903335874908
@@ -149,9 +151,15 @@ sources:
   - Kan News on X: Sa'ar and Likud HQ | https://x.com/kann_news/status/2115185246060568781
 ---
 
-**Updated Oct. 29, 2026, 3 PM CT.** The Jerusalem Post confirms 100% is counted, and the blocs are unchanged. The 3 PM update below adds Likud's "Ra'amgate" allegation and the officials' response, Abbas's doubts about a minority government and a new poll. The 1 PM update added Eisenkot's video accusing Likud, the Eisenkot-Bennett meeting, the Route 4 protest and Gallant's call for a unity government. The 11 AM update added the full seat list, UTJ's reported opening to Eisenkot and the Shin Bet on its probe. The 9 AM update added the widening vote-buying probe, officials' pushback on fraud claims, Qatar's denial and new opposition talks. The 7 AM update added the Shin Bet request on the fraud claims, an UNVERIFIED unity-deal briefing, Liberman's new refusals and the latest opposition talks. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
+**Updated Oct. 29, 2026, 5 PM CT.** There are no new vote numbers. The 5 PM update below adds Ynet's coalition outlook. The 3 PM update confirmed 100% counted with the blocs unchanged, and added Likud's "Ra'amgate" allegation and the officials' response, Abbas's doubts about a minority government and a new poll. The 1 PM update added Eisenkot's video accusing Likud, the Eisenkot-Bennett meeting, the Route 4 protest and Gallant's call for a unity government. The 11 AM update added the full seat list, UTJ's reported opening to Eisenkot and the Shin Bet on its probe. The 9 AM update added the widening vote-buying probe, officials' pushback on fraud claims, Qatar's denial and new opposition talks. The 7 AM update added the Shin Bet request on the fraud claims, an UNVERIFIED unity-deal briefing, Liberman's new refusals and the latest opposition talks. The figures below replace the earlier partial counts and the election-night early count. First published Oct. 27.
 
 **Status: Count complete; results not yet official; no winner declared.** The Central Elections Committee says counting is done. Official results come Wednesday, after a final election-integrity review. No camp has a majority.
+
+## 5 PM CT update, Oct. 29
+
+The final count stands: Netanyahu bloc 53, opposition including Arab parties 67.
+
+**Coalition outlook:** Ynet reports that political figures expect Gadi Eisenkot to get the first chance to form a government. It says Haredi demands for a draft exemption and friction among his partners could trap him, while Netanyahu keeps the unity option open (via [Ynet on X](https://x.com/ynetnews/status/2115902476893278518)).
 
 ## 3 PM CT update, Oct. 29
 
