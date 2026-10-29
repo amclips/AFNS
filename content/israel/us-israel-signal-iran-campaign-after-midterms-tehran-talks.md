@@ -10,6 +10,9 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3ASun_rises_over_Patr
 image_license: "Public domain"
 status: "Reported; not confirmed"
 key_points:
+  - Update (Oct. 29, 5 PM CT) - the WSJ reports CENTCOM commander Adm. Brad Cooper briefed Trump on Thursday on military options for Iran as the U.S. weighs resuming major combat operations. No decision has been announced (WSJ on X)
+  - Update (Oct. 29, 5 PM CT) - UNVERIFIED - Iran International, citing IRGC-linked Fars, reports explosions heard near Sirik and Qeshm Island; there is no official statement
+  - Update (Oct. 29, 5 PM CT) - UNCONFIRMED - an OSINT account claims a U.S. strike on an IRGC launch squad on Qeshm; neither the U.S. nor Iran has confirmed
   - Update (Oct. 29, 3 PM CT) - Kan reports at least 10 U.S. military transport planes landed in Israel in the past 24 hours; an Israeli source told Kan security services are preparing for Trump's decision on the Iran campaign. No decision has been announced (Kan News on X)
   - Update (Oct. 29, 11 AM CT) - Kan, citing an unnamed Israeli official, reports Israel asked the U.S. to approve strikes on Iranian energy facilities not yet hit, in case fighting resumes. No U.S. response has been reported. Trump says he wants to end the war very quickly (Kan; TASS, Russian state media)
   - Update (Oct. 29) - Qatar, backed by Saudi Arabia, Pakistan, Egypt and Turkey, is pushing a seven-day plan to let UN inspectors into bombed nuclear sites for some sanctions relief. A senior Iranian official called it "unacceptable"; Araghchi says Tehran is still talking to mediators
@@ -32,6 +35,11 @@ key_points:
   - Saudi, Pakistani and Turkish officials met Iran's leadership in Tehran and agreed to keep talking
   - Why it matters for Americans: U.S. forces, U.S. energy prices and the post-midterm agenda are all in play
 sources:
+  - WSJ on X: Cooper briefs Trump on Iran options (exclusive) | https://x.com/WSJ/status/2115889904152404178
+  - Jerusalem Post on X: U.S. strengthens regional defenses | https://x.com/Jerusalem_Post/status/2115898483110469810
+  - Iran International on X: explosions near Sirik and Qeshm (Fars) | https://x.com/IranIntl_En/status/2115916798398992587
+  - Iran International on X: Tasnim interception claim | https://x.com/IranIntl_En/status/2115920135907369240
+  - Osint613 on X: claimed strike on Qeshm (unconfirmed) | https://x.com/Osint613/status/2115921223003885599
   - Kan News on X: U.S. transport planes land in Israel | https://x.com/kann_news/status/2115878426855067927
   - Osint613 on X: airlift details (OSINT, unconfirmed) | https://x.com/Osint613/status/2115881963332493532
   - Kan (Hebrew): Israel asks U.S. to approve energy-site strikes | https://www.kan.org.il/content/kan-news/defense/live-1113966/liveid-1114033/
@@ -66,9 +74,23 @@ sources:
   - Al-Monitor: Iran holds "very good talks" | https://www.al-monitor.com/originals/2026/10/iran-holds-very-good-talks-mecca-pact-nations-regions-security
 ---
 
-**Updated Oct. 29, 2026, 3 PM CT.** This article adds Kan's report of at least 10 U.S. military transport planes landing in Israel. The 11 AM update added Kan's report that Israel asked the U.S. to approve strikes on Iranian energy sites. The 7 AM update added the Qatar-led seven-day plan and Iran's response, Trump's latest comments, the dispute over the Vance letter's purpose, a blockade boarding advisory and the Pentagon's cost figure. First published Oct. 28.
+**Updated Oct. 29, 2026, 5 PM CT.** This article adds the WSJ's report that Trump was briefed on military options for Iran, and UNVERIFIED and UNCONFIRMED reports of explosions near the Strait of Hormuz. The 3 PM update added Kan's report of at least 10 U.S. military transport planes landing in Israel. The 11 AM update added Kan's report that Israel asked the U.S. to approve strikes on Iranian energy sites. The 7 AM update added the Qatar-led seven-day plan and Iran's response, Trump's latest comments, the dispute over the Vance letter's purpose, a blockade boarding advisory and the Pentagon's cost figure. First published Oct. 28.
 
 **Status: Reported; not confirmed.** The planning described below comes from a Wall Street Journal report, as relayed by Anadolu. AP has since reported similar warnings, citing two diplomats briefed on them. None of it has been officially announced. The diplomatic meetings in Tehran were reported by Al Jazeera, AP and Al-Monitor.
+
+## Update, Oct. 29, 5 PM CT: Trump briefed on Iran options; unverified reports of explosions near Hormuz
+
+### WSJ: Trump briefed on military options
+
+In an exclusive, the Wall Street Journal reports that CENTCOM commander Adm. Brad Cooper briefed President Trump on Thursday on military options for Iran, as the U.S. weighs resuming major combat operations (via [WSJ on X](https://x.com/WSJ/status/2115889904152404178)). The Jerusalem Post adds that the U.S. is also strengthening its defenses in the region (via [Jerusalem Post on X](https://x.com/Jerusalem_Post/status/2115898483110469810)). This is the WSJ's report. No decision has been announced.
+
+### UNVERIFIED: explosions reported near Sirik and Qeshm Island
+
+Iran International, citing the IRGC-linked Fars news agency, says several explosions were heard from the sea near Sirik and Qeshm Island by the Strait of Hormuz, and that residents reported flashes in the sky (via [Iran International on X](https://x.com/IranIntl_En/status/2115916798398992587)). The IRGC-linked Tasnim news agency claims air defenses intercepted a "hostile" fighter jet over Qeshm and forced it to leave (via [Iran International on X](https://x.com/IranIntl_En/status/2115920135907369240)). There is no official statement, and the reports have not been independently confirmed.
+
+### UNCONFIRMED: claimed U.S. strike on Qeshm
+
+The OSINT account Osint613 says U.S. forces "reportedly" hit an IRGC launch squad on Qeshm Island, and that locals report explosions near the airport in Bandar-e-Jask (via [Osint613 on X](https://x.com/Osint613/status/2115921223003885599)). This is an unconfirmed claim from a single account. Neither the U.S. nor Iran has confirmed it.
 
 ## Update, Oct. 29, 3 PM CT: U.S. transport planes land in Israel
 
