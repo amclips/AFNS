@@ -85,7 +85,7 @@ The AFNS daily briefing on the Trump administration for Tuesday, October 27, 202
 ## Campaign trail
 
 - [Mississippi, Michigan, Hegseth, Libya](../campaign-trail-mississippi-michigan-hegseth-libya/): rallies, El-Sayed's denial, Jeffries on Hegseth, and Libya summoning the U.S. envoy.
-- [Fuentes tells followers to "stay home or vote Democrat"](../fuentes-stay-home-or-vote-democrat-post/) (**claims unverified**): the rally-removal claim and the arrest story are UNVERIFIED.
+- [Fuentes tells followers to "stay home or vote Democrat"](../fuentes-stay-home-or-vote-democrat-post/) (**claims unverified**): the arrest story is UNVERIFIED. **Correction, Oct. 29, 2026:** this item earlier listed an UNVERIFIED claim that a fan was removed from a Vance rally. Montana Rep. Braxton Mitchell told Belgrade News that security moved the man, a volunteer, to a different spot, and that he was not thrown out.
 - Top administration post of the day: the White House's "Dems are washed up. 🎷" at about 2.6M views ([X](https://x.com/WhiteHouse/status/2114839466686701604)).
 
 ## Fact checks
