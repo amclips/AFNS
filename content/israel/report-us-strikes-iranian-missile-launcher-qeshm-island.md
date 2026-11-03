@@ -2,7 +2,7 @@
 title: "U.S. Officials: Limited 'Defensive' Strikes Hit Iranian Missiles on Qeshm Island"
 desk: israel
 date: 2026-11-02
-summary: "Updated Nov. 3: U.S. officials told AP, CBS, Fox News and the Wall Street Journal that late Monday's strikes were limited and \"defensive,\" hitting Iranian surface-to-air missiles that fired at a U.S. aircraft. Iranian state media reported blasts on Qeshm, Hengam and around Bandar Abbas, and the IRGC claims it downed U.S. drones (UNVERIFIED). It is the first U.S. strike on Qeshm since June. Earlier: IRNA reported five explosions on Qeshm Monday afternoon, and Axios, citing a single U.S. official, said a U.S. fighter destroyed an IRGC missile launcher in self-defense."
+summary: "Updated Nov. 3, 9 AM CT: Mohsen Rezaee, identified in posts as secretary of Iran's Supreme National Security Council, called the U.S. response \"not convincing\" (via aggregator accounts on X). Earlier Nov. 3: U.S. officials told AP, CBS, Fox News and the Wall Street Journal that late Monday's strikes were limited and \"defensive,\" hitting Iranian surface-to-air missiles that fired at a U.S. aircraft. Iranian state media reported blasts on Qeshm, Hengam and around Bandar Abbas, and the IRGC claims it downed U.S. drones (UNVERIFIED). It is the first U.S. strike on Qeshm since June. Earlier: IRNA reported five explosions on Qeshm Monday afternoon, and Axios, citing a single U.S. official, said a U.S. fighter destroyed an IRGC missile launcher in self-defense."
 featured: true
 desk_lead: true
 image: "img/stories/report-us-strikes-iranian-missile-launcher-qeshm-island.jpg"
@@ -12,6 +12,9 @@ image_source_url: "https://commons.wikimedia.org/wiki/File:QeshmIsland_NASA.jpg"
 image_license: "Public domain"
 status: "Confirmed by U.S. officials (unnamed, per AP, CBS, Fox, WSJ)"
 key_points:
+  - UPDATE NOV. 3, 9 AM CT - Mohsen Rezaee, identified in posts as secretary of Iran's Supreme National Security Council, called the U.S. response to Iran's demands "not convincing" and said Hormuz reopens only if Iran's conditions are fully met (via aggregator accounts on X)
+  - MintPress reports Tehran wants the war ended on all fronts, including Gaza and Lebanon (via aggregator accounts on X)
+  - UNVERIFIED - Italy is telling its citizens to leave Iran immediately, per aggregator accounts only; no official Italian statement found
   - UPDATE NOV. 3 - U.S. officials told AP, CBS, Fox News and the WSJ the strikes were limited and "defensive," hitting Iranian surface-to-air missiles that fired at a U.S. aircraft
   - Iranian state media reported blasts on Qeshm, Hengam and around Bandar Abbas; the IRGC claims it downed two U.S. MQM-170 drones and an MQ-9 (UNVERIFIED)
   - It is the first U.S. strike on Qeshm since June, and it came hours after Trump said "no" to resuming strikes
@@ -25,6 +28,9 @@ key_points:
   - Nov. 2 reports cited no official CENTCOM or Pentagon statement; on Nov. 3, unnamed U.S. officials confirmed the strikes to several outlets
   - Israel's official election results go to President Herzog on Nov. 4
 sources:
+  - GlobeWarReport on X: Rezaee calls U.S. response not convincing | https://x.com/GlobeWarReport/status/2117633758371385452
+  - MintPress News on X: Tehran wants war ended on all fronts | https://x.com/MintPressNews/status/2117634657806119281
+  - GlobeWarReport on X: Italy tells citizens to leave Iran (UNVERIFIED) | https://x.com/GlobeWarReport/status/2117635173990994376
   - AP: U.S. strikes Iranian targets in the Strait of Hormuz | https://apnews.com/article/iran-us-strikes-strait-hormuz-183b3d32d9bf5241f744abb917e6713e
   - BBC: U.S. strikes on Qeshm | https://www.bbc.com/news/articles/cx240mrm3g8vo
   - Fox News live: U.S. strikes Qeshm Island | https://www.foxnews.com/live-news/iran-war-news-us-strikes-qeshm-island-trump-midterms-11-03-26
@@ -40,11 +46,19 @@ sources:
   - X trending: China-Oman joint statement on Hormuz | https://x.com/i/trending/2116913936968626268
 ---
 
-**Published Nov. 2, 2026, 11 PM CT. Updated Nov. 3, 2026, morning CT.** The original report covers about 3 PM to 11 PM CT Monday.
+**Published Nov. 2, 2026, 11 PM CT. Updated Nov. 3, 2026, morning CT, and 9 AM CT.** The original report covers about 3 PM to 11 PM CT Monday.
 
 **Status (updated Nov. 3): Confirmed by U.S. officials.** Unnamed U.S. officials told AP, CBS, Fox News and the Wall Street Journal that the strikes were limited and "defensive." Our sources do not cite an on-the-record CENTCOM or Pentagon statement. The Axios single-source detail below has not been independently confirmed.
 
 **Original status (Nov. 2): Reported; not officially confirmed.** The first report of explosions came from Iranian state media. The U.S. account comes from the Wall Street Journal, citing U.S. officials, and from Axios, citing a single U.S. official. No official CENTCOM or Pentagon statement is cited in the reports.
+
+## Update, Nov. 3, 9 AM CT
+
+**Iran rejects the U.S. response.** Mohsen Rezaee, identified in posts as secretary of Iran's Supreme National Security Council, called the U.S. response to Iran's demands "not convincing" and said the Strait of Hormuz reopens only if Iran's conditions are fully met (via aggregator accounts on X: [GlobeWarReport](https://x.com/GlobeWarReport/status/2117633758371385452)). MintPress reports that Tehran wants the war ended on all fronts, including Gaza and Lebanon (via aggregator accounts on X: [MintPress News](https://x.com/MintPressNews/status/2117634657806119281)).
+
+**UNVERIFIED: Italy tells citizens to leave Iran.** Aggregator accounts report that Italy has told its citizens to leave Iran immediately ([GlobeWarReport on X](https://x.com/GlobeWarReport/status/2117635173990994376)). This has been reported only by aggregator accounts so far; we found no official Italian statement.
+
+**Also today:** [Report: Trump Says U.S. Military Aid to Israel Will End This Year](/israel/report-trump-says-us-military-aid-israel-will-end-this-year/)
 
 ## Update, Nov. 3 morning
 
@@ -89,5 +103,6 @@ During the Sultan of Oman's state visit to Beijing, a China-Oman joint statement
 
 ## Related
 
+- [Report: Trump Says U.S. Military Aid to Israel Will End This Year](/israel/report-trump-says-us-military-aid-israel-will-end-this-year/)
 - [World Briefing, Nov. 3](/geopolitics/world-briefing-2026-11-03/)
 - [Report: U.S. Tells Gulf States to Prepare for Iran Campaign After Midterms as Regional Powers Talk in Tehran](/israel/us-israel-signal-iran-campaign-after-midterms-tehran-talks/)
