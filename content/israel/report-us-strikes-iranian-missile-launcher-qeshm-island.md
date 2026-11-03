@@ -1,8 +1,8 @@
 ---
-title: "Reports: U.S. Strike Hits Iranian Missile Launcher on Qeshm Island"
+title: "U.S. Officials: Limited 'Defensive' Strikes Hit Iranian Missiles on Qeshm Island"
 desk: israel
 date: 2026-11-02
-summary: "Iran's state news agency IRNA reported five explosions on Qeshm Island in the Strait of Hormuz on Monday afternoon. The Wall Street Journal, citing U.S. officials, says it was one of a series of limited, unannounced U.S. strikes on Iran in recent weeks. Axios, citing a single U.S. official, says a U.S. fighter destroyed an IRGC surface-to-air missile launcher in self-defense after the IRGC fired at a U.S. aircraft. No official CENTCOM or Pentagon statement is cited in the reports."
+summary: "Updated Nov. 3: U.S. officials told AP, CBS, Fox News and the Wall Street Journal that late Monday's strikes were limited and \"defensive,\" hitting Iranian surface-to-air missiles that fired at a U.S. aircraft. Iranian state media reported blasts on Qeshm, Hengam and around Bandar Abbas, and the IRGC claims it downed U.S. drones (UNVERIFIED). It is the first U.S. strike on Qeshm since June. Earlier: IRNA reported five explosions on Qeshm Monday afternoon, and Axios, citing a single U.S. official, said a U.S. fighter destroyed an IRGC missile launcher in self-defense."
 featured: true
 desk_lead: true
 image: "img/stories/report-us-strikes-iranian-missile-launcher-qeshm-island.jpg"
@@ -10,17 +10,26 @@ image_alt: "NASA Landsat 7 satellite view of Qeshm Island in the Strait of Hormu
 image_credit: "NASA Earth Observatory (Landsat 7) / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File:QeshmIsland_NASA.jpg"
 image_license: "Public domain"
-status: "Reported; not officially confirmed"
+status: "Confirmed by U.S. officials (unnamed, per AP, CBS, Fox, WSJ)"
 key_points:
+  - UPDATE NOV. 3 - U.S. officials told AP, CBS, Fox News and the WSJ the strikes were limited and "defensive," hitting Iranian surface-to-air missiles that fired at a U.S. aircraft
+  - Iranian state media reported blasts on Qeshm, Hengam and around Bandar Abbas; the IRGC claims it downed two U.S. MQM-170 drones and an MQ-9 (UNVERIFIED)
+  - It is the first U.S. strike on Qeshm since June, and it came hours after Trump said "no" to resuming strikes
+  - Vance said he is optimistic about a deal; Reuters reports Iran's delegation left Doha without a breakthrough (as relayed by the Guardian and Al Jazeera)
   - Iran's state news agency IRNA reported five explosions on Qeshm Island around 2:50 PM CT Monday; residents said they saw aircraft overhead (Iranian state media)
   - The WSJ, citing U.S. officials, says the strike was one of a series of limited, unannounced U.S. strikes on Iran in recent weeks, some described as defensive
   - SINGLE SOURCE - Axios, citing one U.S. official, says a U.S. fighter destroyed an IRGC surface-to-air missile launcher on Qeshm in self-defense after the IRGC fired a missile at a U.S. aircraft over the Strait of Hormuz
   - Brent crude rose about 0.5% in early Asian trading after the reports
   - Trump told Fox News the U.S. "might have to go after" Pickaxe Mountain, a site tied to Iran's nuclear program, and warned fighting could resume without a deal
   - A China-Oman joint statement called for safe passage through the Strait of Hormuz and urged the U.S. and Iran to keep negotiating
-  - No official CENTCOM or Pentagon statement is cited in the reports
+  - Nov. 2 reports cited no official CENTCOM or Pentagon statement; on Nov. 3, unnamed U.S. officials confirmed the strikes to several outlets
   - Israel's official election results go to President Herzog on Nov. 4
 sources:
+  - AP: U.S. strikes Iranian targets in the Strait of Hormuz | https://apnews.com/article/iran-us-strikes-strait-hormuz-183b3d32d9bf5241f744abb917e6713e
+  - BBC: U.S. strikes on Qeshm | https://www.bbc.com/news/articles/cx240mrm3g8vo
+  - Fox News live: U.S. strikes Qeshm Island | https://www.foxnews.com/live-news/iran-war-news-us-strikes-qeshm-island-trump-midterms-11-03-26
+  - The Guardian: U.S. strikes Iran's Qeshm Island | https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island
+  - Al Jazeera: U.S. hits Qeshm Island, Pezeshkian signals more diplomacy | https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest
   - Faytuks on X: IRNA reports five explosions on Qeshm | https://x.com/Faytuks/status/2117361704271032424
   - Faytuks on X: residents report aircraft over Qeshm | https://x.com/Faytuks/status/2117359309067599961
   - Iran International on X: WSJ on limited, unannounced U.S. strikes | https://x.com/IranIntl_En/status/2117424532718022745
@@ -31,9 +40,23 @@ sources:
   - X trending: China-Oman joint statement on Hormuz | https://x.com/i/trending/2116913936968626268
 ---
 
-**Published Nov. 2, 2026, 11 PM CT.** Covers reports from about 3 PM to 11 PM CT Monday.
+**Published Nov. 2, 2026, 11 PM CT. Updated Nov. 3, 2026, morning CT.** The original report covers about 3 PM to 11 PM CT Monday.
 
-**Status: Reported; not officially confirmed.** The first report of explosions came from Iranian state media. The U.S. account comes from the Wall Street Journal, citing U.S. officials, and from Axios, citing a single U.S. official. No official CENTCOM or Pentagon statement is cited in the reports.
+**Status (updated Nov. 3): Confirmed by U.S. officials.** Unnamed U.S. officials told AP, CBS, Fox News and the Wall Street Journal that the strikes were limited and "defensive." Our sources do not cite an on-the-record CENTCOM or Pentagon statement. The Axios single-source detail below has not been independently confirmed.
+
+**Original status (Nov. 2): Reported; not officially confirmed.** The first report of explosions came from Iranian state media. The U.S. account comes from the Wall Street Journal, citing U.S. officials, and from Axios, citing a single U.S. official. No official CENTCOM or Pentagon statement is cited in the reports.
+
+## Update, Nov. 3 morning
+
+**U.S. officials: limited, "defensive" strikes.** U.S. officials told AP, CBS, Fox News and the Wall Street Journal that late Monday's strikes were limited and "defensive," hitting Iranian surface-to-air missiles that had fired at a U.S. aircraft ([AP](https://apnews.com/article/iran-us-strikes-strait-hormuz-183b3d32d9bf5241f744abb917e6713e), [Fox News](https://www.foxnews.com/live-news/iran-war-news-us-strikes-qeshm-island-trump-midterms-11-03-26)). It is the first U.S. strike on Qeshm since June, and it came hours after President Trump said "no" to resuming strikes ([BBC](https://www.bbc.com/news/articles/cx240mrm3g8vo)).
+
+**Iran's account.** Iranian state media reported blasts on Qeshm, Hengam and around Bandar Abbas. **UNVERIFIED:** the IRGC claims it shot down two U.S. MQM-170 drones and an MQ-9.
+
+**Diplomacy still alive, barely.** Vice President JD Vance said Monday he is optimistic about a deal, and Iranian President Masoud Pezeshkian is signaling more diplomacy ([Al Jazeera](https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest)). Reuters reports Iran's delegation left Doha on Sunday without a breakthrough, though a draft is still circulating. The BBC says Iran floated reopening the Strait of Hormuz within two days if the U.S. meets seven conditions, including lifting the port blockade and unfreezing assets (both as relayed by [the Guardian](https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island) and Al Jazeera).
+
+**Why it matters for Israel:** a return to full war with Iran would pull Israel straight back in.
+
+**The original Nov. 2 report follows, unchanged.**
 
 ## Explosions reported on Qeshm Island
 
@@ -61,9 +84,10 @@ During the Sultan of Oman's state visit to Beijing, a China-Oman joint statement
 
 ## What's next
 
-- No official CENTCOM or Pentagon statement on the Qeshm strike is cited in the reports.
-- Israel's official election results go to President Isaac Herzog on Nov. 4. There is no new vote count or coalition news.
+- Nov. 2 reports cited no official CENTCOM or Pentagon statement. On Nov. 3, unnamed U.S. officials confirmed the strikes to AP, CBS, Fox News and the WSJ.
+- Israel's official election results go to President Isaac Herzog on Nov. 4. For the latest on coalition talks, see [Anti-Netanyahu Bloc Holds First Joint Meeting](/israel/anti-netanyahu-bloc-first-joint-meeting-herzliya-results-fight/).
 
 ## Related
 
+- [World Briefing, Nov. 3](/geopolitics/world-briefing-2026-11-03/)
 - [Report: U.S. Tells Gulf States to Prepare for Iran Campaign After Midterms as Regional Powers Talk in Tehran](/israel/us-israel-signal-iran-campaign-after-midterms-tehran-talks/)
