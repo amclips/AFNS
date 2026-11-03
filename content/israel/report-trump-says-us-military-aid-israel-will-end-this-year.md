@@ -11,14 +11,23 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3AAmerican_and_Israel
 image_license: "CC BY 2.0"
 status: "Reported by Haaretz; no response from Netanyahu's office"
 key_points:
+  - UPDATE NOV. 3, 11 AM CT - Trump told Fox News that Israel can still buy U.S. weapons as direct military aid ends - "They can buy whatever they want" (Fox News, AP)
   - Haaretz reports Trump said the roughly $4 billion a year in direct U.S. military aid to Israel will end by the end of this year
   - According to Haaretz, Trump said he and Netanyahu agreed to it, saying "he's very understanding of it"
   - Netanyahu's office had not responded as of Haaretz's report
   - Viral posts claiming the U.S. will end ALL assistance to Israel are not backed by the reporting, which concerns direct military aid
 sources:
+  - Fox News: Trump says Israel will stop receiving $4B in U.S. aid by year's end, can still buy weapons | https://www.foxnews.com/politics/trump-says-israel-stop-receiving-4b-us-aid-years-end-can-still-buy-weapons
+  - AP: Trump says U.S. will halt $4 billion in aid to Israel | https://apnews.com/article/trump-israel-military-aid-hardware-5cad93330300b2d45a9665d5eccb2ab2
   - Haaretz on X: Trump says U.S. military aid to Israel will end | https://x.com/haaretzcom/status/2117620728065675490
   - Real America's Voice on X: Trump on aid to Israel | https://x.com/RealAmVoice/status/2117616998301467092
 ---
+
+## Update, Nov. 3, 11 AM CT
+
+**Weapons sales to continue.** Trump told Fox News on Tuesday that Israel will still be able to buy U.S. weapons even as the roughly $4 billion a year in direct aid ends. "They can buy whatever they want," he said ([Fox News](https://www.foxnews.com/politics/trump-says-israel-stop-receiving-4b-us-aid-years-end-can-still-buy-weapons)). AP reports Trump said the U.S. will stop the aid in 2027 but will sell arms to Israel ([AP](https://apnews.com/article/trump-israel-military-aid-hardware-5cad93330300b2d45a9665d5eccb2ab2)).
+
+**The original report follows.**
 
 **Status: Reported by Haaretz; no response from Netanyahu's office.** This story rests on Haaretz's report, as posted on X. AFNS has not seen an official U.S. or Israeli statement confirming the details.
 
@@ -37,4 +46,4 @@ Viral posts claim the U.S. will end **all** assistance to Israel. The reporting 
 ## Related
 
 - [U.S. Officials: Limited 'Defensive' Strikes Hit Iranian Missiles on Qeshm Island](/israel/report-us-strikes-iranian-missile-launcher-qeshm-island/)
-- [Anti-Netanyahu Bloc Holds First Joint Meeting as Fight Over Election Results Continues](/israel/anti-netanyahu-bloc-first-joint-meeting-herzliya-results-fight/)
+- [Opposition Leaders Back Eisenkot for First Mandate as Results Fight Continues](/israel/anti-netanyahu-bloc-first-joint-meeting-herzliya-results-fight/)
