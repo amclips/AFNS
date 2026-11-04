@@ -2,8 +2,8 @@
 title: "Report: Israel Warns U.S. Iran's Chemical Weapons Plans Are Nearer Threat Than Nuclear Program"
 desk: israel
 date: 2026-11-03
-summary: "Updated Nov. 3, 5 PM CT: Sky News Arabia reports Israeli hospitals are clearing parking lots for emergency use (awaiting wider confirmation), and Karmiel says its public shelters are open as a precaution, with no change in Home Front Command instructions. Earlier: The New York Times reports that Israel has shared intelligence with the U.S. asserting that Iran is considering using chemical weapons against its adversaries, and that Israeli officials have portrayed that threat as more urgent than Iran's nuclear ambitions. Some U.S. officials are alarmed. Others, along with several Gulf officials, are skeptical and see it as a push by Netanyahu's government to return to major combat. UNVERIFIED: a report that CENTCOM has strike options ready as early as Nov. 4; no go-ahead from Trump has been reported."
-featured: true
+summary: "Updated Nov. 4, 7 AM CT: A senior Israeli defense official told Ynet that Iran has no chemical capability that poses a threat to Israel; the NYT says a CENTCOM strike plan could be used as early as Nov. 4, but Trump has not approved it and diplomacy continues. Nov. 3, 5 PM CT: Sky News Arabia reports Israeli hospitals are clearing parking lots for emergency use (awaiting wider confirmation), and Karmiel says its public shelters are open as a precaution, with no change in Home Front Command instructions. Earlier: The New York Times reports that Israel has shared intelligence with the U.S. asserting that Iran is considering using chemical weapons against its adversaries, and that Israeli officials have portrayed that threat as more urgent than Iran's nuclear ambitions. Some U.S. officials are alarmed. Others, along with several Gulf officials, are skeptical and see it as a push by Netanyahu's government to return to major combat. Per the NYT, CENTCOM has a strike plan usable as early as Nov. 4; Trump has not approved it."
+featured: false
 image: "img/stories/report-israel-warns-us-iran-chemical-weapons-nearer-threat.jpg"
 image_alt: "Headquarters of the Organisation for the Prohibition of Chemical Weapons in The Hague (file image, 2017)"
 image_credit: "CEphoto, Uwe Aranas / Wikimedia Commons"
@@ -11,14 +11,18 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3AThe_Hague_Netherlan
 image_license: "CC BY-SA 4.0"
 status: "Reported by the New York Times; officials divided"
 key_points:
+  - UPDATE NOV. 4, 7 AM CT - A senior Israeli defense official told Ynet that Iran has "no chemical capability that poses a threat to Israel"
+  - Per the NYT, CENTCOM has a strike plan usable as early as Nov. 4, but Trump has not approved it and diplomacy continues
+  - Home Front Command is holding drills across Israel this week; per the NYT, chemical-weapons preparation is not a major part
   - UPDATE NOV. 3, 5 PM CT - Sky News Arabia reports parking lots at most major Israeli hospitals are being cleared for emergency wards, and Jerusalem hospital parking lots are being equipped as shelters (Reported by Sky News Arabia; awaiting wider confirmation)
   - Karmiel says its public shelters are open as a precaution, and reports say Kiryat Shmona and Safed opened shelters; officials say there is no change in the situation and residents should follow Home Front Command guidance
   - The NYT, citing U.S. and regional officials, reports Israel has shared intelligence with the U.S. asserting Iran is considering using chemical weapons against its adversaries
   - Over the past two weeks, Israeli officials have portrayed the chemical threat as more urgent than Iran's nuclear ambitions, according to the NYT
   - Some U.S. officials see the intelligence as part of a pressure campaign by Netanyahu's government to restart major combat against Iran; others say it should be taken seriously (NYT)
   - Several Gulf officials briefed by Israel doubted the claims, and a regional official said Israel did not share supporting evidence (NYT, as relayed by the Jerusalem Post and Ynet)
-  - UNVERIFIED - CENTCOM reportedly has strike options ready as early as Nov. 4; no go-ahead from Trump has been reported
 sources:
+  - Ynet: Senior defense official on Iran chemical capability | https://www.ynetnews.com/article/sk04cp00tmg
+  - NYT via Boston Globe: Israel's chemical weapons warning | https://mobileapp.bostonglobe.com/11042026_1d5aa546-d7d1-11f1-898b-22f93faa17b4/content.html
   - Channel 14: Karmiel public shelters opened | https://www.c14.co.il/article/1771409
   - VINnews: Northern Israeli cities open public shelters | https://vinnews.com/2026/11/03/northern-israeli-cities-open-public-shelters-as-officials-monitor-iran-hezbollah-threats/
   - Türkiye Today: Sky News Arabia on Jerusalem hospital parking lots | https://www.turkiyetoday.com/region/jerusalem-hospitals-prepare-shelters-in-parking-lots-ahead-of-possible-iran-war-3231674
@@ -30,6 +34,12 @@ sources:
   - Polymarket on X: NYT report on Iran chemical weapons | https://x.com/i/status/2117678781598990784
   - X story summary: CENTCOM strike options | https://x.com/i/trending/2117682098093924403
 ---
+
+## Update, Nov. 4, 7 AM CT
+
+A senior Israeli defense official told [Ynet](https://www.ynetnews.com/article/sk04cp00tmg) on Wednesday that Iran has "no chemical capability that poses a threat to Israel." That contrasts with the Times' account of Israel's warning to the U.S.
+
+The New York Times says CENTCOM has a strike plan that could be used as early as Nov. 4, but President Trump has not approved it and diplomacy is continuing ([NYT via Boston Globe](https://mobileapp.bostonglobe.com/11042026_1d5aa546-d7d1-11f1-898b-22f93faa17b4/content.html)). Home Front Command is holding drills across Israel this week; according to the Times, chemical-weapons preparation is not a major part of them.
 
 ## Update, Nov. 3, 5 PM CT
 
@@ -61,9 +71,9 @@ Background, per the Times: Iran acknowledged in 2003 that it developed chemical 
 
 The Times also reports that Israel's Home Front Command drills this week are not focusing on chemical weapons preparation ([Times of Israel](https://www.timesofisrael.com/liveblog_entry/nyt-israel-tells-skeptical-us-gulf-countries-that-iran-could-use-chemical-weapons-against-adversaries/)).
 
-## UNVERIFIED: CENTCOM strike options
+## CENTCOM strike options (per the NYT)
 
-An X story summary says CENTCOM has strike options ready as early as Nov. 4 ([X](https://x.com/i/trending/2117682098093924403)). The Jerusalem Post, in its account of the Times report, says senior U.S. officials described a CENTCOM plan that could be carried out as early as Wednesday, Nov. 4. AFNS has not independently verified this. **There has been no go-ahead from President Trump.**
+The New York Times now reports that CENTCOM has a strike plan that could be used as early as Nov. 4, but that President Trump has not approved it and diplomacy continues (as published by the [Boston Globe](https://mobileapp.bostonglobe.com/11042026_1d5aa546-d7d1-11f1-898b-22f93faa17b4/content.html)). Earlier, an X story summary said CENTCOM has strike options ready as early as Nov. 4 ([X](https://x.com/i/trending/2117682098093924403)). The Jerusalem Post, in its account of the Times report, says senior U.S. officials described a CENTCOM plan that could be carried out as early as Wednesday, Nov. 4. **Trump has not approved the plan, per the NYT.**
 
 ## Related
 
