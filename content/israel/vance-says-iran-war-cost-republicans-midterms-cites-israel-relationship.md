@@ -2,7 +2,7 @@
 title: "Vance Says Iran War Cost Republicans the Midterms, Lists Changing U.S. Relationship With Israel Among Voters' Demands"
 desk: israel
 date: 2026-11-04
-summary: "Updated 1 PM CT: Donald Trump Jr. reposted Vance's message, writing \"Every word of this is\" followed by three 100 emojis. In a lengthy X post Wednesday, Vice President JD Vance wrote that \"the reason we lost is the war,\" and said a pollster found that GOP defectors' top four demands were ending the war, focusing on cost of living, putting America First and changing the U.S. relationship with Israel, NBC News, Politico, Axios and the Jerusalem Post report."
+summary: "Updated 3 PM CT: Israel's UN ambassador Danny Danon told i24NEWS that Washington decided on its own to attack Iran: \"It's very easy always to blame Israel for everything.\" Updated 1 PM CT: Donald Trump Jr. reposted Vance's message, writing \"Every word of this is\" followed by three 100 emojis. In a lengthy X post Wednesday, Vice President JD Vance wrote that \"the reason we lost is the war,\" and said a pollster found that GOP defectors' top four demands were ending the war, focusing on cost of living, putting America First and changing the U.S. relationship with Israel, NBC News, Politico, Axios and the Jerusalem Post report."
 featured: true
 priority: 5
 image: "img/stories/vance-says-iran-war-cost-republicans-midterms-cites-israel-relationship.jpg"
@@ -12,6 +12,7 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3ANumber_One_Observat
 image_license: "Public domain"
 status: "Confirmed by NBC News, Politico, Axios and the Jerusalem Post"
 key_points:
+  - UPDATE NOV. 4, 3 PM CT - Israeli UN Ambassador Danny Danon, responding to Vance, told i24NEWS Washington independently decided to attack Iran, saying "It's very easy always to blame Israel for everything. But that's not the case"
   - UPDATE NOV. 4, 1 PM CT - Donald Trump Jr. reposted Vance and wrote "Every word of this is" followed by three 100 emojis (Mediaite, Iran International)
   - Vance wrote on X - "The reason we lost is the war. The president himself said so last night" (NBC News, Politico, Axios)
   - He cited an unnamed pollster whose top four answers from defecting voters were - end the war, focus on cost of living and inflation, put America First, change our relationship to Israel (Jerusalem Post, NBC News)
@@ -20,6 +21,8 @@ key_points:
   - Axios says the post put "at least a little daylight" between Vance and Trump; some X posts called it an open break
   - The White House and the vice president's office did not immediately respond to Axios
 sources:
+  - i24NEWS: Israel's UN ambassador warns of challenges after Democratic midterm victory | https://www.i24news.tv/en/news/israel/diplomacy/artc-it-will-be-harder-for-us-israel-s-un-ambassador-warns-of-challenges-following-democratic-midterm-victory
+  - CWN Breaking on X | https://x.com/CWNBreaking/status/2118087162868449462
   - Mediaite: Don Jr. co-signs Vance post | https://www.mediaite.com/media/news/don-jr-co-signs-jd-vances-pointed-attack-on-trumps-iran-war/
   - Iran International: Trump Jr. backs Vance | https://www.iranintl.com/en/202611048669
   - KolHaolam on X | https://x.com/KolHaolam/status/2118039786258878607
@@ -31,6 +34,10 @@ sources:
   - RightLineNews on X | https://x.com/RightLineNews/status/2118025584089731582
   - TheObserverLens on X | https://x.com/TheObserverLens/status/2118024253773947223
 ---
+
+## Update, Nov. 4, 3 PM CT
+
+Israel's ambassador to the United Nations, Danny Danon, pushed back on Vance's assessment in an interview with [i24NEWS](https://www.i24news.tv/en/news/israel/diplomacy/artc-it-will-be-harder-for-us-israel-s-un-ambassador-warns-of-challenges-following-democratic-midterm-victory). According to i24NEWS, Danon said Washington had independently decided to attack Iran, though Israel supported the operation, and rejected suggestions that Israel was responsible for the war or for rising U.S. energy prices. "It's very easy always to blame Israel for everything. But that's not the case," he said. He also warned that with Democrats in control of Congress, "it will be harder for us."
 
 ## Update, Nov. 4, 1 PM CT
 
