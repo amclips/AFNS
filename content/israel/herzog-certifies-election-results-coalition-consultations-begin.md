@@ -20,6 +20,7 @@ key_points:
   - The designee gets 28 days to form a government, with a possible 14-day extension
   - The attorney general rejected Shin Bet chief Zini's request to question MKs Mansour Abbas and Ahmad Tibi; JPost says Zini appears to be backing off
 sources:
+  - Kalshi Politics on X | https://x.com/KalshiPolitics/status/2118042814848057370
   - AP: Israel election results | https://apnews.com/article/israel-election-netanyahu-57aefc6424da937ad2842f6d762631ae
   - Al Jazeera: Israel vote results confirmed as election commission rejects fraud claims | https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims
   - Times of Israel: Full text of President Herzog's remarks | https://www.timesofisrael.com/full-text-of-president-herzogs-remarks-on-receiving-official-2026-election-results/
@@ -45,6 +46,8 @@ According to the [Times of Israel's full text](https://www.timesofisrael.com/ful
 Herzog's consultations with the parties run today and Thursday. [Ynet](https://www.ynetnews.com/article/syxx2dutfg) expects 48 Knesset members to recommend Eisenkot and 46 to recommend Netanyahu. The Joint List, Ra'am and United Torah Judaism are undecided. Whoever Herzog picks will have 28 days to form a government, with a possible 14-day extension.
 
 Eisenkot, Bennett, Lapid, Golan and Liberman have agreed to recommend Eisenkot. Ynet reports Eisenkot is leaning toward a minority government and courting the Haredi parties ([Ynet](https://www.ynetnews.com/article/h1n0nndtme)). Separately, Shas and two far-right parties are backing Netanyahu, according to reports in our [world briefing](/geopolitics/world-briefing-2026-11-04/).
+
+**Update, Nov. 4, 1 PM CT:** The prediction market Kalshi gives Eisenkot a 54% chance of becoming Israel's next prime minister ([Kalshi on X](https://x.com/KalshiPolitics/status/2118042814848057370)). That is a market price set by traders, not a poll.
 
 ## Clash over the Shin Bet election probe
 
