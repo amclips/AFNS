@@ -134,13 +134,15 @@ def load_articles():
             "date": date, "summary": meta.get("summary", ""), "byline": meta.get("byline") or CFG["byline"],
             "sample": meta.get("sample") is True, "status": meta.get("status") or "", "featured": meta.get("featured") is True,
             "desk_lead": meta.get("desk_lead") is True,
+            "priority": int(str(meta.get("priority") or 0)),
             "image": meta.get("image") or "", "image_alt": meta.get("image_alt", ""),
             "image_credit": meta.get("image_credit", ""), "image_source_url": meta.get("image_source_url", ""),
             "image_license": meta.get("image_license", ""),
             "key_points": meta.get("key_points", []) or [], "sources": sources,
             "path": f, "body": markdown(body), "words": len(re.findall(r"\w+", body)),
         })
-    arts.sort(key=lambda a: (a["date"], a["featured"]), reverse=True)
+    # Optional front-matter "priority" (int, default 0) breaks same-day ties; higher sorts first.
+    arts.sort(key=lambda a: (a["date"], a["featured"], a["priority"]), reverse=True)
     return arts
 
 def url_of(a):  # site-relative path, no leading slash
