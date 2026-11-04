@@ -2,7 +2,7 @@
 title: "Vance Says Iran War Cost Republicans the Midterms, Lists Changing U.S. Relationship With Israel Among Voters' Demands"
 desk: israel
 date: 2026-11-04
-summary: "In a lengthy X post Wednesday, Vice President JD Vance wrote that \"the reason we lost is the war,\" and said a pollster found that GOP defectors' top four demands were ending the war, focusing on cost of living, putting America First and changing the U.S. relationship with Israel, NBC News, Politico, Axios and the Jerusalem Post report."
+summary: "Updated 1 PM CT: Donald Trump Jr. reposted Vance's message, writing \"Every word of this is\" followed by three 100 emojis. In a lengthy X post Wednesday, Vice President JD Vance wrote that \"the reason we lost is the war,\" and said a pollster found that GOP defectors' top four demands were ending the war, focusing on cost of living, putting America First and changing the U.S. relationship with Israel, NBC News, Politico, Axios and the Jerusalem Post report."
 featured: true
 priority: 5
 image: "img/stories/vance-says-iran-war-cost-republicans-midterms-cites-israel-relationship.jpg"
@@ -12,6 +12,7 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3ANumber_One_Observat
 image_license: "Public domain"
 status: "Confirmed by NBC News, Politico, Axios and the Jerusalem Post"
 key_points:
+  - UPDATE NOV. 4, 1 PM CT - Donald Trump Jr. reposted Vance and wrote "Every word of this is" followed by three 100 emojis (Mediaite, Iran International)
   - Vance wrote on X - "The reason we lost is the war. The president himself said so last night" (NBC News, Politico, Axios)
   - He cited an unnamed pollster whose top four answers from defecting voters were - end the war, focus on cost of living and inflation, put America First, change our relationship to Israel (Jerusalem Post, NBC News)
   - "If you'd like to argue it was worth it, that losing the Senate for the next 6 years was worth it, then do so" (NBC News)
@@ -19,6 +20,9 @@ key_points:
   - Axios says the post put "at least a little daylight" between Vance and Trump; some X posts called it an open break
   - The White House and the vice president's office did not immediately respond to Axios
 sources:
+  - Mediaite: Don Jr. co-signs Vance post | https://www.mediaite.com/media/news/don-jr-co-signs-jd-vances-pointed-attack-on-trumps-iran-war/
+  - Iran International: Trump Jr. backs Vance | https://www.iranintl.com/en/202611048669
+  - KolHaolam on X | https://x.com/KolHaolam/status/2118039786258878607
   - NBC News: Vance says the real reason for GOP rout was anger over Iran war | https://www.nbcnews.com/politics/2026-election/vance-says-ranger-iran-war-caused-gop-midterm-losses-rcna607446
   - Politico: Vance blames Iran war for GOP's midterm losses | https://www.politico.com/news/2026/11/04/jd-vance-iran-war-midterms-01148838
   - Axios: Vance says the Iran war cost Republicans the midterms | https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election
@@ -27,6 +31,10 @@ sources:
   - RightLineNews on X | https://x.com/RightLineNews/status/2118025584089731582
   - TheObserverLens on X | https://x.com/TheObserverLens/status/2118024253773947223
 ---
+
+## Update, Nov. 4, 1 PM CT
+
+Donald Trump Jr. reposted Vance's message on X and wrote, "Every word of this is" followed by three 100 emojis, according to [Mediaite](https://www.mediaite.com/media/news/don-jr-co-signs-jd-vances-pointed-attack-on-trumps-iran-war/), which embedded the post, and [Iran International](https://www.iranintl.com/en/202611048669). Axios said he was "quick to apparently endorse" Vance's message. Separately, Axios reports Trump said at a White House event Wednesday afternoon that he agreed the war "drove the gasoline up a little bit, short term," but added, "if I had to do it again, I'd have to do it again" ([Axios](https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election)).
 
 **Status: Confirmed by NBC News, Politico, Axios and the Jerusalem Post.** The remarks come from Vance's own post on X. The quotes below are as those outlets report them.
 
