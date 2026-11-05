@@ -16,10 +16,13 @@ key_points:
   - Trump says ~$4B a year in U.S. military aid stops after this year; AP and Reuters say an abrupt cutoff is unlikely without Congress (see linked story)
   - WSJ reports small unpublicized U.S. strikes on Iran, including Qeshm; Trump told the FT he has no plans to strike (JINSA, AP)
   - Election officials reject Netanyahu's claim Qatar stole the election; Ayman Odeh is suspected of receiving foreign funds (American Israelite, Jerusalem Post)
+  - UPDATE 3 PM CT - Herzog delays mandate to Sunday, Nov. 8; tally 67-46 (Ynet); see Herzog story
   - UPDATE 11 AM CT - At least four killed in central/southern Gaza Thursday, including a child in Bureij (medical sources via Al Jazeera)
   - UPDATE 11 AM CT - Likud/Yashar meet Herzog tonight; Reuters deadline Nov. 11; see Herzog story
   - UPDATE 9 AM CT - Joint List recommendation lifts Eisenkot to 67 vs 46 (Ynet); see Herzog story
 sources:
+  - Ynet: Herzog delays mandate until Sunday | https://www.ynetnews.com/article/rjj1td9pfx
+  - Jerusalem Post: Lieberman Haredi-veto report and denial | https://www.jpost.com/israel-election-2026/article-914006
   - Al Jazeera: Four people including a child killed in Israeli attacks on Gaza | https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza
   - Jerusalem Post: Eisenkot expected to secure mandate | https://www.jpost.com/israel-election-2026/article-913989
   - Reuters via StreetInsider: Herzog deadline Nov. 11 | https://www.streetinsider.com/Reuters/Netanyahus+position+weakens+as+ultra-Orthodox+party+withholds+support/27293802.html
@@ -38,11 +41,13 @@ sources:
 
 **Status: Daily briefing.** Each item names its source.
 
+**Update, 3 PM CT:** Herzog finished consultations and is delaying the mandate decision until Sunday, Nov. 8 (Ynet). Details: [Herzog Delays Mandate Decision Until Sunday as Eisenkot Leads 67-46](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
+
 **Update, 11 AM CT:** Medical sources told Al Jazeera that Israeli strikes and gunfire killed at least four Palestinians in central and southern Gaza on Thursday, including a child in Bureij ([Al Jazeera](https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza)).
 
-**Update, 9 AM CT:** The Joint List recommended Eisenkot, lifting him to 67 recommendations vs 46 for Netanyahu (Ynet). Details: [Joint List Backs Eisenkot, Lifting Him to 67 Recommendations as Herzog Consultations Continue](/israel/herzog-certifies-election-results-coalition-consultations-begin/). Also: [Herzog 11 AM update — consultations end tonight](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
+**Update, 9 AM CT:** The Joint List recommended Eisenkot, lifting him to 67 recommendations vs 46 for Netanyahu (Ynet). Details: [Herzog Delays Mandate Decision Until Sunday as Eisenkot Leads 67-46](/israel/herzog-certifies-election-results-coalition-consultations-begin/). Also: [Herzog 11 AM update — consultations end tonight](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
 
-For the full consultation timeline, see [Joint List Backs Eisenkot, Lifting Him to 67 Recommendations as Herzog Consultations Continue](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
+For the full consultation timeline, see [Herzog Delays Mandate Decision Until Sunday as Eisenkot Leads 67-46](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
 
 ## Ra'am backs Trump's Gaza plan
 
