@@ -2,7 +2,7 @@
 title: "Joint List Backs Eisenkot, Lifting Him to 67 Recommendations as Herzog Consultations Continue"
 desk: israel
 date: 2026-11-05
-summary: "Updated 9 AM CT Nov. 5: The Joint List (11 seats) says it will recommend Gadi Eisenkot to form the next government, bringing him to 67 recommendations vs 46 for Netanyahu, past the 61 majority mark, Ynet reports. Herzog has not assigned the mandate and no coalition is agreed; reports that he could task Eisenkot as soon as this evening are unconfirmed. "
+summary: "Updated 11 AM CT Nov. 5: Likud and Yashar meet Herzog tonight, ending consultations; Reuters says he has until Nov. 11 to assign the mandate. Eisenkot backers include Yisrael Beytenu, Democrats, Ra'am, Joint List and Bennett's B'Yachad; Netanyahu has Religious Zionism-Zehut, Shas and Otzma Yehudit; UTJ recommended nobody. JPost expects Eisenkot to get the mandate; it is not yet assigned. Reported tally remains 67-46 pending Likud and Yashar. "
 featured: true
 priority: 11
 desk_lead: true
@@ -11,8 +11,10 @@ image_alt: "The Knesset building in Jerusalem (file image)"
 image_credit: "Gary Todd / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_Israeli_Parliament_Building_%2841404895850%29.jpg"
 image_license: "CC0"
-status: "Ynet: Joint List recommendation; mandate not yet assigned"
+status: "Consultations end tonight; mandate not yet assigned"
 key_points:
+  - UPDATE NOV. 5, 11 AM CT - Likud and Yashar meet Herzog tonight, ending consultations; Reuters: deadline Nov. 11; JPost expects Eisenkot to get the mandate, not yet assigned; tally 67-46 pending Likud/Yashar
+  - UPDATE NOV. 5, 11 AM CT - Eisenkot backers: Yisrael Beytenu, Democrats, Ra'am, Joint List, Bennett's B'Yachad; Netanyahu: Religious Zionism-Zehut, Shas, Otzma Yehudit; UTJ recommended nobody (JPost, Reuters)
   - UPDATE NOV. 5, 9 AM CT - Joint List (11 seats) will recommend Eisenkot, bringing him to 67 recommendations vs 46 for Netanyahu, past the 61 majority (Ynet); Herzog has not assigned the mandate; no coalition agreed
   - UPDATE NOV. 5 - Earlier day-two tally was 56 for Eisenkot and 46 for Netanyahu after UTJ recommended nobody (Times of Israel); 56 + 11 = 67
   - UPDATE NOV. 4, 3 PM CT - Ra'am said it would recommend Eisenkot (Ynet, Times of Israel); ToI's mid-consultation tally that day was 56 for Eisenkot and 53 for Netanyahu before UTJ's abstention
@@ -23,6 +25,8 @@ key_points:
   - The designee gets 28 days to form a government, with a possible 14-day extension
   - The attorney general rejected Shin Bet chief Zini's request to question MKs Mansour Abbas and Ahmad Tibi; JPost says Zini appears to be backing off
 sources:
+  - Jerusalem Post: Eisenkot expected to secure mandate as Herzog finishes meetings | https://www.jpost.com/israel-election-2026/article-913989
+  - Reuters via StreetInsider: Herzog has until Nov. 11; Likud and Yashar meet tonight | https://www.streetinsider.com/Reuters/Netanyahus+position+weakens+as+ultra-Orthodox+party+withholds+support/27293802.html
   - Ynet: Joint List officially announces it will recommend Eisenkot, bringing him to 67 | https://www.ynetnews.com/article/ea4mo8z60
   - Ynet: Eisenkot secures 67 endorsements after Joint List says it will back him | https://www.ynetnews.com/article/rydawnytgl
   - Anadolu: Eisenkot set to secure 67 recommendations after Joint List announces support | https://aa.com.tr/en/middle-east/israel-s-eisenkot-set-to-secure-67-recommendations-after-arab-joint-list-announces-support/4113117
@@ -42,6 +46,18 @@ sources:
   - Ynet: Change bloc backs Eisenkot | https://www.ynetnews.com/article/h1n0nndtme
   - Jerusalem Post: Election live updates, Nov. 4 | https://www.jpost.com/israel-election-2026/2026-11-04/live-updates-913771
 ---
+
+## Update, Nov. 5, 11 AM CT
+
+Likud and Yashar are scheduled to meet President Herzog **tonight**, wrapping up the consultation round that began Wednesday ([Reuters via StreetInsider](https://www.streetinsider.com/Reuters/Netanyahus+position+weakens+as+ultra-Orthodox+party+withholds+support/27293802.html), [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-913989)). Reuters says Herzog has until **Nov. 11** to choose who gets the first chance to form a government.
+
+**Backers reported so far (JPost, Reuters):**
+- **Eisenkot:** Yisrael Beytenu, the Democrats, Ra'am, the Joint List, and Naftali Bennett's B'Yachad
+- **Netanyahu:** Religious Zionism-Zehut, Shas, and Otzma Yehudit
+- **UTJ:** recommended nobody
+
+The Jerusalem Post says Eisenkot is **expected** to receive the presidential mandate. **Herzog has not assigned it.** The reported recommendation tally remains **67 for Eisenkot and 46 for Netanyahu**, pending tonight's Likud and Yashar meetings. Recommendations are not a coalition.
+
 
 ## Update, Nov. 5, 9 AM CT
 
