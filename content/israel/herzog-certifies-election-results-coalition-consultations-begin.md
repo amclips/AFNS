@@ -2,7 +2,7 @@
 title: "Herzog Certifies Israel's Election Results as Coalition Consultations Begin"
 desk: israel
 date: 2026-11-04
-summary: "Updated 3 PM CT: Ra'am says it will recommend Eisenkot; the Times of Israel tallies 56 recommendations for Eisenkot and 53 for Netanyahu. Netanyahu warned against a minority government that depends on Arab parties. President Herzog accepted the certified results of the Oct. 27 election after the Central Elections Committee said an audit of 9,069 polling stations found no fraud that changed the outcome. Coalition consultations run today and Thursday; Ynet expects 48 recommendations for Eisenkot and 46 for Netanyahu."
+summary: "Updated Nov. 5: On day two of Herzog consultations, Ra'am, the Democrats and Yisrael Beytenu recommended Eisenkot; United Torah Judaism recommended nobody. The Times of Israel now tallies 56 recommendations for Eisenkot and 46 for Netanyahu (UTJ's seven seats explain the drop from yesterday's 53). Likud, Yashar, B'Yachad and the Joint List meet Herzog later Thursday. "
 featured: true
 priority: 3
 desk_lead: true
@@ -13,7 +13,8 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_Israeli_Par
 image_license: "CC0"
 status: "Results certified; consultations under way"
 key_points:
-  - UPDATE NOV. 4, 3 PM CT - Ra'am says it will recommend Eisenkot (Ynet, Times of Israel); the Times of Israel tallies 56 for Eisenkot and 53 for Netanyahu, and an X post claiming 56-46 is unverified
+  - UPDATE NOV. 5 - Day-two recommendations put Eisenkot at 56 and Netanyahu at 46 after UTJ recommended nobody (Times of Israel); Likud, Yashar, B'Yachad and the Joint List still to meet Herzog
+  - UPDATE NOV. 4, 3 PM CT - Ra'am said it would recommend Eisenkot (Ynet, Times of Israel); ToI's mid-consultation tally that day was 56 for Eisenkot and 53 for Netanyahu before UTJ's abstention
   - The Central Elections Committee says an audit of 9,069 polling stations found no fraud that changed the outcome; AP and Al Jazeera report this undercuts Netanyahu's fraud claims
   - Final seats - Netanyahu bloc 53, Eisenkot bloc 48, Arab parties a record 19
   - Herzog urged compromise, condemned racist rhetoric against Arab citizens and warned against another election (Times of Israel full text)
@@ -21,11 +22,14 @@ key_points:
   - The designee gets 28 days to form a government, with a possible 14-day extension
   - The attorney general rejected Shin Bet chief Zini's request to question MKs Mansour Abbas and Ahmad Tibi; JPost says Zini appears to be backing off
 sources:
+  - Times of Israel: UTJ declines to endorse candidate | https://www.timesofisrael.com/liveblog_entry/united-torah-judaism-declines-to-endorse-candidate-for-prime-minister-in-herzog-consultations/
+  - Jerusalem Post: Herzog consultations / Eisenkot ahead | https://www.jpost.com/israel-election-2026/article-913890
+  - RTE: Israel government formation | https://www.rte.ie/news/middle-east/2026/1105/1598104-israel-government/
   - Times of Israel: Ra'am will recommend Eisenkot for PM | https://www.timesofisrael.com/liveblog_entry/raam-will-recommend-eisenkot-for-pm-likely-giving-him-first-shot-at-forming-government/
   - Ynet: Ra'am decides to recommend Eisenkot | https://www.ynetnews.com/article/dtwgv35tf
   - Ynet: Netanyahu says only unity government under his leadership can confront radical Islam | https://www.ynetnews.com/article/h1x0000wfafe
   - Israel National News: Netanyahu issues first statement since elections | https://www.israelnationalnews.com/news/435681
-  - X post claiming a 56-46 count (unverified) | https://x.com/TwilightDewy/status/2118082997824213347
+  - X post that floated a 56-46 count on Nov. 4 | https://x.com/TwilightDewy/status/2118082997824213347
   - Kalshi Politics on X | https://x.com/KalshiPolitics/status/2118042814848057370
   - AP: Israel election results | https://apnews.com/article/israel-election-netanyahu-57aefc6424da937ad2842f6d762631ae
   - Al Jazeera: Israel vote results confirmed as election commission rejects fraud claims | https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims
@@ -35,9 +39,14 @@ sources:
   - Jerusalem Post: Election live updates, Nov. 4 | https://www.jpost.com/israel-election-2026/2026-11-04/live-updates-913771
 ---
 
+## Update, Nov. 5
+
+On day two of President Herzog's consultations, Ra'am, Yair Golan's Democrats and Yisrael Beytenu recommended Gadi Eisenkot. United Torah Judaism — Netanyahu's partner after the last five elections — recommended nobody ([Times of Israel](https://www.timesofisrael.com/liveblog_entry/united-torah-judaism-declines-to-endorse-candidate-for-prime-minister-in-herzog-consultations/), [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-913890), [RTE](https://www.rte.ie/news/middle-east/2026/1105/1598104-israel-government/)). The Times of Israel now tallies **56 recommendations for Eisenkot and 46 for Netanyahu**. That supersedes yesterday's mid-consultation 56-to-53 ToI count: UTJ's seven seats left Netanyahu's recommendation total without them. Likud, Yashar, B'Yachad and the Joint List meet Herzog later Thursday. Herzog usually gives the mandate to whoever has the most recommendations, so Eisenkot is expected to get it; the designee has 28 days plus a possible 14-day extension, and failure could mean another election early next year.
+
+
 ## Update, Nov. 4, 3 PM CT
 
-The Arab-led Ra'am party says it will recommend Gadi Eisenkot to form the next government ([Ynet](https://www.ynetnews.com/article/dtwgv35tf), [Times of Israel](https://www.timesofisrael.com/liveblog_entry/raam-will-recommend-eisenkot-for-pm-likely-giving-him-first-shot-at-forming-government/)). The Times of Israel says Ra'am's eight incoming lawmakers bring Eisenkot to 56 recommendations, against 53 for Netanyahu, with the Joint List's 11 seats possibly abstaining. These are outlet tallies, not Herzog's official count, and consultations continue Thursday. An X post put the count at 56 to 46; that figure is **unverified** and differs from the Times of Israel tally. Neither candidate has a 61-seat majority, and the Times of Israel notes Eisenkot pledged before the election not to include Ra'am in his government.
+The Arab-led Ra'am party said it would recommend Gadi Eisenkot to form the next government ([Ynet](https://www.ynetnews.com/article/dtwgv35tf), [Times of Israel](https://www.timesofisrael.com/liveblog_entry/raam-will-recommend-eisenkot-for-pm-likely-giving-him-first-shot-at-forming-government/)). The Times of Israel's mid-consultation tally that afternoon was 56 recommendations for Eisenkot and 53 for Netanyahu, with the Joint List's 11 seats possibly abstaining. Those were outlet tallies, not Herzog's official count. Neither candidate has a 61-seat majority, and the Times of Israel notes Eisenkot pledged before the election not to include Ra'am in his government. (An X post that day also floated 56 to 46; that figure matched ToI's later day-two tally after UTJ abstained — see the Nov. 5 update below.)
 
 In his first video statement since the election, Netanyahu warned that "the one government that certainly will not be able to confront the threat of radical Islam is a government that depends on radical Islam," and accused opposition leaders of working toward "a narrow minority government" ([Ynet](https://www.ynetnews.com/article/h1x0000wfafe), [Israel National News](https://www.israelnationalnews.com/news/435681)). He called for a broad national government led by Likud.
 
