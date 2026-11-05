@@ -3,7 +3,7 @@ title: "Vance Says Iran War Cost Republicans the Midterms, Lists Changing U.S. R
 desk: israel
 date: 2026-11-04
 summary: "Updated 3 PM CT: Israel's UN ambassador Danny Danon told i24NEWS that Washington decided on its own to attack Iran: \"It's very easy always to blame Israel for everything.\" Updated 1 PM CT: Donald Trump Jr. reposted Vance's message, writing \"Every word of this is\" followed by three 100 emojis. In a lengthy X post Wednesday, Vice President JD Vance wrote that \"the reason we lost is the war,\" and said a pollster found that GOP defectors' top four demands were ending the war, focusing on cost of living, putting America First and changing the U.S. relationship with Israel, NBC News, Politico, Axios and the Jerusalem Post report."
-featured: true
+featured: false
 priority: 5
 image: "img/stories/vance-says-iran-war-cost-republicans-midterms-cites-israel-relationship.jpg"
 image_alt: "Number One Observatory Circle, the vice president's residence in Washington, in snow (file image, 2017)"
