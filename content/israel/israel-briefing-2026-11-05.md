@@ -16,7 +16,7 @@ key_points:
   - Trump says ~$4B a year in U.S. military aid stops after this year; AP and Reuters say an abrupt cutoff is unlikely without Congress (see linked story)
   - WSJ reports small unpublicized U.S. strikes on Iran, including Qeshm; Trump told the FT he has no plans to strike (JINSA, AP)
   - Election officials reject Netanyahu's claim Qatar stole the election; Ayman Odeh is suspected of receiving foreign funds (American Israelite, Jerusalem Post)
-  - Day-two recommendation tallies are on the Herzog story
+  - UPDATE 9 AM CT - Joint List recommendation lifts Eisenkot to 67 vs 46 (Ynet); see Herzog story
 sources:
   - Jerusalem Post: Election live updates, Nov. 5 | https://www.jpost.com/israel-election-2026/2026-11-05/live-updates-913880
   - Reuters: Trump says U.S. will stop paying Israel after year-end | https://www.reuters.com/5f374b32b07b/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/
@@ -31,7 +31,11 @@ sources:
   - RTE: Israel government | https://www.rte.ie/news/middle-east/2026/1105/1598104-israel-government/
 ---
 
-**Status: Daily briefing.** Each item names its source. For day-two recommendation tallies, see the update on [Herzog Certifies Israel's Election Results as Coalition Consultations Begin](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
+**Status: Daily briefing.** Each item names its source.
+
+**Update, 9 AM CT:** The Joint List recommended Eisenkot, lifting him to 67 recommendations vs 46 for Netanyahu (Ynet). Details: [Joint List Backs Eisenkot, Lifting Him to 67 Recommendations as Herzog Consultations Continue](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
+
+For the full consultation timeline, see [Joint List Backs Eisenkot, Lifting Him to 67 Recommendations as Herzog Consultations Continue](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
 
 ## Ra'am backs Trump's Gaza plan
 
