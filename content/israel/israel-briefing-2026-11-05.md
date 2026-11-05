@@ -16,8 +16,13 @@ key_points:
   - Trump says ~$4B a year in U.S. military aid stops after this year; AP and Reuters say an abrupt cutoff is unlikely without Congress (see linked story)
   - WSJ reports small unpublicized U.S. strikes on Iran, including Qeshm; Trump told the FT he has no plans to strike (JINSA, AP)
   - Election officials reject Netanyahu's claim Qatar stole the election; Ayman Odeh is suspected of receiving foreign funds (American Israelite, Jerusalem Post)
+  - UPDATE 11 AM CT - At least four killed in central/southern Gaza Thursday, including a child in Bureij (medical sources via Al Jazeera)
+  - UPDATE 11 AM CT - Likud/Yashar meet Herzog tonight; Reuters deadline Nov. 11; see Herzog story
   - UPDATE 9 AM CT - Joint List recommendation lifts Eisenkot to 67 vs 46 (Ynet); see Herzog story
 sources:
+  - Al Jazeera: Four people including a child killed in Israeli attacks on Gaza | https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza
+  - Jerusalem Post: Eisenkot expected to secure mandate | https://www.jpost.com/israel-election-2026/article-913989
+  - Reuters via StreetInsider: Herzog deadline Nov. 11 | https://www.streetinsider.com/Reuters/Netanyahus+position+weakens+as+ultra-Orthodox+party+withholds+support/27293802.html
   - Jerusalem Post: Election live updates, Nov. 5 | https://www.jpost.com/israel-election-2026/2026-11-05/live-updates-913880
   - Reuters: Trump says U.S. will stop paying Israel after year-end | https://www.reuters.com/5f374b32b07b/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/
   - AP: Trump Israel military aid | https://apnews.com/article/trump-israel-military-aid-hardware-5cad93330300b2d45a9665d5eccb2ab2
@@ -33,7 +38,9 @@ sources:
 
 **Status: Daily briefing.** Each item names its source.
 
-**Update, 9 AM CT:** The Joint List recommended Eisenkot, lifting him to 67 recommendations vs 46 for Netanyahu (Ynet). Details: [Joint List Backs Eisenkot, Lifting Him to 67 Recommendations as Herzog Consultations Continue](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
+**Update, 11 AM CT:** Medical sources told Al Jazeera that Israeli strikes and gunfire killed at least four Palestinians in central and southern Gaza on Thursday, including a child in Bureij ([Al Jazeera](https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza)).
+
+**Update, 9 AM CT:** The Joint List recommended Eisenkot, lifting him to 67 recommendations vs 46 for Netanyahu (Ynet). Details: [Joint List Backs Eisenkot, Lifting Him to 67 Recommendations as Herzog Consultations Continue](/israel/herzog-certifies-election-results-coalition-consultations-begin/). Also: [Herzog 11 AM update — consultations end tonight](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
 
 For the full consultation timeline, see [Joint List Backs Eisenkot, Lifting Him to 67 Recommendations as Herzog Consultations Continue](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
 
@@ -46,6 +53,8 @@ Mansour Abbas told President Herzog that Ra'am fully supports Trump's Gaza peace
 Trump says roughly $4 billion a year in U.S. military aid to Israel stops after this year, that arms sales continue, and that Netanyahu agreed ([Reuters](https://www.reuters.com/5f374b32b07b/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/), [AP](https://apnews.com/article/trump-israel-military-aid-hardware-5cad93330300b2d45a9665d5eccb2ab2), [NY Post](https://nypost.com/2026/11/04/us-news/us-to-withdraw-4b-in-israel-aid-as-trump-weighs-next-move-in-iran-war/)). The current agreement runs to September 2028, so AP and Reuters say an abrupt cutoff is unlikely without Congress. A U.S. official told the NY Post the phase-down was negotiated for months and could begin in October 2027. Full story: [Report: Trump Says U.S. Military Aid to Israel Will End This Year](/israel/report-trump-says-us-military-aid-israel-will-end-this-year/).
 
 ## Iran: quiet small strikes while talks drag on
+
+**Update, 11 AM CT:** The New York Times reports U.S. forces are poised to resume major combat against Iran if Trump orders it (unnamed Pentagon officials; not confirmed by the White House). Full story: [Report: Pentagon Ready to Resume Iran Strikes if Trump Orders](/israel/report-pentagon-ready-resume-iran-strikes-if-trump-orders/).
 
 The Wall Street Journal has reported that the U.S. carried out small, unpublicized airstrikes on Iran, including on Qeshm Island on Nov. 2 ([JINSA update](https://jinsa.org/wp-content/uploads/2026/11/Iran-War-Update-11.4.26.pdf), [AP](https://apnews.com/article/mideast-news-november-3-2026-9ae5cec3d1f9cde02652f52f7f80fbce)). Trump told the Financial Times he has no plans to strike Iran because "we seem to be getting everything we want." Qatar is still mediating; Iran wants China to guarantee any deal. U.S. officials remain skeptical of Israel's chemical-weapons warning. Related: [U.S. Officials: Limited 'Defensive' Strikes Hit Iranian Missiles on Qeshm Island](/israel/report-us-strikes-iranian-missile-launcher-qeshm-island/).
 
