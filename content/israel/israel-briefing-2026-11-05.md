@@ -16,11 +16,17 @@ key_points:
   - Trump says ~$4B a year in U.S. military aid stops after this year; AP and Reuters say an abrupt cutoff is unlikely without Congress (see linked story)
   - WSJ reports small unpublicized U.S. strikes on Iran, including Qeshm; Trump told the FT he has no plans to strike (JINSA, AP)
   - Election officials reject Netanyahu's claim Qatar stole the election; Ayman Odeh is suspected of receiving foreign funds (American Israelite, Jerusalem Post)
+  - UPDATE 5 PM CT - al-Shati camp airstrike killed three Thursday evening (WAFA via Al Jazeera); separate from morning Bureij item
+  - UPDATE 5 PM CT - Trump Oval Office Iran remarks + Reuters nuclear-proposal item; see Iran story
   - UPDATE 3 PM CT - Herzog delays mandate to Sunday, Nov. 8; tally 67-46 (Ynet); see Herzog story
   - UPDATE 11 AM CT - At least four killed in central/southern Gaza Thursday, including a child in Bureij (medical sources via Al Jazeera)
   - UPDATE 11 AM CT - Likud/Yashar meet Herzog tonight; Reuters deadline Nov. 11; see Herzog story
   - UPDATE 9 AM CT - Joint List recommendation lifts Eisenkot to 67 vs 46 (Ynet); see Herzog story
 sources:
+  - WAFA: Three Palestinians killed in Israeli airstrike on Gaza City (al-Shati) | https://english.wafa.ps/Pages/Details/176683
+  - Al Jazeera live blog, Nov. 5 | https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it
+  - Iran International: Trump Oval Office remarks | https://www.iranintl.com/en/liveblog/202610312594
+  - Jerusalem Post (Reuters): Iran nuclear proposal via Qatar | https://www.jpost.com/middle-east/article-914025
   - Ynet: Herzog delays mandate until Sunday | https://www.ynetnews.com/article/rjj1td9pfx
   - Jerusalem Post: Lieberman Haredi-veto report and denial | https://www.jpost.com/israel-election-2026/article-914006
   - Al Jazeera: Four people including a child killed in Israeli attacks on Gaza | https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza
@@ -41,6 +47,10 @@ sources:
 
 **Status: Daily briefing.** Each item names its source.
 
+**Update, 5 PM CT — Gaza, al-Shati (separate from morning item):** WAFA reports an Israeli airstrike Thursday evening near Martyrs Square in al-Shati refugee camp, west of Gaza City, killed three Palestinians and wounded others ([WAFA](https://english.wafa.ps/Pages/Details/176683); also carried on [Al Jazeera live blog](https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it)). This is separate from the morning central/southern Gaza deaths (Bureij, Deir el-Balah, Khan Younis).
+
+**Update, 5 PM CT — Iran:** Trump Oval Office remarks and Reuters Iran-via-Qatar nuclear proposal item are on [Trump Says You Will Know Soon Enough on Iran; Report: Pentagon Ready if He Orders](/israel/report-pentagon-ready-resume-iran-strikes-if-trump-orders/).
+
 **Update, 3 PM CT:** Herzog finished consultations and is delaying the mandate decision until Sunday, Nov. 8 (Ynet). Details: [Herzog Delays Mandate Decision Until Sunday as Eisenkot Leads 67-46](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
 
 **Update, 11 AM CT:** Medical sources told Al Jazeera that Israeli strikes and gunfire killed at least four Palestinians in central and southern Gaza on Thursday, including a child in Bureij ([Al Jazeera](https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza)).
@@ -59,7 +69,7 @@ Trump says roughly $4 billion a year in U.S. military aid to Israel stops after 
 
 ## Iran: quiet small strikes while talks drag on
 
-**Update, 11 AM CT:** The New York Times reports U.S. forces are poised to resume major combat against Iran if Trump orders it (unnamed Pentagon officials; not confirmed by the White House). Full story: [Report: Pentagon Ready to Resume Iran Strikes if Trump Orders](/israel/report-pentagon-ready-resume-iran-strikes-if-trump-orders/).
+**Update, 11 AM CT:** The New York Times reports U.S. forces are poised to resume major combat against Iran if Trump orders it (unnamed Pentagon officials; not confirmed by the White House). Full story: [Trump Says You Will Know Soon Enough on Iran; Report: Pentagon Ready if He Orders](/israel/report-pentagon-ready-resume-iran-strikes-if-trump-orders/).
 
 The Wall Street Journal has reported that the U.S. carried out small, unpublicized airstrikes on Iran, including on Qeshm Island on Nov. 2 ([JINSA update](https://jinsa.org/wp-content/uploads/2026/11/Iran-War-Update-11.4.26.pdf), [AP](https://apnews.com/article/mideast-news-november-3-2026-9ae5cec3d1f9cde02652f52f7f80fbce)). Trump told the Financial Times he has no plans to strike Iran because "we seem to be getting everything we want." Qatar is still mediating; Iran wants China to guarantee any deal. U.S. officials remain skeptical of Israel's chemical-weapons warning. Related: [U.S. Officials: Limited 'Defensive' Strikes Hit Iranian Missiles on Qeshm Island](/israel/report-us-strikes-iranian-missile-launcher-qeshm-island/).
 
