@@ -1,17 +1,21 @@
 ---
 title: "Trump Says You Will Know Soon Enough on Iran; Report: Pentagon Ready if He Orders"
 desk: israel
-date: 2026-11-05
-summary: "Updated 5 PM CT Nov. 5: In Oval Office remarks Thursday afternoon, Trump said he would rather not destroy the rest of Iran if possible, but maybe I will have to — you will know soon enough; claimed Iran could take 25 years to rebuild and that a lot of things are cooking. Sharper than his morning maybe I will, maybe I will not line. A senior Iranian official told Reuters Tehran sent a nuclear proposal via Qatar, to be discussed only after seven demands including sanctions relief; Trump said Iran is not going to have a nuclear weapon. Earlier NYT report on Pentagon readiness stands; no strike order announced. "
+date: 2026-11-06
+summary: "Updated Nov. 6: Axios reports Trump met his national security team on Iran for the first time since the midterms and faces three options — new strikes, continued economic pressure, or a deal with concessions. A Qatari draft would have the US lift the naval blockade and release some frozen funds while Iran invites inspectors, then reopen Hormuz and resume talks. CENTCOM is preparing but has no new directive; the USS Theodore Roosevelt strike group is not expected before mid-November. Separately, AP court documents show secret talks with Iran about deporting Iranians during the war. No strike order announced. "
 featured: true
-priority: 8
+priority: 5
 image: "img/stories/report-pentagon-ready-resume-iran-strikes-if-trump-orders.jpg"
 image_alt: "USS Nimitz (CVN 68) transits the Persian Gulf, Aug. 13, 2013 (file image)"
 image_credit: "U.S. Navy / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AThe_aircraft_carrier_USS_Nimitz_%28CVN_68%29_transits_the_Persian_Gulf_Aug._13%2C_2013_130813-N-IB033-444.jpg"
 image_license: "Public domain"
-status: "Trump Oval Office remarks; NYT readiness report; no strike order announced"
+status: "Axios: post-midterm Iran options meeting; no strike order announced"
 key_points:
+  - UPDATE NOV. 6 - Axios: Trump met national security team on Iran for first time since midterms; three options — new strikes, economic pressure, or a deal with concessions; decision soon; no strike order announced
+  - UPDATE NOV. 6 - Qatari draft terms per Axios: US lifts naval blockade and releases some frozen funds; Iran invites international nuclear inspectors; then Hormuz reopens and nuclear talks resume over two days
+  - UPDATE NOV. 6 - CENTCOM finalizing preparations for possible renewed major combat but no new directive; USS Theodore Roosevelt strike group not expected before mid-November; Araghchi calls with Qatar, Saudi Arabia, Turkey, UAE, Oman, Egypt (Axios)
+  - UPDATE NOV. 6 - AP via Washington Post: court documents show the administration held secret talks with Iran about deporting Iranians during the war
   - UPDATE NOV. 5, 5 PM CT - Oval Office: Trump said he would rather not destroy the rest of the country if possible, but maybe I will have to; you will know soon enough; claimed 25 years to rebuild and a lot of things cooking (Iran Intl, Al Jazeera); sharper than morning maybe I will, maybe I will not
   - UPDATE NOV. 5, 5 PM CT - Senior Iranian official tells Reuters Tehran sent a nuclear proposal via Qatar, to be discussed only after seven demands (sanctions relief, frozen assets, ending naval blockade among them); US reviewing; Trump: not going to have a nuclear weapon (Reuters/JPost)
   - The New York Times, dated Nov. 5, 2026, says Pentagon officials and commanders told the paper Wednesday that U.S. forces are poised to resume major combat against Iran on Trump's orders
@@ -21,6 +25,8 @@ key_points:
   - That contrasts with his Financial Times interview saying the U.S. has no immediate plans to strike because, quote, we seem to be getting everything we want
   - Not confirmed by the White House; no presidential order for renewed major combat has been announced
 sources:
+  - Axios: Trump Iran war national security team decision | https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision
+  - Washington Post (AP court docs): Iran immigration deportation flights / emails | https://www.washingtonpost.com/politics/2026/11/05/iran-immigration-deportation-flights-emails/ad662de0-d93e-11f1-930a-e08f8086f5ac_story.html
   - Iran International live blog: Trump Oval Office remarks (destroy / soon enough / cooking / 25 years) | https://www.iranintl.com/en/liveblog/202610312594
   - Al Jazeera live blog, Nov. 5: Trump 25 years / soon enough line | https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it
   - Barak Ravid on X | https://x.com/BarakRavid/status/2118455756445962685
@@ -34,6 +40,23 @@ sources:
   - Mediaite / Yahoo: Fox News election-night interview with the maybe I will, maybe I won't line | https://www.yahoo.com/news/politics/articles/fox-news-anchor-presses-trump-051901563.html
   - Fox News live updates, Nov. 4: Trump on further Iran strikes | https://www.foxnews.com/live-news/iran-war-news-trump-elections-oil-prices-november-4
 ---
+
+## Update, Nov. 6
+
+[Axios](https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision) reports that President Trump met his **national security team on Iran for the first time since the midterms** and says a decision is coming soon on whether to resume major strikes. Per Axios, advisers have framed **three options**: new strikes; continued **economic pressure**; or a **deal with concessions**.
+
+### Qatari draft terms (Axios)
+
+Axios describes a Qatari-mediated draft under which the United States would **lift the naval blockade** and **release some frozen funds**, Iran would **invite international nuclear inspectors**, and then the **Strait of Hormuz** would reopen and nuclear talks would resume, over about two days.
+
+CENTCOM is finalizing preparations that could support a return to major combat but has received **no new directive**, Axios says. A third carrier strike group led by the **USS Theodore Roosevelt** is **not expected before mid-November**. Iranian Foreign Minister Abbas Araghchi held calls with counterparts in **Qatar, Saudi Arabia, Turkey, the UAE, Oman and Egypt**.
+
+Thursday's Oval Office remarks are covered in the Nov. 5, 5 PM CT update below; this item focuses on the Axios post-midterm options account. **No presidential order** to resume major combat has been announced.
+
+### AP: secret deportation talks during the war
+
+Separately, [court documents reported by the Washington Post / AP](https://www.washingtonpost.com/politics/2026/11/05/iran-immigration-deportation-flights-emails/ad662de0-d93e-11f1-930a-e08f8086f5ac_story.html) show the administration held **secret talks with Iran about deporting Iranian nationals** even while the countries were at war. That is a distinct track from the combat-options debate.
+
 
 ## Update, Nov. 5, 5 PM CT
 

@@ -1,8 +1,8 @@
 ---
-title: "Herzog Delays Mandate Decision Until Sunday as Eisenkot Leads 67-46"
+title: "Herzog to Name Mandate Sunday; Eisenkot Has 67 Recommendations but Not Yet a Coalition"
 desk: israel
-date: 2026-11-05
-summary: "Updated 3 PM CT Nov. 5: Consultations are finished. Herzog is delaying the mandate decision until Sunday, Nov. 8, citing vetoes within and between blocs (Ynet, i24NEWS). The recommendation tally remains 67 for Eisenkot and 46 for Netanyahu. A contested Channel 12 report that Lieberman dropped his Haredi veto was denied by Yisrael Beytenu to the Jerusalem Post. "
+date: 2026-11-06
+summary: "Updated Nov. 6: Herzog will announce who gets the first mandate on Sunday, Nov. 8 (Times of Israel, Al Jazeera). Eisenkot leads 67-46 in recommendations, but only about 48 MKs in his camp are ready to govern together; the 19 Arab-party MKs recommended him without committing to a coalition, so stalemate or another election remains possible. JPost: UTJ will join talks if a Haredi draft solution emerges. Channel 12 Lieberman Haredi-veto report remains CONTESTED after Yisrael Beytenu denial. "
 featured: true
 priority: 11
 desk_lead: true
@@ -11,8 +11,10 @@ image_alt: "The Knesset building in Jerusalem (file image)"
 image_credit: "Gary Todd / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_Israeli_Parliament_Building_%2841404895850%29.jpg"
 image_license: "CC0"
-status: "Mandate decision delayed to Sunday, Nov. 8; not yet assigned"
+status: "Mandate to be announced Sunday, Nov. 8; recommendations are not a coalition"
 key_points:
+  - UPDATE NOV. 6 - Herzog to announce the mandate Sunday, Nov. 8 (Times of Israel, Al Jazeera); tally 67-46; only about 48 MKs in Eisenkot camp ready to govern together; 19 Arab-party MKs recommended him without committing to a coalition — stalemate or new election still possible (ToI)
+  - UPDATE NOV. 6 - JPost: UTJ will join coalition talks if a Haredi draft solution emerges; Lieberman Haredi-veto / rotation item remains CONTESTED after Yisrael Beytenu denial
   - UPDATE NOV. 5, 3 PM CT - Consultations finished; Herzog delaying the mandate to Sunday, Nov. 8, citing vetoes within and between blocs (Ynet, i24NEWS); tally unchanged at 67-46
   - CONTESTED NOV. 5, 3 PM CT - Channel 12 Amit Segal: Lieberman dropped Haredi veto, opening Eisenkot-bloc/UTJ talks on a 2018-style draft law; rotation talk is speculation; Yisrael Beytenu denied to JPost (not aware; nothing has changed)
   - UPDATE NOV. 5, 11 AM CT - Likud and Yashar meet Herzog tonight, ending consultations; Reuters: deadline Nov. 11; JPost expects Eisenkot to get the mandate, not yet assigned; tally 67-46 pending Likud/Yashar
@@ -27,6 +29,10 @@ key_points:
   - The designee gets 28 days to form a government, with a possible 14-day extension
   - The attorney general rejected Shin Bet chief Zini's request to question MKs Mansour Abbas and Ahmad Tibi; JPost says Zini appears to be backing off
 sources:
+  - Times of Israel: Herzog announces mandate decision Sunday | https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/
+  - Times of Israel: Eisenkot still well short of a government | https://www.timesofisrael.com/eisenkot-bolstered-by-pm-recommendations-but-still-well-short-of-a-government/
+  - Al Jazeera: Herzog to name a candidate Sunday | https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday
+  - Jerusalem Post live updates, Nov. 6 | https://www.jpost.com/israel-election-2026/2026-11-06/live-updates-914034
   - Ynet: Eisenkot leads 67-46, but Herzog delays mandate decision until Sunday | https://www.ynetnews.com/article/rjj1td9pfx
   - i24NEWS on X: Herzog to assign mandate Sunday amid bloc vetoes | https://x.com/i24NEWS_EN/status/2118432451127288070
   - Amit Segal on X: Lieberman Haredi-veto report (Channel 12) | https://x.com/AmitSegal/status/2118401486178881623
@@ -52,6 +58,15 @@ sources:
   - Ynet: Change bloc backs Eisenkot | https://www.ynetnews.com/article/h1n0nndtme
   - Jerusalem Post: Election live updates, Nov. 4 | https://www.jpost.com/israel-election-2026/2026-11-04/live-updates-913771
 ---
+
+## Update, Nov. 6
+
+President Herzog will **announce who gets the first mandate on Sunday, Nov. 8**, the [Times of Israel](https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/) and [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday) report. The recommendation tally remains **67 for Gadi Eisenkot and 46 for Benjamin Netanyahu**. **Herzog has not assigned the mandate yet.**
+
+**Important nuance:** Recommendations are not a governing coalition. [Times of Israel](https://www.timesofisrael.com/eisenkot-bolstered-by-pm-recommendations-but-still-well-short-of-a-government/) notes that only about **48 MKs** in Eisenkot's own camp are actually ready to govern together. The **19 Arab-party MKs** recommended him without committing to join a coalition, so a **stalemate or another election** remains possible even if he gets the first nod. The designee would get 28 days plus a possible 14-day extension.
+
+[Jerusalem Post live updates](https://www.jpost.com/israel-election-2026/2026-11-06/live-updates-914034) say **United Torah Judaism** will join coalition talks if a **Haredi draft** solution emerges. The Channel 12 report that Avigdor Lieberman dropped his Haredi veto — and any Eisenkot-Lieberman rotation talk — remains **CONTESTED** after Yisrael Beytenu told the Jerusalem Post it was "not aware" and that "nothing has changed."
+
 
 ## Update, Nov. 5, 3 PM CT
 
