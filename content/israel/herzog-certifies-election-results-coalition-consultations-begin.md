@@ -1,8 +1,8 @@
 ---
-title: "Herzog to Name Mandate Sunday; Eisenkot Has 67 Recommendations but Not Yet a Coalition"
+title: "Eisenkot Proposes Minority Emergency Government as Herzog Still Set to Name Mandate Sunday"
 desk: israel
 date: 2026-11-06
-summary: "Updated Nov. 6: Herzog will announce who gets the first mandate on Sunday, Nov. 8 (Times of Israel, Al Jazeera). Eisenkot leads 67-46 in recommendations, but only about 48 MKs in his camp are ready to govern together; the 19 Arab-party MKs recommended him without committing to a coalition, so stalemate or another election remains possible. JPost: UTJ will join talks if a Haredi draft solution emerges. Channel 12 Lieberman Haredi-veto report remains CONTESTED after Yisrael Beytenu denial. "
+summary: "Updated 9 AM CT Nov. 6: Eisenkot proposed a minority emergency government — swear in the four Change-bloc parties first, then let others join if they accept four principles (Jewish and democratic state; Declaration of Independence values; service for all; dismantling Hamas). He claims significant progress and hopes for the mandate early next week while Herzog remains scheduled for Sunday. The will not be forgiven remark is widely read as aimed at Liberman. This is a proposal, not an agreed coalition; tally remains 67-46 with only about 48 MKs committed to govern together (Ynet, Anadolu, Eisenkot on X). "
 featured: true
 priority: 11
 desk_lead: true
@@ -11,8 +11,9 @@ image_alt: "The Knesset building in Jerusalem (file image)"
 image_credit: "Gary Todd / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_Israeli_Parliament_Building_%2841404895850%29.jpg"
 image_license: "CC0"
-status: "Mandate to be announced Sunday, Nov. 8; recommendations are not a coalition"
+status: "Eisenkot proposal for minority emergency government; mandate not yet assigned"
 key_points:
+  - UPDATE NOV. 6, 9 AM CT - Eisenkot proposes a minority emergency government: swear in four Change-bloc parties, others may join if they accept four principles (Jewish and democratic state; Declaration of Independence values; service for all; dismantling Hamas); claims significant progress; hopes for mandate early next week; Herzog still Sunday; will not be forgiven remark widely read as aimed at Liberman — PROPOSAL, not an agreed coalition (Ynet, Anadolu, Eisenkot on X)
   - UPDATE NOV. 6 - Herzog to announce the mandate Sunday, Nov. 8 (Times of Israel, Al Jazeera); tally 67-46; only about 48 MKs in Eisenkot camp ready to govern together; 19 Arab-party MKs recommended him without committing to a coalition — stalemate or new election still possible (ToI)
   - UPDATE NOV. 6 - JPost: UTJ will join coalition talks if a Haredi draft solution emerges; Lieberman Haredi-veto / rotation item remains CONTESTED after Yisrael Beytenu denial
   - UPDATE NOV. 5, 3 PM CT - Consultations finished; Herzog delaying the mandate to Sunday, Nov. 8, citing vetoes within and between blocs (Ynet, i24NEWS); tally unchanged at 67-46
@@ -29,6 +30,9 @@ key_points:
   - The designee gets 28 days to form a government, with a possible 14-day extension
   - The attorney general rejected Shin Bet chief Zini's request to question MKs Mansour Abbas and Ahmad Tibi; JPost says Zini appears to be backing off
 sources:
+  - Ynet: Eisenkot minority emergency government proposal | https://www.ynetnews.com/article/s1rqpujazx
+  - Anadolu: Eisenkot reports progress in talks to form emergency government | https://www.aa.com.tr/en/middle-east/israeli-opposition-leader-eisenkot-reports-progress-in-talks-to-form-emergency-government/4114474
+  - Gadi Eisenkot on X | https://x.com/gadi_eisenkot/status/2118701261147013506
   - Times of Israel: Herzog announces mandate decision Sunday | https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/
   - Times of Israel: Eisenkot still well short of a government | https://www.timesofisrael.com/eisenkot-bolstered-by-pm-recommendations-but-still-well-short-of-a-government/
   - Al Jazeera: Herzog to name a candidate Sunday | https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday
@@ -58,6 +62,20 @@ sources:
   - Ynet: Change bloc backs Eisenkot | https://www.ynetnews.com/article/h1n0nndtme
   - Jerusalem Post: Election live updates, Nov. 4 | https://www.jpost.com/israel-election-2026/2026-11-04/live-updates-913771
 ---
+
+## Update, Nov. 6, 9 AM CT
+
+Gadi Eisenkot proposed a **minority emergency government** — a **proposal**, not an agreed coalition ([Ynet](https://www.ynetnews.com/article/s1rqpujazx), [Anadolu](https://www.aa.com.tr/en/middle-east/israeli-opposition-leader-eisenkot-reports-progress-in-talks-to-form-emergency-government/4114474), [Eisenkot on X](https://x.com/gadi_eisenkot/status/2118701261147013506)). Under the plan, the four Change-bloc parties would be sworn in quickly, and any other faction could join later if it accepts four principles:
+
+1. A Jewish and democratic state
+2. Values of the Declaration of Independence
+3. Service for all
+4. Dismantling Hamas
+
+Eisenkot said talks made **"significant progress and breakthroughs"** and that he hopes to receive the mandate **early next week**, while President Herzog remains **scheduled to announce** the mandate on **Sunday, Nov. 8**. He warned that anyone who sabotages forming a government for personal reasons **"will not be forgiven"** — a remark widely read as aimed at Avigdor Liberman.
+
+The recommendation tally remains **67 for Eisenkot and 46 for Netanyahu**, with UTJ recommending nobody. Only about **48 MKs** in Eisenkot's camp are committed to govern together; the 19 Arab-party recommendations are not a coalition commitment. **Herzog has not assigned the mandate.**
+
 
 ## Update, Nov. 6
 

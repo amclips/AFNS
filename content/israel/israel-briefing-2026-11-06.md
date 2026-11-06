@@ -13,11 +13,14 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3AThe_Israeli_Preside
 image_license: "CC BY-SA 3.0"
 status: "Daily briefing"
 key_points:
+  - UPDATE 9 AM CT - Eisenkot proposes minority emergency government (proposal, not agreed coalition); see Herzog story
   - Herzog to name mandate Sunday; Eisenkot 67-46 recommendations but not yet a coalition — see Herzog story
   - Netanyahu office: end of U.S. aid is a shift from aid to partnership (Jerusalem Post)
   - Ynet via defense officials: no major U.S. buildup seen for Iran strikes; IRGC drone/tanker-mine claims UNVERIFIED
   - Local sources: 4 to 7 Palestinians killed in past day (range varies by source); Israel struck Lebanon and southern Syria
 sources:
+  - Ynet: Eisenkot minority emergency government proposal | https://www.ynetnews.com/article/s1rqpujazx
+  - Anadolu: Eisenkot emergency government talks | https://www.aa.com.tr/en/middle-east/israeli-opposition-leader-eisenkot-reports-progress-in-talks-to-form-emergency-government/4114474
   - Al Jazeera: Herzog to name candidate Sunday | https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday
   - Times of Israel: Herzog mandate Sunday | https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/
   - Jerusalem Post: Netanyahu office on U.S. aid | https://www.jpost.com/israel-news/article-914053
@@ -30,7 +33,9 @@ sources:
 
 **Status: Daily briefing.** Each item names its source. Items marked UNVERIFIED have not been independently confirmed.
 
-Mandate timing and coalition nuance: [Herzog to Name Mandate Sunday; Eisenkot Has 67 Recommendations but Not Yet a Coalition](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
+**Update, 9 AM CT:** Eisenkot proposed a minority emergency government (four Change-bloc parties first; four principles for others to join) — a proposal, not an agreed coalition (Ynet). Details: [Eisenkot Proposes Minority Emergency Government as Herzog Still Set to Name Mandate Sunday](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
+
+Mandate timing and coalition nuance: [Eisenkot Proposes Minority Emergency Government as Herzog Still Set to Name Mandate Sunday](/israel/herzog-certifies-election-results-coalition-consultations-begin/).
 
 ## Netanyahu office: from aid to partnership
 
