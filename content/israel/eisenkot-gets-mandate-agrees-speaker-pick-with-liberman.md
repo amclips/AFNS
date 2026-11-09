@@ -2,7 +2,7 @@
 title: "Eisenkot Gets Mandate, Agrees With Liberman on Next Knesset Speaker"
 desk: israel
 date: 2026-11-09
-summary: "Jerusalem Post: Liberman and Eisenkot agreed Monday on the next Knesset speaker (name not reported) and both say they are confident they can form a government. Yashar is courting Shas and UTJ to help replace Speaker Ohana; Shas is waiting on UTJ. Context: Herzog gave Eisenkot the mandate Sunday (67-46); the 28-day clock started Nov. 8. Only about 48 MKs were committed to govern together as of Friday."
+summary: "Updated Nov. 9: Netanyahu released a video calling a Likud-led unity government an absolute necessity, saying Enough with the boycotts, insisting Likud lead as the largest party, wanting Haredim in, and rejecting Arab parties (he called them Hamas supporters — his characterization). No rotation mentioned. Eisenkot is starting coalition talks with 27 days left. Earlier: Liberman and Eisenkot agreed on the next Knesset speaker (name not reported). "
 featured: true
 priority: 12
 desk_lead: true
@@ -11,14 +11,18 @@ image_alt: "The Knesset building in Jerusalem (file image)"
 image_credit: "Gary Todd / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_Israeli_Parliament_Building_%2841404895850%29.jpg"
 image_license: "CC0"
-status: "Mandate assigned; speaker pick agreed between Eisenkot and Liberman; coalition not yet formed"
+status: "Mandate assigned; Netanyahu unity offer; speaker pick agreed; coalition not yet formed"
 key_points:
+  - UPDATE NOV. 9 - Netanyahu video: unity government an absolute necessity; Enough with the boycotts; Likud must lead as largest party; wants Haredim; rejects Arab parties (his Hamas supporters characterization); no rotation mentioned (Ynet, Jerusalem Post)
+  - UPDATE NOV. 9 - Eisenkot starting coalition talks; 27 days left on the mandate clock as of Monday (Ynet)
   - TODAY - JPost: Liberman and Eisenkot agreed on the next Knesset speaker; name not reported; both say they are confident they can form a government
   - TODAY - Yashar courting Shas and UTJ to help replace Speaker Amir Ohana at the new Knesset swearing-in; UTJ says replacement should wait until a new government is formed; Shas waiting on UTJ (Jerusalem Post)
   - CONTEXT - Herzog gave Eisenkot the mandate Sunday, Nov. 8 (NPR, Times of Israel); recommendation tally 67-46; 28 days plus a possible 14-day extension; clock started Nov. 8
   - NUANCE - Only about 48 MKs in Eisenkot's camp were committed to govern together as of Friday; 19 Arab-party recommendations are not a coalition commitment (Times of Israel)
   - SIDEBAR - Police and Shin Bet investigating Handala leaflets with QR codes found in northern Tel Aviv mailboxes; Iran-linked group claims responsibility (Times of Israel, Jerusalem Post, Ynet, Haaretz)
 sources:
+  - Ynet: Netanyahu unity government call | https://www.ynetnews.com/article/hjs8ptjcfx
+  - Jerusalem Post: Netanyahu calls for unified government | https://www.jpost.com/israel-election-2026/article-914356
   - Jerusalem Post live updates Nov. 9: Liberman, Eisenkot agree on next speaker | https://www.jpost.com/israel-election-2026/2026-11-09/live-updates-914287
   - Jerusalem Post: Yashar seeks Shas, UTJ support to replace Ohana | https://www.jpost.com/israel-election-2026/article-914332
   - Times of Israel: Eisenkot tasked with forming government | https://www.timesofisrael.com/eisenkot-gets-nod-to-form-government-vows-unconventional-acts-in-time-of-emergency/
@@ -28,6 +32,11 @@ sources:
   - Ynet: Police and Shin Bet investigate Handala flyers | https://www.ynetnews.com/article/xs7pbfncl
   - Haaretz: Iranian hacker group leaflets in Tel Aviv | https://www.haaretz.com/israel-news/israel-security/2026-11-09/ty-article/.premium/iranian-hacker-group-distributes-threatening-leaflets-in-tel-aviv/000001a1-c0d9-d6fd-a3ed-f2d9e3d60000
 ---
+## Update, Nov. 9 — Netanyahu unity offer
+
+Prime Minister Benjamin Netanyahu released a video Monday calling a national unity government **"simply an absolute necessity"** and saying **"Enough with the boycotts"** ([Ynet](https://www.ynetnews.com/article/hjs8ptjcfx), [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914356)). He said Likud should lead because it is the **largest party**, that the government must include the **Haredi** parties, and that he rejects a government that depends on Arab parties — characterizing them as **"Hamas supporters"** (his words; AFNS attributes that label to him, not as fact). **No rotation** was mentioned.
+
+Eisenkot is **starting coalition talks**. As of Monday he has **27 days** left on the mandate clock that started Nov. 8 ([Ynet](https://www.ynetnews.com/article/hjs8ptjcfx)).
 
 **Jerusalem Post** reports that Avigdor Liberman and Gadi Eisenkot **agreed Monday on the next Knesset speaker**. The **name has not been reported**. After their meeting, both said they are **confident they can form a government** for a full term ([Jerusalem Post live updates](https://www.jpost.com/israel-election-2026/2026-11-09/live-updates-914287)).
 
