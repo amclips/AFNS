@@ -1,16 +1,18 @@
 ---
-title: "Report: Trump Says U.S. Military Aid to Israel Will End This Year"
+title: "U.S. Military Aid to Israel: Trump Cutoff Claim Meets Conflicting Timelines"
 desk: israel
 date: 2026-11-06
-summary: "Updated Nov. 9: On CBS 60 Minutes (aired Sunday), Trump said countries the U.S. protected will repay any and all war costs (no amount or evidence of an agreement cited) and that Without us, Israel would not exist; he blamed midterm losses partly on dislike for Israel and the Iran war, said he is not looking to escalate vs Iran, and separately told reporters Eisenkot and Netanyahu have very similar views. Earlier Nov. 6: Netanyahu office frames aid end as partnership shift. "
+summary: "Updated Nov. 9 — CONFLICTING ACCOUNTS: Secretary Rubio (Jerusalem Post) says Israel is prosperous and rich enough to buy U.S. weapons without U.S. financing, that Israel offered the shift, and that a 2027 start matches what the president said. Ynet reports an emerging MOU that would not end aid this year; instead keep roughly current annual FMF for five years after 2028 (~$16.5B total) then end direct aid. Earlier: Trump year-end cutoff remarks; Netanyahu office partnership framing; 60 Minutes repayment claim. "
 featured: false
 image: "img/stories/report-trump-says-us-military-aid-israel-will-end-this-year.jpg"
 image_alt: "Israeli and American flags flying from a boat mast on the Sea of Galilee (file image, 2007)"
 image_credit: "James Emery / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AAmerican_and_Israeli_Flags_on_Mast_0844.jpg"
 image_license: "CC BY 2.0"
-status: "60 Minutes repayment claim unverified as to amount/agreement; aid-cutoff still per Trump/Reuters/Haaretz/PMO"
+status: "Conflicting timelines: Rubio/Trump vs Ynet emerging MOU"
 key_points:
+  - CONFLICTING NOV. 9 - Rubio (JPost): Israel prosperous and rich enough to buy without U.S. financing; Israel offered it; could start 2027 as the president said
+  - CONFLICTING NOV. 9 - Ynet: aid will not end this year; emerging MOU keeps ~$3.3B FMF yearly for five years after 2028 (~$16.5B) then ends; current deal through 2028
   - UPDATE NOV. 9 - CBS 60 Minutes (aired Sunday): Trump says protected countries will repay any and all war costs (no amount or signed agreement cited); Without us, Israel would not exist; midterms tied partly to dislike for Israel and the Iran war; not looking to escalate vs Iran (CBS transcript)
   - UPDATE NOV. 9 - Separately to reporters (not the 60 Minutes sit-down): Eisenkot and Netanyahu are very similar in policy and views (Jerusalem Post, Ynet, Times of Israel)
   - UPDATE NOV. 6 - Netanyahu office calls the move a shift from aid to partnership; says Netanyahu has been working with Trump on the transition; Israel can still buy U.S. weapons and could get extra help if needed (Jerusalem Post, embassy newsletter)
@@ -22,6 +24,8 @@ key_points:
   - Netanyahu's office had not responded as of Haaretz's report
   - Viral posts claiming the U.S. will end ALL assistance to Israel are not backed by the reporting, which concerns direct military aid
 sources:
+  - Jerusalem Post: Rubio on Israel financing / 2027 | https://www.jpost.com/israel-news/article-914383
+  - Ynet: aid will not end this year; package halved after 2028 | https://www.ynetnews.com/article/bjqg7k1cml
   - CBS News: 60 Minutes Trump post-midterm transcript | https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/
   - Jerusalem Post: Trump on Eisenkot/Netanyahu similar views | https://www.jpost.com/international/article-914279
   - Times of Israel: Trump says Eisenkot and Netanyahu very similar | https://www.timesofisrael.com/liveblog_entry/trump-says-eisenkot-and-netanyahu-are-very-similar-in-terms-of-their-policy/
@@ -34,6 +38,16 @@ sources:
   - Haaretz on X: Trump says U.S. military aid to Israel will end | https://x.com/haaretzcom/status/2117620728065675490
   - Real America's Voice on X: Trump on aid to Israel | https://x.com/RealAmVoice/status/2117616998301467092
 ---
+
+## Update, Nov. 9 — Conflicting accounts
+
+**Conflicting accounts** of how and when U.S. military financing for Israel ends:
+
+**Rubio (Jerusalem Post):** Secretary of State Marco Rubio said Israel is now **"prosperous and rich enough"** to buy U.S. weapons without U.S. financing, that **"it's something the Israelis themselves have offered us,"** and that a **2027** start matches **"what the president said we're going to do"** ([Jerusalem Post](https://www.jpost.com/israel-news/article-914383)).
+
+**Ynet:** An emerging security memorandum would **not** end aid this year. Under Ynet's account, current assistance runs through **2028**, then roughly **$3.3 billion** a year in Foreign Military Financing would continue for **five years** (about **$16.5 billion** total) before direct military aid ends — roughly **halving** a prior 10-year-style package total. Joint missile-defense funding may rise. Negotiators aim to finalize before the new Congress in January ([Ynet](https://www.ynetnews.com/article/bjqg7k1cml)).
+
+AFNS presents both accounts side by side. They are **not** reconciled in public reporting reviewed for this update.
 
 ## Update, Nov. 9
 
