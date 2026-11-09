@@ -3,9 +3,7 @@ title: "Eisenkot Proposes Minority Emergency Government as Herzog Still Set to N
 desk: israel
 date: 2026-11-06
 summary: "Updated 9 AM CT Nov. 6: Eisenkot proposed a minority emergency government — swear in the four Change-bloc parties first, then let others join if they accept four principles (Jewish and democratic state; Declaration of Independence values; service for all; dismantling Hamas). He claims significant progress and hopes for the mandate early next week while Herzog remains scheduled for Sunday. The will not be forgiven remark is widely read as aimed at Liberman. This is a proposal, not an agreed coalition; tally remains 67-46 with only about 48 MKs committed to govern together (Ynet, Anadolu, Eisenkot on X). "
-featured: true
-priority: 11
-desk_lead: true
+featured: false
 image: "img/stories/herzog-certifies-election-results-coalition-consultations-begin.jpg"
 image_alt: "The Knesset building in Jerusalem (file image)"
 image_credit: "Gary Todd / Wikimedia Commons"

@@ -2,15 +2,17 @@
 title: "Report: Trump Says U.S. Military Aid to Israel Will End This Year"
 desk: israel
 date: 2026-11-06
-summary: "Updated Nov. 6: Netanyahu office frames the end of ~$4B a year in U.S. military aid as a shift from aid to partnership and mutual investment, saying Israel can still buy U.S. weapons and could get extra help if needed (Jerusalem Post, Israeli embassy newsletter). Earlier: Trump said the aid ends this year / after 2026; Reuters notes the MOU runs through 2028. "
+summary: "Updated Nov. 9: On CBS 60 Minutes (aired Sunday), Trump said countries the U.S. protected will repay any and all war costs (no amount or evidence of an agreement cited) and that Without us, Israel would not exist; he blamed midterm losses partly on dislike for Israel and the Iran war, said he is not looking to escalate vs Iran, and separately told reporters Eisenkot and Netanyahu have very similar views. Earlier Nov. 6: Netanyahu office frames aid end as partnership shift. "
 featured: false
 image: "img/stories/report-trump-says-us-military-aid-israel-will-end-this-year.jpg"
 image_alt: "Israeli and American flags flying from a boat mast on the Sea of Galilee (file image, 2007)"
 image_credit: "James Emery / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AAmerican_and_Israeli_Flags_on_Mast_0844.jpg"
 image_license: "CC BY 2.0"
-status: "PMO response reported; aid-cutoff details per Trump/Reuters/Haaretz"
+status: "60 Minutes repayment claim unverified as to amount/agreement; aid-cutoff still per Trump/Reuters/Haaretz/PMO"
 key_points:
+  - UPDATE NOV. 9 - CBS 60 Minutes (aired Sunday): Trump says protected countries will repay any and all war costs (no amount or signed agreement cited); Without us, Israel would not exist; midterms tied partly to dislike for Israel and the Iran war; not looking to escalate vs Iran (CBS transcript)
+  - UPDATE NOV. 9 - Separately to reporters (not the 60 Minutes sit-down): Eisenkot and Netanyahu are very similar in policy and views (Jerusalem Post, Ynet, Times of Israel)
   - UPDATE NOV. 6 - Netanyahu office calls the move a shift from aid to partnership; says Netanyahu has been working with Trump on the transition; Israel can still buy U.S. weapons and could get extra help if needed (Jerusalem Post, embassy newsletter)
   - UPDATE NOV. 4 - Reuters reports Trump said he agreed with Netanyahu to end the aid after 2026, while weapons sales continue, and that Israel no longer needs U.S. financial support
   - Reuters notes the current agreement (MOU) provides $3.8 billion a year through 2028; Trump framed the move partly as removing a "bad talking point" used by left-wing Democrats
@@ -20,6 +22,10 @@ key_points:
   - Netanyahu's office had not responded as of Haaretz's report
   - Viral posts claiming the U.S. will end ALL assistance to Israel are not backed by the reporting, which concerns direct military aid
 sources:
+  - CBS News: 60 Minutes Trump post-midterm transcript | https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/
+  - Jerusalem Post: Trump on Eisenkot/Netanyahu similar views | https://www.jpost.com/international/article-914279
+  - Times of Israel: Trump says Eisenkot and Netanyahu very similar | https://www.timesofisrael.com/liveblog_entry/trump-says-eisenkot-and-netanyahu-are-very-similar-in-terms-of-their-policy/
+  - Ynet: Trump on Eisenkot mandate / similar to Netanyahu | https://www.ynetnews.com/article/rkwhmcrtgx
   - Jerusalem Post: Netanyahu office on end of U.S. aid | https://www.jpost.com/israel-news/article-914053
   - Embassy of Israel newsletter, Nov. 6 | https://embassies.gov.il/sites/default/files/2026-11/6.11.26_embassy_of_israel_newsletter.pdf
   - Reuters: Trump says U.S. will stop paying Israel after year-end | https://www.reuters.com/5f374b32b07b/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/
@@ -28,6 +34,14 @@ sources:
   - Haaretz on X: Trump says U.S. military aid to Israel will end | https://x.com/haaretzcom/status/2117620728065675490
   - Real America's Voice on X: Trump on aid to Israel | https://x.com/RealAmVoice/status/2117616998301467092
 ---
+
+## Update, Nov. 9
+
+On CBS **60 Minutes** (interview aired Sunday, Nov. 8), President Trump said countries the United States protected in the Iran war **"are going to pay us back any and all costs that we've had for the war"** because **"without us, they wouldn't exist. Without us, Israel would not exist."** He added that **"Israel would not exist except for Donald Trump"** and credited B-2 strikes on Iranian nuclear sites. The interview **does not state an amount**, a repayment schedule, or evidence of a signed agreement. Quotes verified against the [CBS 60 Minutes transcript](https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/).
+
+On the midterms, Trump said voters **"didn't like the war,"** **"didn't like the fact that gasoline went up,"** and that there is **"a great dislike, incredibly, for Israel."** Asked whether he would escalate the Iran war now that the midterms are over, he said: **"Well, I'm not looking to. I don't think there's any reason to."**
+
+**Separately** (not the 60 Minutes sit-down), Trump told reporters that Gadi Eisenkot and Benjamin Netanyahu are **"very similar in terms of their policy and their view"** and **"have very similar views"** ([Jerusalem Post](https://www.jpost.com/international/article-914279), [Ynet](https://www.ynetnews.com/article/rkwhmcrtgx), [Times of Israel](https://www.timesofisrael.com/liveblog_entry/trump-says-eisenkot-and-netanyahu-are-very-similar-in-terms-of-their-policy/)).
 
 ## Update, Nov. 6
 
