@@ -2,7 +2,7 @@
 title: "Eisenkot Gets Mandate, Agrees With Liberman on Next Knesset Speaker"
 desk: israel
 date: 2026-11-09
-summary: "Updated Nov. 9: Netanyahu released a video calling a Likud-led unity government an absolute necessity, saying Enough with the boycotts, insisting Likud lead as the largest party, wanting Haredim in, and rejecting Arab parties (he called them Hamas supporters — his characterization). No rotation mentioned. Eisenkot is starting coalition talks with 27 days left. Earlier: Liberman and Eisenkot agreed on the next Knesset speaker (name not reported). "
+summary: "Updated later Nov. 9: JPost — Netanyahu confidant Natan Eshel repeatedly contacted Ra'am's Mansour Abbas about backing Eisenkot; Likud said Netanyahu was unaware. Haaretz via Al Jazeera — senior officials say Shin Bet has found no evidence of foreign election meddling. 26th Knesset swearing-in Tuesday, Nov. 10, with 47 first-time MKs. Earlier: Netanyahu unity video; Liberman-Eisenkot speaker agreement; mandate clock. "
 featured: true
 priority: 12
 desk_lead: true
@@ -11,8 +11,11 @@ image_alt: "The Knesset building in Jerusalem (file image)"
 image_credit: "Gary Todd / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_Israeli_Parliament_Building_%2841404895850%29.jpg"
 image_license: "CC0"
-status: "Mandate assigned; Netanyahu unity offer; speaker pick agreed; coalition not yet formed"
+status: "Mandate assigned; Eshel-Abbas contacts reported; Shin Bet meddling claims lack evidence per Haaretz"
 key_points:
+  - UPDATE NOV. 9 PM - JPost/N12: Netanyahu confidant Natan Eshel repeatedly contacted Ra'am's Mansour Abbas about backing Eisenkot; Likud says Netanyahu was unaware
+  - UPDATE NOV. 9 PM - Haaretz via Al Jazeera: senior officials say Shin Bet has found no evidence of foreign election meddling
+  - UPDATE NOV. 9 PM - 26th Knesset swearing-in Tuesday, Nov. 10; 47 first-time MKs (Jerusalem Post, Ynet)
   - UPDATE NOV. 9 - Netanyahu video: unity government an absolute necessity; Enough with the boycotts; Likud must lead as largest party; wants Haredim; rejects Arab parties (his Hamas supporters characterization); no rotation mentioned (Ynet, Jerusalem Post)
   - UPDATE NOV. 9 - Eisenkot starting coalition talks; 27 days left on the mandate clock as of Monday (Ynet)
   - TODAY - JPost: Liberman and Eisenkot agreed on the next Knesset speaker; name not reported; both say they are confident they can form a government
@@ -21,6 +24,11 @@ key_points:
   - NUANCE - Only about 48 MKs in Eisenkot's camp were committed to govern together as of Friday; 19 Arab-party recommendations are not a coalition commitment (Times of Israel)
   - SIDEBAR - Police and Shin Bet investigating Handala leaflets with QR codes found in northern Tel Aviv mailboxes; Iran-linked group claims responsibility (Times of Israel, Jerusalem Post, Ynet, Haaretz)
 sources:
+  - Jerusalem Post: Eshel contacted Abbas over Eisenkot | https://www.jpost.com/israel-election-2026/article-914380
+  - Al Jazeera: Shin Bet finds no evidence of foreign meddling (Haaretz) | https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report
+  - Haaretz: Shin Bet yet to find foreign interference evidence | https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/shin-bet-yet-to-foreign-election-interference-evidence-officials-tell-haaretz/000001a1-bf56-dc4a-a7a9-bff7b14a0000
+  - Jerusalem Post: incoming MKs / swearing-in | https://www.jpost.com/israel-election-2026/article-914382
+  - Ynet: 47 new lawmakers enter the Knesset | https://www.ynetnews.com/article/byqwj18tmx
   - Ynet: Netanyahu unity government call | https://www.ynetnews.com/article/hjs8ptjcfx
   - Jerusalem Post: Netanyahu calls for unified government | https://www.jpost.com/israel-election-2026/article-914356
   - Jerusalem Post live updates Nov. 9: Liberman, Eisenkot agree on next speaker | https://www.jpost.com/israel-election-2026/2026-11-09/live-updates-914287
@@ -32,6 +40,14 @@ sources:
   - Ynet: Police and Shin Bet investigate Handala flyers | https://www.ynetnews.com/article/xs7pbfncl
   - Haaretz: Iranian hacker group leaflets in Tel Aviv | https://www.haaretz.com/israel-news/israel-security/2026-11-09/ty-article/.premium/iranian-hacker-group-distributes-threatening-leaflets-in-tel-aviv/000001a1-c0d9-d6fd-a3ed-f2d9e3d60000
 ---
+## Update, Nov. 9 (afternoon)
+
+**Eshel and Abbas.** The [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914380), citing N12, reports that Netanyahu confidant **Natan Eshel** repeatedly contacted Ra'am chairman **Mansour Abbas** before, during, and after the election about whether Abbas would back **Gadi Eisenkot**. Likud told N12 that Netanyahu was **surprised** and that the contacts were **not** done with his knowledge. Eshel gave N12 shifting accounts of the exchanges.
+
+**Shin Bet meddling claims.** [Al Jazeera](https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report), citing [Haaretz](https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/shin-bet-yet-to-foreign-election-interference-evidence-officials-tell-haaretz/000001a1-bf56-dc4a-a7a9-bff7b14a0000), reports that senior law-enforcement officials say the Shin Bet investigation has **found no evidence** of foreign election meddling, despite claims by Prime Minister Netanyahu and Shin Bet chief David Zini. The probe continues. Qatar has denied the allegations. Attorney General Gali Baharav-Miara said she had seen no evidence that would have changed the election results.
+
+**Swearing-in.** The **26th Knesset** is due to be sworn in on **Tuesday, Nov. 10**. Coverage notes **47 first-time MKs** among the 120 members ([Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914382), [Ynet](https://www.ynetnews.com/article/byqwj18tmx)).
+
 ## Update, Nov. 9 — Netanyahu unity offer
 
 Prime Minister Benjamin Netanyahu released a video Monday calling a national unity government **"simply an absolute necessity"** and saying **"Enough with the boycotts"** ([Ynet](https://www.ynetnews.com/article/hjs8ptjcfx), [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914356)). He said Likud should lead because it is the **largest party**, that the government must include the **Haredi** parties, and that he rejects a government that depends on Arab parties — characterizing them as **"Hamas supporters"** (his words; AFNS attributes that label to him, not as fact). **No rotation** was mentioned.
