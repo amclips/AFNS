@@ -1,0 +1,39 @@
+---
+title: "Judge Andrews Rejects Justice Department Bid for Delaware's Unredacted Voter Rolls"
+desk: courts
+date: 2026-11-10
+summary: "Senior Judge Richard G. Andrews of the District of Delaware on Tuesday dismissed the Justice Department's lawsuit seeking Delaware's complete electronic voter registration list, including partial Social Security numbers, holding that Title III of the Civil Rights Act of 1960 does not authorize the demand. Andrews agreed with the Sixth Circuit that state-created voter files are not records that 'came into' an election official's possession under the statute. Democracy Docket and CBS News count the ruling as the department's 28th straight loss in this series of cases. The department has appealed most of the similar dismissals."
+featured: true
+priority: 6
+desk_lead: false
+image: "img/stories/judge-andrews-rejects-doj-bid-delaware-voter-rolls.jpg"
+image_alt: "The former U.S. Post Office, Courthouse and Customhouse in Wilmington, Delaware, a historic federal courthouse (file image; not the current J. Caleb Boggs Federal Building)"
+image_credit: "John Phelan / Wikimedia Commons"
+image_source_url: "https://commons.wikimedia.org/wiki/File%3AFormer_Post_Office%2C_Courthouse_and_Customhouse%2C_Wilmington_DE.jpg"
+image_license: "CC BY-SA 3.0"
+status: "Memorandum opinion in United States v. Albence, No. 25-1453-RGA, Nov. 10; motions to dismiss granted; production motion dismissed as moot"
+key_points:
+  - Senior Judge Richard G. Andrews on Tuesday dismissed the Justice Department's suit seeking Delaware's complete electronic voter registration list (United States v. Albence, No. 25-1453-RGA)
+  - Andrews held that a state-created voter roll is not a record that "came into" Election Commissioner Anthony Albence's possession under Title III of the Civil Rights Act of 1960, and he agreed with the Sixth Circuit's decision in a similar Michigan case
+  - The department had demanded a list including each registrant's full name, date of birth, address, driver's license number or last four digits of a Social Security number
+  - The department has argued the records are needed to enforce the National Voter Registration Act and the Help America Vote Act; Andrews said Title III is not "a freewheeling source of authority" to investigate any federal election-law violation
+  - Democracy Docket and CBS News count the decision as the department's 28th straight loss in this series of cases; Hawaii and Idaho cases remain pending, CBS and Democracy Docket report
+  - CBS News reports the Justice Department has appealed most of the dismissals; the Sixth Circuit has already affirmed the Michigan ruling
+sources:
+  - District of Delaware memorandum opinion, United States v. Albence, No. 25-1453-RGA, Nov. 10 | https://www.democracydocket.com/wp-content/uploads/2025/12/2026-11-10-Order.pdf
+  - Bloomberg Law: Trump's DOJ can't get Delaware's voter rolls, federal judge says | https://news.bloomberglaw.com/litigation/trumps-doj-cant-get-delawares-voter-rolls-federal-judge-says
+  - Democracy Docket: DOJ ends winless after Delaware ruling | https://www.democracydocket.com/news-alerts/doj-ends-winless-in-voter-roll-crusade-after-final-district-court-rejects-bid-to-obtain-delawares-list/
+  - CBS News: where the administration's voter-roll lawsuits stand | https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/
+---
+
+**Status: Senior Judge Richard G. Andrews issued a memorandum opinion Tuesday in *United States v. Albence*, No. 25-1453-RGA, granting motions to dismiss and dismissing the Justice Department's motion for production as moot.** The account below is drawn from the opinion and from [Bloomberg Law](https://news.bloomberglaw.com/litigation/trumps-doj-cant-get-delawares-voter-rolls-federal-judge-says), [Democracy Docket](https://www.democracydocket.com/news-alerts/doj-ends-winless-in-voter-roll-crusade-after-final-district-court-rejects-bid-to-obtain-delawares-list/), and [CBS News](https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/).
+
+U.S. District Judge **Richard G. Andrews**, a senior judge on the District of Delaware, on Tuesday rejected the Justice Department's bid to compel Delaware Election Commissioner **Anthony J. Albence** to turn over the state's complete, unredacted electronic voter registration list. Bloomberg Law reported the ruling as a post-election loss for the administration.
+
+The department, in an August 2025 demand issued under Title III of the Civil Rights Act of 1960, sought "an electronic copy of Delaware's complete and current" voter registration list containing "all fields, including the registrant's full name, date of birth, residential address, his or her state driver's license number or the last four digits of the registrant's social security number." Albence had already provided other information but refused the complete list, saying the demand was not valid under the Civil Rights Act and that federal and state privacy laws barred production. The department sued in December 2025.
+
+Andrews held that Delaware's voter registration list is not a record that "came into" Albence's possession under the statute. "I agree with the Sixth Circuit and other district courts that have determined VRLs created by state elections officials, such as Delaware's VRL, are not records that Title III authorizes the Attorney General to request," he wrote, referring to the Sixth Circuit's decision in *United States v. Benson*, which involved Michigan's list. "I agree that the plain meaning of 'come into his possession' does not apply to internally created records." He concluded: "Delaware's VRL is not a record that came into Commissioner Albence's possession. Therefore, Title III does not provide the grounds for DOJ to demand production of Delaware's VRL."
+
+The department has argued that it needs unredacted statewide lists to monitor compliance with the National Voter Registration Act and the Help America Vote Act, which require states to maintain accurate voter rolls. CBS News has reported that the administration sent letters seeking complete electronic copies, including birthdates, addresses, partial Social Security numbers, and driver's license numbers, and that some states have turned over publicly available versions but not their complete lists. Andrews said he did not need to decide whether access to unredacted lists is necessary to enforce those statutes. Quoting a District of Columbia decision, he wrote that "nothing supports [DOJ's] supposition that Congress intended Title III to be a freewheeling source of authority for the Attorney General to investigate any violation of federal election law." If the department disagrees with the records Congress provided, he said, "it needs to lodge that objection with Congress."
+
+[Democracy Docket](https://www.democracydocket.com/news-alerts/doj-ends-winless-in-voter-roll-crusade-after-final-district-court-rejects-bid-to-obtain-delawares-list/) described the Delaware decision as the department's **"28th straight loss"** in this series of lawsuits and said it was the last of the department's cases to be ruled on at the district-court level, with suits against Hawaii and Idaho stayed pending a Ninth Circuit decision. [CBS News](https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/), in a Tuesday update, reported that the administration has filed 31 lawsuits seeking state voter data, has **lost 28** of those cases, and that the Hawaii and Idaho cases remain pending. Those "28th straight loss" and "lost 28" figures are the outlets' counts, not an AFNS tally. CBS News also reported that the Justice Department has appealed most of the decisions dismissing its cases, and that the Sixth Circuit has already upheld the Michigan dismissal. AFNS did not find a notice of appeal already docketed in the Delaware case, which was decided Tuesday.
