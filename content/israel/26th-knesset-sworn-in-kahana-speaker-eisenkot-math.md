@@ -1,8 +1,8 @@
 ---
-title: "26th Knesset Is Sworn In Tuesday; Yashar Submits 61 Signatures to Force a Speaker Vote"
+title: "26th Knesset Is Sworn In Tuesday; Speaker Vote Set for Nov. 17 After 67 MKs Demand Ohana's Replacement"
 desk: israel
 date: 2026-11-10
-summary: "The 26th Knesset was sworn in Tuesday. After the ceremony, Netanyahu, at the traditional faction leaders' photo event, called for a national unity government, warned of international pressure over Iran, and attacked the prospect of a coalition involving Arab parties, Ynet and the Jerusalem Post report. Eisenkot called the speech \"delusional, divisive, hate-filled, and disgraceful\" and said Netanyahu is \"unfit to remain in office for even one more minute\" (Jerusalem Post). Several Arab lawmakers left during Hatikvah; Abbas remained standing, Ynet reported. The chamber applauded Likud MK Elisha Madan as he stood to take the oath. Yashar has submitted more than 61 signatures demanding a speaker vote, which has not been held."
+summary: "The 26th Knesset was sworn in Tuesday. Speaker Amir Ohana has scheduled a plenum debate and vote on his replacement for Tuesday, Nov. 17, at 4 p.m. Israel time (8 a.m. CT), after 67 MKs submitted a formal request, Ynet, the Times of Israel, and the Jerusalem Post report. Ohana said that despite his \"strong opposition\" to the Eisenkot-led bloc's intentions, he would \"respect the will of the majority of Knesset members\" (Ynet, Times of Israel). The bloc has nominated Matan Kahana of Yashar as speaker. After the ceremony, Netanyahu called for a national unity government and attacked a coalition involving Arab parties; Eisenkot called the speech \"delusional, divisive, hate-filled, and disgraceful\" (Jerusalem Post). Ynet reported that Sara Netanyahu was seen confronting Naftali Bennett during the uproar at the speech."
 featured: true
 priority: 13
 desk_lead: true
@@ -11,13 +11,16 @@ image_alt: "The Knesset plenum in Jerusalem (file image, 2009)"
 image_credit: "Beit Hashalom / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_Hall.JPG"
 image_license: "Attribution"
-status: "26th Knesset sworn in Tuesday; speaker vote not held; no coalition yet"
+status: "26th Knesset sworn in Tuesday; speaker vote set for Nov. 17; no coalition yet"
 key_points:
   - The 26th Knesset was sworn in Tuesday (Ynet, Jerusalem Post)
   - 46 first-time MKs and a record 33 women; this is Netanyahu's 15th Knesset (Ynet)
   - Eisenkot received 67 MK recommendations; Netanyahu received 46 (BBC)
   - Eisenkot's four-party bloc holds 48 seats; Netanyahu's bloc holds 53 (BBC)
-  - UPDATE: Yashar submitted more than 61 MK signatures to Ohana demanding a plenum vote to replace him with Kahana (Ynet, Jerusalem Post); the vote has not been held
+  - UPDATE, 1 p.m. CT: Ohana scheduled a plenum debate and vote on his replacement for Tuesday, Nov. 17, at 4 p.m. Israel time (8 a.m. CT), after 67 MKs submitted a formal request (Ynet, Times of Israel, Jerusalem Post, Haaretz)
+  - Ohana said that despite his "strong opposition" to the emerging coalition's intentions, he would "respect the will of the majority of Knesset members" (Ynet, Times of Israel); Ynet reported he chose the latest date allowed under the parliamentary practice for such a request
+  - Eisenkot's bloc has nominated Matan Kahana of Yashar as speaker (Ynet, Jerusalem Post, Haaretz)
+  - Ynet: during the uproar at Netanyahu's speech, Sara Netanyahu "was seen confronting" Bennett; the Jerusalem Post reported Bennett's remarks drew an "inaudible response" from Sara Netanyahu and their son Yair
   - Bennett, at his Knesset faction meeting, said he was "doing everything possible to help Eisenkot form a Zionist government of reform as quickly as possible" (Jerusalem Post)
   - REPORT (Ynet, sources involved in the talks): Abbas has expressed agreement in principle to recognize Hamas as a terrorist organization in return for a genuine partnership; at his faction meeting, Abbas did not deny the report and said Ra'am aspires to be part of the next coalition (Ynet)
   - Tibi (Kan/ToI, Haaretz): Joint List will vote for Kahana; "we want to be part of the change"
@@ -27,7 +30,7 @@ key_points:
   - UPDATE, 11 a.m. CT: After the ceremony, Netanyahu called for a "national unity government," warned of pressure "to accept a nuclear Iran," and attacked a coalition involving Arab parties (Ynet, Jerusalem Post)
   - Eisenkot called the speech "delusional, divisive, hate-filled, and disgraceful" and said Netanyahu is "unfit to remain in office for even one more minute" (Jerusalem Post live update)
   - Ynet: the chamber applauded Likud MK Elisha Madan, who lost both legs in the war, as he stood to take the oath; several Arab lawmakers left during the anthem, while Abbas remained standing and did not sing
-  - A speaker vote within a week is the first test of whether a 61-vote majority exists
+  - The Nov. 17 speaker vote is the first test of whether a 61-vote majority exists
 sources:
   - Ynet: 26th Knesset swearing-in | https://www.ynetnews.com/article/h111bhbecgg
   - BBC: recommendation and bloc numbers | https://www.bbc.com/news/articles/crd939lpzjp9o
@@ -45,9 +48,21 @@ sources:
   - Ynet: Netanyahu photo-event remarks, Bennett interruption | https://www.ynetnews.com/article/sjfebplczx
   - Ynet (Hebrew): Eisenkot on Netanyahu's speech | https://www.ynet.co.il/news/article/rykfgpxafl
   - Jerusalem Post: Netanyahu Iran and unity-government remarks; Eisenkot reply | https://www.jpost.com/israel-news/politics-and-diplomacy/article-914488
+  - Ynet: 67 MKs request new speaker; vote set for next Tuesday at 4 p.m. | https://www.ynetnews.com/article/skifn0ecfe
+  - Times of Israel: Ohana sets vote for Nov. 17 at 4 p.m. | https://www.timesofisrael.com/liveblog_entry/ohana-says-vote-to-elect-new-knesset-speaker-to-be-held-next-tuesday-after-majority-of-mks-demand-it/
+  - Haaretz: Ohana sets successor vote for Nov. 17 | https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/outgoing-knesset-speaker-ohana-sets-vote-on-his-successor-for-next-tuesday/000001a1-c681-df80-a9e3-e6bd1e7f0000
+  - Ynet: Sara Netanyahu confronted Bennett during the speech uproar | https://www.ynetnews.com/article/6h6yhe5am
 ---
 
-**Status: The 26th Knesset was sworn in Tuesday; a speaker has not been elected and no coalition has been formed.** Yashar has submitted more than 61 signatures demanding a speaker vote; that vote has not been held.
+**Status: The 26th Knesset was sworn in Tuesday; a speaker has not been elected and no coalition has been formed.** Speaker **Amir Ohana** has scheduled a plenum debate and vote on his replacement for **Tuesday, Nov. 17, at 4 p.m. Israel time (8 a.m. CT)**, after **67** MKs submitted a formal request.
+
+**Update, Nov. 10, 1 p.m. CT:** [Ynet](https://www.ynetnews.com/article/skifn0ecfe), the [Times of Israel](https://www.timesofisrael.com/liveblog_entry/ohana-says-vote-to-elect-new-knesset-speaker-to-be-held-next-tuesday-after-majority-of-mks-demand-it/), the [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914426), and [Haaretz](https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/outgoing-knesset-speaker-ohana-sets-vote-on-his-successor-for-next-tuesday/000001a1-c681-df80-a9e3-e6bd1e7f0000) report that Ohana has set a date for the speaker vote. The [Times of Israel](https://www.timesofisrael.com/liveblog_entry/ohana-says-vote-to-elect-new-knesset-speaker-to-be-held-next-tuesday-after-majority-of-mks-demand-it/) quoted him saying, "This evening I received an unusual request from 67 members of the Knesset to place a vote to elect the speaker of the 26th Knesset on the agenda." "As such, I have scheduled a debate, followed by a vote, for Tuesday, November 17, at 4 p.m., at the start of the Knesset plenum," he said, according to the Times of Israel. That is 8 a.m. Central Time. [Ynet](https://www.ynetnews.com/article/skifn0ecfe) similarly reported that he scheduled the debate and vote for next Tuesday at 4 p.m., when the plenary convenes, and said he chose the latest date allowed under the parliamentary practice governing such a request. The vote therefore comes a week out.
+
+Ohana opposes the move but said he will respect the majority. "Despite my strong opposition to the intentions of the emerging coalition, I will act as I promised and respect the will of the majority of Knesset members," he said, [Ynet](https://www.ynetnews.com/article/skifn0ecfe) reported. The Times of Israel quoted him saying that despite his "strong opposition" to the Eisenkot-led bloc's agenda, "I will act as promised: I will respect the will of the majority of Knesset members." The [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914426) likewise reported that he set the plenum vote for next Tuesday "despite his strong opposition to the intentions of the emerging coalition."
+
+The Eisenkot-led bloc has nominated former minister **Matan Kahana** of Yashar as its candidate for speaker, Ynet, the Jerusalem Post, and Haaretz report. Earlier Tuesday accounts had described the request as carrying more than 61 signatures; Ohana's statement, as reported by Ynet and the Times of Israel, put the number at **67**.
+
+In a separate [Ynet](https://www.ynetnews.com/article/6h6yhe5am) report, during the uproar that erupted at Netanyahu's speech, his wife **Sara Netanyahu** "was seen confronting" Beyachad chairman **Naftali Bennett**. The [Jerusalem Post](https://www.jpost.com/israel-news/politics-and-diplomacy/article-914488) reported that Bennett's interruption "drew an inaudible response from Netanyahu's wife, Sara, and son, Yair, who were in attendance."
 
 **Update, Nov. 10, 11 a.m. CT:** The 26th Knesset was sworn in Tuesday, [Ynet](https://www.ynetnews.com/article/hkhobslrge) and the [Jerusalem Post](https://www.jpost.com/israel-election-2026/2026-11-10/live-updates-914399) report. Shortly afterward, at the traditional faction leaders' photo event in the Knesset's Chagall Hall, Prime Minister **Benjamin Netanyahu** called for a "national unity government," warned of international pressure over Iran, and attacked the prospect of a coalition involving Arab parties, [Ynet](https://www.ynetnews.com/article/sjfebplczx) and the [Jerusalem Post](https://www.jpost.com/israel-news/politics-and-diplomacy/article-914488) report.
 
@@ -59,7 +74,7 @@ Turning to the change bloc, Netanyahu said, "You who want to form a government w
 
 During the swearing-in, Ynet reported, the chamber rose and applauded Likud MK **Elisha Madan**, who lost both legs in the war, as he stood to take the oath of office. At the end of the ceremony, **several Arab lawmakers left the chamber during the national anthem**, while Ra'am chairman **Mansour Abbas** remained standing alongside United Torah Judaism MK Yaakov Asher. Neither joined in singing the anthem, Ynet reported. The Jerusalem Post reported that members of the Joint List were seen leaving before the conclusion of Hatikvah.
 
-**Update, Tuesday afternoon:** [Ynet](https://www.ynetnews.com/article/kud2ov6km) and the [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914426) report that the Yashar party has submitted **more than 61 signatures** from members of the 26th Knesset to Speaker **Amir Ohana**, demanding his replacement and a plenum vote to elect a new speaker. **Matan Kahana** was formally named as the candidate in that request. **The vote has not been held.** The Post reports that Ohana said last week he would not hold the vote on the inaugural day and would instead schedule it for the following week if a formal request with sufficient support was submitted.
+**Update, Tuesday afternoon:** [Ynet](https://www.ynetnews.com/article/kud2ov6km) and the [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914426) report that the Yashar party has submitted **more than 61 signatures** from members of the 26th Knesset to Speaker **Amir Ohana**, demanding his replacement and a plenum vote to elect a new speaker. **Matan Kahana** was formally named as the candidate in that request. Those earlier reports described the request before Ohana had announced a date; he later scheduled the vote for Nov. 17, as reported in the 1 p.m. CT update. The Post also reported that Ohana had said last week he would not hold the vote on the inaugural day and would instead schedule it for the following week if a formal request with sufficient support was submitted.
 
 Naftali Bennett, at the start of his faction meeting in the Knesset, said the opposition bloc has "received the tools necessary to form a good government in Israel," the [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914472) reported. "But there is no time. Even at this very moment, our reservists along all of the country's borders are crying out for a change of leadership under the stretcher." Bennett said he was **"doing everything possible to help Eisenkot form a Zionist government of reform as quickly as possible, so that we can bring about the 'servants' revolution' and begin repairing the State of Israel."**
 
@@ -75,7 +90,7 @@ Background: [Eisenkot Gets Mandate, Agrees With Liberman on Next Knesset Speaker
 
 ## Kahana for speaker
 
-Yashar has proposed **Matan Kahana** to replace Knesset Speaker Amir Ohana, [Ynet](https://www.ynetnews.com/article/r1flu8erfe) and the [Jerusalem Post](https://www.jpost.com/israel-election-2026/2026-11-10/live-updates-914399) report. As reported in the update above, Yashar has now submitted more than 61 signatures with that request. The vote itself has not been held and, per Ohana's earlier statement, is expected within a week. That vote is the first test of whether Eisenkot can assemble a working majority.
+Yashar has proposed **Matan Kahana** to replace Knesset Speaker Amir Ohana, [Ynet](https://www.ynetnews.com/article/r1flu8erfe) and the [Jerusalem Post](https://www.jpost.com/israel-election-2026/2026-11-10/live-updates-914399) report. As reported above, Yashar submitted that request with more than 61 signatures, and Ohana later said 67 MKs had signed. He has scheduled the debate and vote for Tuesday, Nov. 17, at 4 p.m. Israel time (8 a.m. CT). That vote is the first test of whether Eisenkot can assemble a working majority.
 
 ## Tibi, Golan, and Abbas
 
