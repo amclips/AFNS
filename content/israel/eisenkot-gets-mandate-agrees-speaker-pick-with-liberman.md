@@ -3,9 +3,7 @@ title: "Eisenkot Gets Mandate, Agrees With Liberman on Next Knesset Speaker"
 desk: israel
 date: 2026-11-09
 summary: "Updated later Nov. 9: Ynet — Liberman told Eisenkot, Give up their support, and I will make sure to bring in the Haredi parties. N12 (Eli Hirschman): Netanyahu wants Haredi parties to vote against an Eisenkot government and is aiming for new elections — labeled report. Earlier evening: Kan/ToI — Eisenkot and Liberman agreed to open talks with Shas/UTJ offering a softened draft law; Channel 12 says early stage; Haredi demands include a 1-1.5 year transition with no meaningful enlistment, sanctions, or arrests, plus legal guarantees. Ynet — UTJ sought interim speakership for Yaakov Asher; Liberman/Eisenkot agreed the post goes to a Yashar member; UTJ refused to sign replacing Speaker Ohana before Tuesday; Shas still with Netanyahu. WaPo — Eisenkot seeking a route that avoids dependence on Arab parties. "
-featured: true
-priority: 12
-desk_lead: true
+featured: false
 image: "img/stories/eisenkot-gets-mandate-agrees-speaker-pick-with-liberman.jpg"
 image_alt: "The Knesset building in Jerusalem (file image)"
 image_credit: "Gary Todd / Wikimedia Commons"
