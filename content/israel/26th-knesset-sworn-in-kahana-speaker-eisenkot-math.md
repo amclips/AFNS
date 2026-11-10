@@ -1,8 +1,8 @@
 ---
-title: "26th Knesset Is Being Sworn In Tuesday; Yashar Submits 61 Signatures to Force a Speaker Vote"
+title: "26th Knesset Is Sworn In Tuesday; Yashar Submits 61 Signatures to Force a Speaker Vote"
 desk: israel
 date: 2026-11-10
-summary: "The 26th Knesset is being sworn in Tuesday at 4 p.m. Israel time. Yashar has submitted more than 61 MK signatures to Speaker Amir Ohana demanding a plenum vote to replace him with Matan Kahana, Ynet and the Jerusalem Post report. The vote has not been held. At his faction meeting, Naftali Bennett said he was \"doing everything possible to help Eisenkot form a Zionist government of reform as quickly as possible.\" Ynet, citing sources, reports that Ra'am's Mansour Abbas has agreed in principle to recognize Hamas as a terrorist organization in return for a genuine partnership; Abbas did not deny the report."
+summary: "The 26th Knesset was sworn in Tuesday. After the ceremony, Netanyahu, at the traditional faction leaders' photo event, called for a national unity government, warned of international pressure over Iran, and attacked the prospect of a coalition involving Arab parties, Ynet and the Jerusalem Post report. Eisenkot called the speech \"delusional, divisive, hate-filled, and disgraceful\" and said Netanyahu is \"unfit to remain in office for even one more minute\" (Jerusalem Post). Several Arab lawmakers left during Hatikvah; Abbas remained standing, Ynet reported. The chamber applauded Likud MK Elisha Madan as he stood to take the oath. Yashar has submitted more than 61 signatures demanding a speaker vote, which has not been held."
 featured: true
 priority: 13
 desk_lead: true
@@ -11,9 +11,9 @@ image_alt: "The Knesset plenum in Jerusalem (file image, 2009)"
 image_credit: "Beit Hashalom / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_Hall.JPG"
 image_license: "Attribution"
-status: "Swearing-in Tuesday; 61 signatures submitted to force a speaker vote, which has not been held; no coalition yet"
+status: "26th Knesset sworn in Tuesday; speaker vote not held; no coalition yet"
 key_points:
-  - 26th Knesset is being sworn in Tuesday; ceremony set for 4 p.m. Israel time (Ynet)
+  - The 26th Knesset was sworn in Tuesday (Ynet, Jerusalem Post)
   - 46 first-time MKs and a record 33 women; this is Netanyahu's 15th Knesset (Ynet)
   - Eisenkot received 67 MK recommendations; Netanyahu received 46 (BBC)
   - Eisenkot's four-party bloc holds 48 seats; Netanyahu's bloc holds 53 (BBC)
@@ -24,6 +24,9 @@ key_points:
   - Golan (ToI): "Do not rule out the Arab parties, and do not rule out the Arab public"
   - Abbas (N12/Mako): "We aspire to be part of the next gov't"
   - Liberman denies leading talks with Haredi parties and says Eisenkot is in charge of forming the government (Jerusalem Post, Nov. 10)
+  - UPDATE, 11 a.m. CT: After the ceremony, Netanyahu called for a "national unity government," warned of pressure "to accept a nuclear Iran," and attacked a coalition involving Arab parties (Ynet, Jerusalem Post)
+  - Eisenkot called the speech "delusional, divisive, hate-filled, and disgraceful" and said Netanyahu is "unfit to remain in office for even one more minute" (Jerusalem Post live update)
+  - Ynet: the chamber applauded Likud MK Elisha Madan, who lost both legs in the war, as he stood to take the oath; several Arab lawmakers left during the anthem, while Abbas remained standing and did not sing
   - A speaker vote within a week is the first test of whether a 61-vote majority exists
 sources:
   - Ynet: 26th Knesset swearing-in | https://www.ynetnews.com/article/h111bhbecgg
@@ -38,9 +41,23 @@ sources:
   - Ynet: sources say Abbas agreed in principle to recognize Hamas | https://www.ynetnews.com/article/rkybvtecme
   - Ynet (Hebrew): Abbas did not deny the report; aspires to join the next coalition | https://www.ynet.co.il/news/article/sy3brfgrmg
   - Haaretz: Tibi says Joint List will back Kahana | https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/arab-party-to-back-eisenkot-blocs-bid-to-replace-knesset-speaker/000001a1-c553-dba2-a9f9-d57fa5ce0000
+  - Ynet: 26th Knesset sworn in; Madan applause; anthem walkout | https://www.ynetnews.com/article/hkhobslrge
+  - Ynet: Netanyahu photo-event remarks, Bennett interruption | https://www.ynetnews.com/article/sjfebplczx
+  - Ynet (Hebrew): Eisenkot on Netanyahu's speech | https://www.ynet.co.il/news/article/rykfgpxafl
+  - Jerusalem Post: Netanyahu Iran and unity-government remarks; Eisenkot reply | https://www.jpost.com/israel-news/politics-and-diplomacy/article-914488
 ---
 
-**Status: The 26th Knesset is being sworn in Tuesday; a speaker has not been elected and no coalition has been formed.** The swearing-in is set for **4 p.m. Israel time**. Yashar has submitted more than 61 signatures demanding a speaker vote; that vote has not been held.
+**Status: The 26th Knesset was sworn in Tuesday; a speaker has not been elected and no coalition has been formed.** Yashar has submitted more than 61 signatures demanding a speaker vote; that vote has not been held.
+
+**Update, Nov. 10, 11 a.m. CT:** The 26th Knesset was sworn in Tuesday, [Ynet](https://www.ynetnews.com/article/hkhobslrge) and the [Jerusalem Post](https://www.jpost.com/israel-election-2026/2026-11-10/live-updates-914399) report. Shortly afterward, at the traditional faction leaders' photo event in the Knesset's Chagall Hall, Prime Minister **Benjamin Netanyahu** called for a "national unity government," warned of international pressure over Iran, and attacked the prospect of a coalition involving Arab parties, [Ynet](https://www.ynetnews.com/article/sjfebplczx) and the [Jerusalem Post](https://www.jpost.com/israel-news/politics-and-diplomacy/article-914488) report.
+
+Netanyahu said "Iran is working to renew the nuclear threat" and that "the only way to permanently remove an existential threat is to bring down the ayatollah regime," Ynet reported. (The Post quoted him saying the only way "is through the downfall of the Ayatollah regime.") He said Israel would soon face international pressure "to accept a nuclear Iran and the continued existence of the regime of terror that seeks to destroy us," Ynet reported, as well as pressure to retreat from what he described as Israel's major achievements and its security zones. "In the face of these threats, we must do one thing in this house: put every other consideration aside and establish a national unity government," he said, according to Ynet. "Only such a government will be able to confront challenges of this magnitude."
+
+Turning to the change bloc, Netanyahu said, "You who want to form a government with supporters of terrorism do not understand what they really want to achieve," Ynet reported. **Naftali Bennett** interrupted him, shouting, "What about your Qatari advisers? What about the October 7 investigation?" Ynet reported. Democrats chairman **Yair Golan** walked out in protest, Ynet said.
+
+**Gadi Eisenkot**, in a [Jerusalem Post](https://www.jpost.com/israel-election-2026/2026-11-10/live-updates-914399) live update, described the speech as **"delusional, divisive, hate-filled, and disgraceful"** and accused Netanyahu of exploiting the state ceremony. "I became even more convinced that he is unfit to remain in office for even one more minute," Eisenkot said, according to the Post. "We must act urgently to establish a national emergency government. His continued rule divides Israel and endangers its security." [Ynet](https://www.ynet.co.il/news/article/rykfgpxafl), in a Hebrew report, similarly quoted him calling the speech delusional, divisive, full of hate, and shameful, and saying Netanyahu is unfit to continue even one more minute.
+
+During the swearing-in, Ynet reported, the chamber rose and applauded Likud MK **Elisha Madan**, who lost both legs in the war, as he stood to take the oath of office. At the end of the ceremony, **several Arab lawmakers left the chamber during the national anthem**, while Ra'am chairman **Mansour Abbas** remained standing alongside United Torah Judaism MK Yaakov Asher. Neither joined in singing the anthem, Ynet reported. The Jerusalem Post reported that members of the Joint List were seen leaving before the conclusion of Hatikvah.
 
 **Update, Tuesday afternoon:** [Ynet](https://www.ynetnews.com/article/kud2ov6km) and the [Jerusalem Post](https://www.jpost.com/israel-election-2026/article-914426) report that the Yashar party has submitted **more than 61 signatures** from members of the 26th Knesset to Speaker **Amir Ohana**, demanding his replacement and a plenum vote to elect a new speaker. **Matan Kahana** was formally named as the candidate in that request. **The vote has not been held.** The Post reports that Ohana said last week he would not hold the vote on the inaugural day and would instead schedule it for the following week if a formal request with sufficient support was submitted.
 
@@ -48,7 +65,7 @@ Naftali Bennett, at the start of his faction meeting in the Knesset, said the op
 
 **Reported — Ra'am and Hamas:** [Ynet](https://www.ynetnews.com/article/rkybvtecme), citing sources involved in the talks, reports that Ra'am leader **Mansour Abbas** has expressed agreement in principle to formally recognize Hamas as a terrorist organization — the fourth condition Gadi Eisenkot has set for prospective coalition partners — in return for a genuine political partnership. In a follow-up, [Ynet](https://www.ynet.co.il/news/article/sy3brfgrmg) reported that at his Knesset faction meeting Abbas **did not deny** the report. He said: **"We aspire to be part of the next coalition and the next government. Those who will benefit from this are Jewish and Arab citizens. We will extend a hand to the partnership that Gadi Eisenkot will lead."** No coalition has been formed.
 
-The 26th Knesset is being sworn in Tuesday in Jerusalem, [Ynet](https://www.ynetnews.com/article/h111bhbecgg) reports. Formal proceedings at the Knesset plaza were listed from 3:20 p.m., with the swearing-in itself at 4 p.m. Ynet says the new Knesset includes **46 first-time members** and a record **33 women**. For Benjamin Netanyahu, it is a **15th** Knesset.
+The 26th Knesset was sworn in Tuesday in Jerusalem. Earlier reports had listed formal proceedings from 3:20 p.m. and the swearing-in at 4 p.m. Israel time, [Ynet](https://www.ynetnews.com/article/h111bhbecgg) reported; a later [Ynet](https://www.ynetnews.com/article/hkhobslrge) account described the ceremony as it took place. Ynet says the new Knesset includes **46 first-time members** and a record **33 women**. For Benjamin Netanyahu, it is a **15th** Knesset.
 
 ## The mandate math
 
