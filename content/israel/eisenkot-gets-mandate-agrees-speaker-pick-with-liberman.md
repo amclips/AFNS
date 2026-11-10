@@ -2,7 +2,7 @@
 title: "Eisenkot Gets Mandate, Agrees With Liberman on Next Knesset Speaker"
 desk: israel
 date: 2026-11-09
-summary: "Updated evening Nov. 9: Kan/ToI — Eisenkot and Liberman agreed to open talks with Shas/UTJ offering a softened draft law; Channel 12 says early stage; Haredi demands include a 1-1.5 year transition with no meaningful enlistment, sanctions, or arrests, plus legal guarantees. Ynet — UTJ sought interim speakership for Yaakov Asher; Liberman/Eisenkot agreed the post goes to a Yashar member; UTJ refused to sign replacing Speaker Ohana before Tuesday; Shas still with Netanyahu. WaPo — Eisenkot seeking a route that avoids dependence on Arab parties. "
+summary: "Updated later Nov. 9: Ynet — Liberman told Eisenkot, Give up their support, and I will make sure to bring in the Haredi parties. N12 (Eli Hirschman): Netanyahu wants Haredi parties to vote against an Eisenkot government and is aiming for new elections — labeled report. Earlier evening: Kan/ToI — Eisenkot and Liberman agreed to open talks with Shas/UTJ offering a softened draft law; Channel 12 says early stage; Haredi demands include a 1-1.5 year transition with no meaningful enlistment, sanctions, or arrests, plus legal guarantees. Ynet — UTJ sought interim speakership for Yaakov Asher; Liberman/Eisenkot agreed the post goes to a Yashar member; UTJ refused to sign replacing Speaker Ohana before Tuesday; Shas still with Netanyahu. WaPo — Eisenkot seeking a route that avoids dependence on Arab parties. "
 featured: true
 priority: 12
 desk_lead: true
@@ -13,6 +13,8 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3AKnesset_Israeli_Par
 image_license: "CC0"
 status: "Mandate assigned; Haredi outreach reported; speakership to Yashar; coalition not formed"
 key_points:
+  - UPDATE NOV. 9 LATE - Ynet: Liberman told Eisenkot, "Give up their support, and I'll make sure to bring in the Haredi parties."
+  - UPDATE NOV. 9 LATE - REPORT (N12 / Eli Hirschman via Mako): Netanyahu wants Haredi parties to vote against an Eisenkot government and is aiming for new elections
   - UPDATE NOV. 9 EVENING - Kan/ToI: Eisenkot and Liberman agree to open talks with Shas/UTJ offering softened draft law; Channel 12: early stage
   - UPDATE NOV. 9 EVENING - Haredi demands reported: 1-1.5 year transition; no meaningful enlistment, sanctions, or arrests; legal guarantees vs court review (ToI/Ch12)
   - UPDATE NOV. 9 EVENING - Ynet: UTJ sought interim speakership for Yaakov Asher; Liberman/Eisenkot agreed it goes to a Yashar member; UTJ refused to sign letter replacing Ohana before Tuesday; Shas with Netanyahu for now
@@ -28,6 +30,8 @@ key_points:
   - NUANCE - Only about 48 MKs in Eisenkot's camp were committed to govern together as of Friday; 19 Arab-party recommendations are not a coalition commitment (Times of Israel)
   - SIDEBAR - Police and Shin Bet investigating Handala leaflets with QR codes found in northern Tel Aviv mailboxes; Iran-linked group claims responsibility (Times of Israel, Jerusalem Post, Ynet, Haaretz)
 sources:
+  - Ynet: Liberman demands Eisenkot reject Arab support; Haredi promise | https://www.ynetnews.com/article/s1xaucyagl
+  - N12 / Mako (Eli Hirschman): Netanyahu pressured Haredi rabbis; aims for new elections | https://www.mako.co.il/news-israel-elections/2026/Article-b19473faec1c1a1027.htm
   - Times of Israel: Eisenkot, Liberman Haredi talks / draft concessions | https://www.timesofisrael.com/liveblog_entry/report-eisenkot-liberman-agree-to-open-talks-with-haredi-parties-eyeing-draft-law-concessions/
   - Ynet: UTJ sought Asher speakership; goes to Yashar | https://www.ynetnews.com/article/syteack0fe
   - Washington Post: opposition eyes ultra-Orthodox deal | https://www.washingtonpost.com/world/2026/11/09/israeli-opposition-eyes-deal-with-ultra-orthodox-jewish-parties-oust-netanyahu/
@@ -49,6 +53,12 @@ sources:
   - Ynet: Police and Shin Bet investigate Handala flyers | https://www.ynetnews.com/article/xs7pbfncl
   - Haaretz: Iranian hacker group leaflets in Tel Aviv | https://www.haaretz.com/israel-news/israel-security/2026-11-09/ty-article/.premium/iranian-hacker-group-distributes-threatening-leaflets-in-tel-aviv/000001a1-c0d9-d6fd-a3ed-f2d9e3d60000
 ---
+## Update, Nov. 9 (late evening)
+
+**Liberman to Eisenkot.** [Ynet](https://www.ynetnews.com/article/s1xaucyagl) reports that during their meeting Avigdor Liberman told Gadi Eisenkot: **"Give up their support, and I'll make sure to bring in the Haredi parties,"** referring to dropping reliance on Arab-party backing in favor of ultra-Orthodox support.
+
+**Report: Netanyahu and new elections.** [N12 / Mako](https://www.mako.co.il/news-israel-elections/2026/Article-b19473faec1c1a1027.htm) (Eli Hirschman) reports that Netanyahu expects the Haredi parties to **vote against** an Eisenkot-led government rather than abstain, and that he is **aiming for new elections**, saying he is convinced he would win and then deliver for the Haredim. Labeled as an N12 report.
+
 ## Update, Nov. 9 (evening)
 
 **Haredi talks.** [Kan](https://www.kan.org.il/content/kan-news/politic/1117627/), as reported by the [Times of Israel](https://www.timesofisrael.com/liveblog_entry/report-eisenkot-liberman-agree-to-open-talks-with-haredi-parties-eyeing-draft-law-concessions/), says Gadi Eisenkot and Avigdor Liberman agreed to **open talks** with **Shas and United Torah Judaism**, with a **softened draft law** on offer for support of an Eisenkot-led government. **Channel 12** says discussions are still at an **early stage**. Per that reporting, Haredi parties are expected to seek a **one-year to 18-month** transitional arrangement with **no meaningful enlistment, sanctions, or arrests** of draft dodgers in that period, plus **legal guarantees** that the arrangement would withstand court review.
