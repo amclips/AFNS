@@ -5,7 +5,7 @@ date: 2026-11-06
 summary: "UK maritime security and the IRGC report tanker incidents in the Strait of Hormuz; Herzog to name Israel's mandate Sunday as Eisenkot leads recommendations but not a coalition; Gaza Health Ministry says 1,600-plus killed since the truce; Houthis target Saudi Arabia as Türkiye ratifies a defense pact with Riyadh and Pakistan; Trump meets a Putin envoy ahead of Abu Dhabi talks; Ukraine power plants damaged; Paraguay's president resigns over a digital-bank collapse."
 featured: true
 priority: 9
-desk_lead: true
+desk_lead: false
 image: "img/stories/world-briefing-2026-11-06.jpg"
 image_alt: "Satellite view of the Strait of Hormuz connecting the Persian Gulf and the Gulf of Oman (NASA MODIS, 2020)"
 image_credit: "NASA MODIS Land Rapid Response Team / Wikimedia Commons"

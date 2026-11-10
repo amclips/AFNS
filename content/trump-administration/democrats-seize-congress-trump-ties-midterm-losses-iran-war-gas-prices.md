@@ -5,7 +5,7 @@ date: 2026-11-05
 summary: "Democrats won majorities in both chambers in the Nov. 3 midterms, with at least 54 Senate seats and at least 30 House seats gained, Mississippi and Alaska still undecided, Reuters reports. Trump called Vance's view that the war cost the GOP \"largely true\" but said he would do it again; House Speaker Mike Johnson will not seek to stay on as GOP leader, according to a top aide (NBC News, Washington Post)."
 featured: true
 priority: 10
-desk_lead: true
+desk_lead: false
 image: "img/stories/democrats-seize-congress-trump-ties-midterm-losses-iran-war-gas-prices.jpg"
 image_alt: "The U.S. Capitol Building in Washington, D.C., with cherry blossoms in the foreground (file image)"
 image_credit: "Diego Delso / Wikimedia Commons"
