@@ -2,7 +2,7 @@
 title: "Report: Gulf Mediators Float Iran Nuclear Framework as Trump Keeps Strikes on Table"
 desk: israel
 date: 2026-11-09
-summary: "UNCONFIRMED: Al Hadath and Al Arabiya, citing unnamed sources, say a Qatar-Pakistan framework would allow enrichment to 3.67% on Iranian soil, dilute Iran's 60% stockpile, free $6-9B in assets, and reopen Hormuz if a deal is reached — no official U.S., Qatari, or Iranian confirmation. Separately, Trump told Reuters Qatar and Saudi Arabia want a peaceful path while the U.S. remains ready to resume strikes."
+summary: "UNCONFIRMED: Al Hadath and Al Arabiya, citing unnamed sources, say a Qatar-Pakistan framework would allow enrichment to 3.67% on Iranian soil, dilute Iran's 60% stockpile, free $6-9B in assets, and reopen Hormuz if a deal is reached — no official U.S., Qatari, or Iranian confirmation. Separately, Trump told Reuters Qatar and Saudi Arabia want a peaceful path while the U.S. remains ready to resume strikes. Evening: Axios — Trump wants a deal and will give talks a chance."
 featured: true
 priority: 10
 desk_lead: false
@@ -13,16 +13,21 @@ image_source_url: "https://commons.wikimedia.org/wiki/File%3AFlickr_-_Official_U
 image_license: "Public domain"
 status: "UNCONFIRMED framework report; Trump Reuters remarks verified"
 key_points:
+  - UPDATE NOV. 9 EVENING - Axios: Trump wants a deal with Iran and will give talks a chance; could reverse if Iran not serious
   - UNCONFIRMED - Al Hadath/Al Arabiya unnamed sources: Qatar-Pakistan proposal would allow Iran to enrich to 3.67% on its soil; dilute 60% stockpile; release $6-9B Iranian assets and reopen Hormuz if a deal is reached; no official confirmation
   - Trump told Reuters Qatar and Saudi Arabia want a peaceful solution; U.S. ready to resume strikes if needed; content for now with Hormuz naval blockade (Al-Monitor / Reuters)
   - Axios: Trump met Qatar's prime minister about 45 minutes on Iran mediation; a diplomat familiar with Trump/Vance meetings described them as positive (Axios / secondary accounts of Barak Ravid)
 sources:
+  - Axios: Trump — attacks quite unlikely; wants deal / give talks a chance | https://www.axios.com/2026/11/09/trump-iran-war-qatar-negotiations-attacks-unlikely
   - Al Arabiya: Qatar-Pakistan proposal (Arabic) | https://www.alarabiya.net/iran/2026/11/09/%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%82%D8%B7%D8%B1%D9%8A-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%A7%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%B7%D9%87%D8%B1%D8%A7%D9%86-
   - Ajel English summary of Al Hadath sources | https://english.ajel.sa/world/r2nhajg55
   - Walla: Al Arabiya report on enrichment framework | https://www.walla.co.il/news/world/383960745
   - Al-Monitor / Reuters: Trump on Qatar, Saudi, strikes | https://www.al-monitor.com/originals/2026/11/trump-tells-reuters-qatar-saudi-arabia-want-peaceful-iran-deal-us-ready-strikes
   - Axios: Trump to meet Qatar PM on Iran mediation | https://www.axios.com/2026/11/09/trump-qatar-prime-minister-iran-war-mediation
 ---
+## Update, Nov. 9 (evening)
+
+[Axios](https://www.axios.com/2026/11/09/trump-iran-war-qatar-negotiations-attacks-unlikely) (Barak Ravid): a diplomat briefed on Trump's meeting with Qatar's prime minister said Trump **wants a deal** and **will give negotiations a chance**, while noting he could reverse course if Iran is not serious.
 
 **Status: UNCONFIRMED** for the enrichment framework. **No official confirmation** from the United States, Qatar, Pakistan, or Iran.
 
