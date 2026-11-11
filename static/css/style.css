@@ -49,8 +49,11 @@ a:hover{color:var(--red)}
 
 /* hero */
 .hero{background:var(--navy)}
-.hero-media{max-width:1400px;margin:0 auto;aspect-ratio:1168/560;overflow:hidden}
-.hero-media img{width:100%;height:100%;object-fit:cover;object-position:center 45%}
+/* Flag photo already includes the AFNS wordmark, so no title is painted on top of it. */
+.hero-media{max-width:1400px;margin:0 auto;aspect-ratio:2128/912;overflow:hidden;background-color:#0a1630;
+  background-image:url("../assets/hero-flag.jpg");
+  background-image:image-set(url("../assets/hero-flag.webp") type("image/webp"), url("../assets/hero-flag.jpg") type("image/jpeg"));
+  background-repeat:no-repeat;background-size:cover;background-position:center center}
 .hero-pillars{padding:0}
 .hero-pillars ul{list-style:none;margin:0;padding:14px 0;display:flex;justify-content:center;color:#dfe4ee;font-family:var(--head);text-transform:uppercase;letter-spacing:.1em;font-size:15px;text-align:center}
 .hero-pillars li{border-left:0;max-width:100%}
@@ -246,7 +249,7 @@ input:disabled,textarea:disabled{background:#eef0f4;cursor:not-allowed}
   .about-seal{position:static;max-width:260px;margin:0 auto}
   .footer-grid{grid-template-columns:1fr 1fr}
   .footer-brand{grid-column:1/-1}
-  .hero-media{aspect-ratio:1168/784}
+  .hero-media{background-position:center center}
 }
 @media (max-width:600px){
   body{font-size:15.5px}

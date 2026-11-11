@@ -193,7 +193,7 @@ def social_nav(*, labeled=False, nav_class="", labelledby=""):
     cls = f' class="{nav_class}"' if nav_class else ""
     return f"<nav{cls}{attrs}>{social_links(labeled=labeled)}</nav>"
 
-def layout(title, body, *, desc=None, canonical="", og_type="website", active="", og_image=None, og_alt=None):
+def layout(title, body, *, desc=None, canonical="", og_type="website", active="", og_image=None, og_alt=None, extra_head=""):
     full_title = f"{title} | {CFG['short_name']}" if title else f"{CFG['name']} — {CFG['tagline']}"
     desc = desc or CFG["description"]
     canon = site_url(canonical)
@@ -243,6 +243,7 @@ def layout(title, body, *, desc=None, canonical="", og_type="website", active=""
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="{site_href('css/style.css')}">
+{extra_head}
 <script src="{site_href('js/site.js')}" defer></script>
 <script type="application/ld+json">{org_ld}</script>
 </head>
@@ -406,7 +407,7 @@ def build_home(arts):
     # Newest featured story is the lead. Other featured stories head the side list.
     rest = [a for a in arts if a is not lead and a["featured"]] + [a for a in arts if a is not lead and not a["featured"]]
     hero = f"""<section class="hero" aria-label="America First News Syndicate">
-  <div class="hero-media"><img src="{site_href('assets/hero-banner.jpg')}" alt="AFNS — America First News Syndicate. America First. Truth First. America Always." width="1168" height="784" fetchpriority="high"></div>
+  <div class="hero-media" role="img" aria-label="AFNS — America First News Syndicate"></div>
   <div class="hero-pillars wrap"><ul>
     <li><strong>Fact-Based.</strong> Fearless. America First.</li>
   </ul></div>
@@ -429,7 +430,8 @@ def build_home(arts):
   <div class="desk-list">{items}</div>
 </section>""")
     body = hero + top + x_callout() + f'<div class="wrap desks-grid">{"".join(desks)}</div>' + signup()
-    write("index.html", layout("", body, active="home"))
+    preload = f'<link rel="preload" as="image" type="image/webp" href="{site_href("assets/hero-flag.webp")}" fetchpriority="high">'
+    write("index.html", layout("", body, active="home", extra_head=preload))
 
 def build_desks(arts):
     for d in CFG["desks"]:
