@@ -5,13 +5,13 @@ date: 2026-11-10
 summary: "Rep. Thomas Massie (R-Ky.) has filed privileged articles of impeachment against Defense Secretary Pete Hegseth, including three War Powers counts over the Iran war. A House vote could come as early as 5:30 p.m. ET Tuesday; Republicans may table or refer the resolution. NBC has not heard from any other Republican committed to backing it. Trump said he would be disappointed and that Pete has won two wars."
 featured: true
 priority: 12
-desk_lead: true
+desk_lead: false
 image: "img/stories/massie-forces-privileged-house-vote-hegseth-impeachment-articles.jpg"
 image_alt: "The west front of the United States Capitol (file image)"
 image_credit: "Architect of the Capitol / Wikimedia Commons"
 image_source_url: "https://commons.wikimedia.org/wiki/File%3AUnited_States_Capitol_-_west_front.jpg"
 image_license: "Public domain"
-status: "Privileged resolution filed; floor action possible Tuesday; no other Republican commitments reported"
+status: "UPDATE: On Tuesday the House voted 211-204 to refer the resolution to committee, shelving it; see the follow-up story"
 key_points:
   - Massie reintroduced eight articles of impeachment against Hegseth, including three tied to the War Powers Resolution of 1973 (NBC, citing Massie's press release)
   - First article, per the release: "waging the Iran war despite no declaration of war, statutory authorization, attack on the United States, or imminent threat"
@@ -26,7 +26,9 @@ sources:
   - AP live updates, Nov. 10 | https://apnews.com/live/trump-hegseth-congress-politics-news-updates-11-10-2026
 ---
 
-**Status: Massie has filed a privileged impeachment resolution; the House may act as early as Tuesday evening. A vote to impeach is not assured.** Republicans can move to table the resolution or refer it to committee. NBC News has not heard from any Republicans other than Massie who have committed to backing it.
+**Update, Tuesday evening:** The House voted 211-204 to refer the resolution to the Judiciary Committee, a procedural step that shelves the impeachment effort this session. Full story: [House Votes 211-204 to Refer Hegseth Impeachment to Committee, Shelving Massie's Resolution](/trump-administration/house-refers-hegseth-impeachment-to-committee-211-204/).
+
+**Status: Massie filed a privileged impeachment resolution; the House acted Tuesday evening.** Republicans can move to table the resolution or refer it to committee. NBC News has not heard from any Republicans other than Massie who have committed to backing it.
 
 Rep. Thomas Massie (R-Ky.) reintroduced eight articles of impeachment against Defense Secretary Pete Hegseth on Monday, [NBC News](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-2026-midterm-elections-senate-house-supreme-court-live-updates-rcna608235) reported. Three of the charges, Massie said, relate to alleged violations of the War Powers Resolution of 1973. The first article, according to Massie's press release as quoted by NBC, **"charges Secretary Hegseth with waging the Iran war despite no declaration of war, statutory authorization, attack on the United States, or imminent threat."** The release added: **"It establishes that the war was unlawful from its inception."**
 
