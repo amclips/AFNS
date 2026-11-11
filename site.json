@@ -4,9 +4,10 @@
   "base_url": "https://afnewssyndicate.com",
   "tagline": "America First. Truth First. America Always.",
   "description": "America First News Syndicate (AFNS) publishes research on the courts, fraud and corruption, the Trump Administration, DSA and Democrat activity, geopolitics, and Israel.",
-  "x_handle": "@AFNS_placeholder",
-  "x_url": "https://x.com/",
-  "x_is_placeholder": true,
+  "x_handle": "@afnewssyndicate",
+  "x_url": "https://x.com/afnewssyndicate",
+  "x_is_placeholder": false,
+  "facebook_url": "https://www.facebook.com/people/AF-NewsSyndicate/61596131592917/",
   "contact_email": "contact@afns.example.com",
   "byline": "AFNS Research Desk",
   "desks": [

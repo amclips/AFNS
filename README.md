@@ -27,7 +27,8 @@ Newest articles show first. The home page, desk pages, RSS feed (`feed.xml`) and
 **Before launch:** delete the sample articles (every file with `sample: true`, all titled "Sample: ...").
 
 ## Configuration (one spot): `site.json`
-- `x_handle` / `x_url`: the AFNS X account. Currently placeholders (`@AFNS_placeholder`, `https://x.com/`). Set the real handle, the URL `https://x.com/<handle>`, and `"x_is_placeholder": false`, then rebuild.
+- `x_handle` / `x_url`: the AFNS X account. Currently `@afnewssyndicate` and `https://x.com/afnewssyndicate`, with `"x_is_placeholder": false`. Header and footer icons, `twitter:site`, and Organization `sameAs` read these values.
+- `facebook_url`: the AFNS Facebook page. Header icons and the footer "Follow AFNS" row are built from `x_url` and `facebook_url`.
 - `base_url`: the public site URL, path included. Currently `https://afnewssyndicate.com` (served at `/`; `www.afnewssyndicate.com` is the alternate host). The generator uses that value for every internal link, stylesheet, script, image, favicon, canonical URL, Open Graph URL, RSS item, sitemap entry, and the `CNAME` file. A root-relative Markdown link such as `[courts](/courts/)` is prefixed with the `base_url` path the same way. A project-site URL such as `https://user.github.io/repo` would serve the site under `/repo/` instead.
 - `contact_email`: placeholder; shown on the contact page.
 - `desks`: desk names, slugs, and blurbs. Adding a desk here and a matching `content/<slug>/` folder creates a new section.
@@ -35,7 +36,7 @@ Newest articles show first. The home page, desk pages, RSS feed (`feed.xml`) and
 ## Layout
 ```
 build.py          generator
-site.json         site config (X handle, domain, desks)
+site.json         site config (social accounts, domain, desks)
 content/          Markdown articles, one folder per desk
 assets/           logos, favicon, hero banner, og image (copied to dist/assets)
 static/css, js    stylesheet and small JS (mobile menu, copy link)
@@ -69,4 +70,4 @@ The PNGs are committed, so a build still publishes them when Pillow is not insta
 
 ## Not live yet (placeholders)
 - Newsletter sign-up and contact form are disabled and marked "Coming soon". No backend, no data collected.
-- X account link and contact email are placeholders in `site.json`.
+- Contact email is a placeholder in `site.json`.

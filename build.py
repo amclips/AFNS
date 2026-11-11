@@ -153,6 +153,45 @@ def fmt_date(d):
 
 # ---------------------------------------------------------------- layout
 X_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true" width="18" height="18"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>'
+# Facebook "f" (Simple Icons path). Color comes from currentColor so the buttons stay on the navy/gold/white brand.
+FB_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true" width="18" height="18"><path fill="currentColor" d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 2.504 2.504 0 0 0-1.837.565c-.476.45-.737 1.121-.737 1.99v1.417h3.718l-.64 3.667h-3.078v8.02a11.98 11.98 0 0 1-5.24-.041Z"/></svg>'
+
+def social_profiles():
+    """Official profiles. URLs live in site.json; templates only call this."""
+    profiles = []
+    x_url = (CFG.get("x_url") or "").strip()
+    if x_url:
+        handle = (CFG.get("x_handle") or "").strip()
+        label = f"Follow AFNS on X ({handle})" if handle else "Follow AFNS on X"
+        profiles.append({"id": "x", "name": "X", "url": x_url, "handle": handle, "label": label})
+    facebook_url = (CFG.get("facebook_url") or "").strip()
+    if facebook_url:
+        profiles.append({"id": "facebook", "name": "Facebook", "url": facebook_url, "handle": "", "text": "AFNS", "label": "Follow AFNS on Facebook"})
+    return profiles
+
+def social_same_as():
+    return [p["url"] for p in social_profiles()]
+
+def social_links(*, labeled=False):
+    cls = "social-links social-labeled" if labeled else "social-links"
+    items = []
+    for p in social_profiles():
+        icon = FB_ICON if p["id"] == "facebook" else X_ICON
+        text = f"<span>{esc(p['name'])}</span>" if labeled else ""
+        items.append(
+            f'<li><a href="{esc(p["url"])}" rel="noopener noreferrer" target="_blank" aria-label="{esc(p["label"])}">{icon}{text}</a></li>'
+        )
+    return f'<ul class="{cls}">{"".join(items)}</ul>'
+
+def social_nav(*, labeled=False, nav_class="", labelledby=""):
+    if not social_profiles():
+        return ""
+    if labelledby:
+        attrs = f' aria-labelledby="{esc(labelledby)}"'
+    else:
+        attrs = ' aria-label="Follow AFNS"'
+    cls = f' class="{nav_class}"' if nav_class else ""
+    return f"<nav{cls}{attrs}>{social_links(labeled=labeled)}</nav>"
 
 def layout(title, body, *, desc=None, canonical="", og_type="website", active="", og_image=None, og_alt=None):
     full_title = f"{title} | {CFG['short_name']}" if title else f"{CFG['name']} — {CFG['tagline']}"
@@ -167,7 +206,11 @@ def layout(title, body, *, desc=None, canonical="", og_type="website", active=""
         f'<li><a href="{site_href(d["slug"] + "/")}"{" aria-current=\"page\"" if active == d["slug"] else ""}>{esc(d["name"])}</a></li>'
         for d in CFG["desks"])
     today = datetime.date.today().strftime("%A, %B %-d, %Y")
-    xph = ' data-placeholder="true"' if CFG.get("x_is_placeholder") else ""
+    org_ld = json.dumps({
+        "@context": "https://schema.org", "@type": "Organization", "name": CFG["name"],
+        "url": site_url(), "logo": site_url("assets/logo-512.png"),
+        **({"sameAs": social_same_as()} if social_same_as() else {}),
+    }, ensure_ascii=False)
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -201,13 +244,14 @@ def layout(title, body, *, desc=None, canonical="", og_type="website", active=""
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="{site_href('css/style.css')}">
 <script src="{site_href('js/site.js')}" defer></script>
+<script type="application/ld+json">{org_ld}</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <div class="topbar"><div class="wrap topbar-inner">
   <span class="topbar-date">{today}</span>
   <span class="topbar-tag">{esc(CFG['tagline'])}</span>
-  <a class="topbar-x" href="{esc(CFG['x_url'])}" rel="noopener" target="_blank"{xph}>{X_ICON}<span>Follow {esc(CFG['x_handle'])}</span></a>
+  {social_nav(nav_class="topbar-social")}
 </div></div>
 <header class="masthead">
   <div class="wrap masthead-inner">
@@ -237,9 +281,12 @@ def layout(title, body, *, desc=None, canonical="", og_type="website", active=""
       <li><a href="{site_href('standards/')}">Sources &amp; Corrections</a></li>
       <li><a href="{site_href('contact/')}">Contact</a></li>
       <li><a href="{site_href('feed.xml')}">RSS Feed</a></li>
-      <li><a href="{esc(CFG['x_url'])}" rel="noopener" target="_blank"{xph}>X / {esc(CFG['x_handle'])}</a></li>
     </ul></div>
   </div>
+  <div class="footer-follow"><div class="wrap footer-follow-inner">
+    <h2 class="footer-h" id="footer-follow">Follow AFNS</h2>
+    {social_nav(labeled=True, labelledby="footer-follow")}
+  </div></div>
   <div class="footer-bottom"><div class="wrap">&copy; {datetime.date.today().year} {esc(CFG['name'])}. America First. Truth First. America Always.</div></div>
 </footer>
 </body>
@@ -275,7 +322,7 @@ def x_callout():
   <div class="x-icon">{X_ICON.replace('width="18" height="18"', 'width="44" height="44"')}</div>
   <div class="x-copy"><h2 id="x-h">Follow AFNS on X</h2>
   <p>Get every new research report, court ruling breakdown, and desk update as it publishes.</p>{ph}</div>
-  <a class="btn btn-gold" href="{esc(CFG['x_url'])}" rel="noopener" target="_blank">Follow {esc(CFG['x_handle'])}</a>
+  <a class="btn btn-gold" href="{esc(CFG['x_url'])}" rel="noopener noreferrer" target="_blank">Follow {esc(CFG['x_handle'])}</a>
 </div></section>"""
 
 def signup():
@@ -348,7 +395,7 @@ def sidebar(arts, exclude_desk=None, exclude=None):
     lis = "".join(f'<li><a href="{site_href(url_of(a))}"><span class="desk-tag-sm">{esc(DESKS[a["desk"]]["name"])}</span>{esc(a["title"])}</a></li>' for a in others)
     return f"""<div class="side-box"><h2 class="side-h">Across the Desks</h2><ol class="side-list">{lis}</ol></div>
 <div class="side-box side-x"><h2 class="side-h">Follow AFNS</h2><p>New research posts to X first.</p>
-<a class="btn btn-gold btn-block" href="{esc(CFG['x_url'])}" rel="noopener" target="_blank">{X_ICON} Follow {esc(CFG['x_handle'])}</a></div>"""
+<a class="btn btn-gold btn-block" href="{esc(CFG['x_url'])}" rel="noopener noreferrer" target="_blank">{X_ICON} Follow {esc(CFG['x_handle'])}</a></div>"""
 
 def build_articles(arts):
     for a in arts:
@@ -382,10 +429,12 @@ def build_articles(arts):
         related = [x for x in arts if x["desk"] == a["desk"] and x is not a][:3]
         rel_html = f'<section class="wrap related">{section_head("More from " + esc(d["name"]), site_href(a["desk"] + "/"), "All")}<div class="grid-3">{"".join(card(x) for x in related)}</div></section>' if related else ""
         share_image = a["image"] or og or "assets/og-image.jpg"
+        publisher = {"@type": "Organization", "name": CFG["name"], "logo": {"@type": "ImageObject", "url": site_url("assets/logo-512.png")}}
+        if social_same_as():
+            publisher["sameAs"] = social_same_as()
         ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": a["title"],
                          "datePublished": a["date"].isoformat(), "author": {"@type": "Organization", "name": a["byline"]},
-                         "image": site_url(share_image),
-                         "publisher": {"@type": "Organization", "name": CFG["name"], "logo": {"@type": "ImageObject", "url": site_url("assets/logo-512.png")}},
+                         "image": site_url(share_image), "publisher": publisher,
                          "articleSection": d["name"], "description": a["summary"], "mainEntityOfPage": canon})
         body = f"""<div class="wrap article-layout">
 <article class="article">
@@ -449,7 +498,7 @@ def build_static():
 <p class="lede">Tips, corrections, and questions are welcome.</p>
 <p><strong>Corrections:</strong> include the article link and the source showing the error.<br><strong>Tips:</strong> documents and primary sources help us move fastest.</p>
 <p><strong>Email:</strong> <span class="placeholder-text">{esc(CFG['contact_email'])}</span> <em>(placeholder, not monitored yet)</em></p>
-<p><strong>X:</strong> <a href="{esc(CFG['x_url'])}" rel="noopener" target="_blank">{esc(CFG['x_handle'])}</a></p>
+{"".join(f'<p><strong>{esc(p["name"])}:</strong> <a href="{esc(p["url"])}" rel="noopener noreferrer" target="_blank" aria-label="{esc(p["label"])}">{esc(p["handle"] or p.get("text") or p["name"])}</a></p>' for p in social_profiles())}
 </div>
 <form class="contact-form" onsubmit="return false" aria-describedby="contact-note">
   <p class="kicker">Contact form · Coming soon</p>
