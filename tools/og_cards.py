@@ -2,7 +2,9 @@
 """Branded 1200x675 share cards (X / Open Graph) for AFNS articles. Requires Pillow.
 Called automatically by build.py; can also be run alone:  python3 tools/og_cards.py
 """
+import json
 from pathlib import Path
+from urllib.parse import urlparse
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -10,7 +12,14 @@ FONTS = ROOT / "tools" / "fonts"
 W, H = 1200, 675
 NAVY, NAVY2 = (10, 22, 48), (22, 40, 86)
 GOLD, RED, WHITE = (201, 162, 74), (200, 32, 47), (255, 255, 255)
-FOOTER_URL = "amclips.github.io/AFNS"
+
+def footer_url():
+    """Host (and path, if any) of site.json base_url, shown on the card."""
+    base = json.loads((ROOT / "site.json").read_text())["base_url"]
+    u = urlparse(base)
+    return u.netloc + u.path.rstrip("/")
+
+FOOTER_URL = footer_url()
 
 def font(name, size, weight):
     f = ImageFont.truetype(str(FONTS / name), size)

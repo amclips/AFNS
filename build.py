@@ -4,9 +4,9 @@
 Usage:  python3 build.py            -> builds ./dist
         python3 build.py --serve    -> builds, then serves dist on http://localhost:8000
 
-Links, assets, the feed, and the sitemap follow site.json "base_url".
-The URL path is the mount point: https://amclips.github.io/AFNS serves under
-/AFNS/, and a later custom domain (https://example.com) serves at /.
+Links, assets, the feed, the sitemap, and dist/CNAME follow site.json "base_url".
+The URL path is the mount point: https://afnewssyndicate.com serves at /,
+and a project site such as https://user.github.io/repo serves under /repo/.
 """
 import html, json, re, shutil, sys, datetime
 from pathlib import Path
@@ -18,11 +18,11 @@ CFG = json.loads((ROOT / "site.json").read_text())
 DESKS = {d["slug"]: d for d in CFG["desks"]}
 esc = lambda s: html.escape(str(s), quote=True)
 
-# Path prefix from base_url ("/AFNS" or "" at the host root). No trailing slash.
+# Path prefix from base_url ("" at the host root, or "/repo" on a project site). No trailing slash.
 BASE_PATH = urlparse(CFG["base_url"]).path.rstrip("/")
 
 def site_href(path=""):
-    """Root-relative URL that includes BASE_PATH. '' -> '/AFNS/' or '/'."""
+    """Root-relative URL that includes BASE_PATH. '' -> '/' or '/repo/'."""
     if path.startswith(("http://", "https://", "//", "mailto:", "#")):
         return path
     if not path:
@@ -34,7 +34,7 @@ def site_href(path=""):
     return path
 
 def site_url(path=""):
-    """Absolute URL on base_url, e.g. https://amclips.github.io/AFNS/courts/."""
+    """Absolute URL on base_url, e.g. https://afnewssyndicate.com/courts/."""
     if path.startswith(("http://", "https://", "//")):
         return path
     base = CFG["base_url"].rstrip("/")
@@ -473,6 +473,11 @@ def build_feeds(arts):
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
           + "".join(f"<url><loc>{site_url(u)}</loc></url>" for u in urls) + "</urlset>")
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {site_url('sitemap.xml')}\n")
+    # GitHub Pages reads this hostname from the published root. Project sites on
+    # *.github.io have no custom domain, so they get no CNAME file.
+    host = urlparse(CFG["base_url"]).hostname or ""
+    if host and not host.endswith(".github.io"):
+        write("CNAME", host + "\n")
 
 OG_CARDS = {}  # slug -> site-relative path, e.g. og/<slug>.png
 
