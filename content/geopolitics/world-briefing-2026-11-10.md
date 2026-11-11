@@ -5,7 +5,7 @@ date: 2026-11-10
 summary: "Japan delivers coastal radar and surveillance drones to the Philippines under a $27 million grant, the first finished equipment in that aid program (AP). U.S.-mediated Russia-Ukraine talks open in Abu Dhabi; European ministers in Paris tell Rubio that Europe belongs at the table. Iran, Gaza, and Israel's new Knesset are covered in linked Israel stories. Saudi-led forces say they intercepted missiles fired toward Riyadh (Al Jazeera/AFP)."
 featured: true
 priority: 8
-desk_lead: true
+desk_lead: false
 image: "img/stories/world-briefing-2026-11-10.jpg"
 image_alt: "The Eastern Hemisphere as photographed from space (NASA Blue Marble, file image)"
 image_credit: "NASA / Reto Stöckli / Wikimedia Commons"
