@@ -262,6 +262,7 @@ def layout(title, body, *, desc=None, canonical="", og_type="website", active=""
     <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav"><span class="sr-only">Menu</span><span class="bars" aria-hidden="true"></span></button>
   </div>
   <nav id="site-nav" class="site-nav" aria-label="Sections"><div class="wrap"><ul>
+    <li><a href="{site_href('news-feed/')}"{' aria-current="page"' if active == 'news-feed' else ''}>News Feed</a></li>
     <li><a href="{site_href()}"{' aria-current="page"' if active == 'home' else ''}>Home</a></li>{nav}
     <li class="nav-secondary"><a href="{site_href('about/')}"{' aria-current="page"' if active == 'about' else ''}>About</a></li>
   </ul></div></nav>
@@ -346,6 +347,59 @@ def write(rel, content):
     p = DIST / rel
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(content, encoding="utf-8")
+
+def feed_day_label(day, today):
+    """Today and Yesterday when they apply; otherwise the weekday and date."""
+    if day == today:
+        return "Today"
+    if day == today - datetime.timedelta(days=1):
+        return "Yesterday"
+    if day.year == today.year:
+        return day.strftime("%A, %B %-d")
+    return day.strftime("%A, %B %-d, %Y")
+
+def build_news_feed(arts):
+    """One column, newest publish date first. Rebuilt from the article list on every run."""
+    # Priority is the same-day tie the rest of the site already uses. Slug only
+    # splits an exact tie so one day does not clump into desk blocks.
+    ordered = sorted(arts, key=lambda a: (-a["date"].toordinal(), -a["priority"], a["slug"]))
+    today = datetime.date.today()
+    sections, day, bucket = [], None, []
+
+    def flush():
+        if day is None:
+            return
+        rows = []
+        for a in bucket:
+            d = DESKS[a["desk"]]
+            thumb = ""
+            if a["image"]:
+                thumb = (f'<a class="feed-thumb" href="{site_href(url_of(a))}" tabindex="-1" aria-hidden="true">'
+                         f'<img src="{esc(site_href(a["image"]))}" alt="" width="160" height="90" loading="lazy"></a>')
+            rows.append(f"""<li class="feed-item">{thumb}<div class="feed-copy">
+  <p class="feed-kicker"><a class="desk-tag" href="{site_href(a['desk'] + '/')}">{esc(d['name'])}</a>
+  <time datetime="{a['date'].isoformat()}">{fmt_date(a['date'])}</time></p>
+  <h3 class="feed-title"><a href="{site_href(url_of(a))}">{esc(a['title'])}</a></h3>
+</div></li>""")
+        sections.append(f"""<section class="feed-day" aria-labelledby="feed-{day.isoformat()}">
+  <h2 class="feed-day-h" id="feed-{day.isoformat()}">{esc(feed_day_label(day, today))}</h2>
+  <ol class="feed-list">{''.join(rows)}</ol>
+</section>""")
+
+    for a in ordered:
+        if a["date"] != day:
+            flush()
+            day, bucket = a["date"], []
+        bucket.append(a)
+    flush()
+    empty = '<p class="empty">New research is coming soon.</p>' if not sections else ""
+    body = f"""<header class="page-head"><div class="wrap">
+  <p class="kicker">AFNS</p><h1>News Feed</h1>
+  <p class="lede">The latest from every desk, newest first.</p></div></header>
+<div class="wrap feed-page">{empty}{''.join(sections)}</div>"""
+    write("news-feed/index.html", layout(
+        "News Feed", body, desc="The latest AFNS stories from every desk, newest first.",
+        canonical="news-feed/", active="news-feed"))
 
 def build_home(arts):
     lead = next((a for a in arts if a["featured"]), arts[0] if arts else None)
@@ -518,7 +572,7 @@ def build_feeds(arts):
 <category>{esc(DESKS[a['desk']]['name'])}</category><description>{esc(a['summary'])}</description></item>""" for a in arts[:50])
     write("feed.xml", f"""<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>{esc(CFG['name'])}</title>
 <link>{site_url()}</link><description>{esc(CFG['description'])}</description><language>en-us</language>{items}</channel></rss>""")
-    urls = [""] + [f"{d['slug']}/" for d in CFG["desks"]] + ["about/", "standards/", "contact/"] + [url_of(a) for a in arts]
+    urls = ["", "news-feed/"] + [f"{d['slug']}/" for d in CFG["desks"]] + ["about/", "standards/", "contact/"] + [url_of(a) for a in arts]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
           + "".join(f"<url><loc>{site_url(u)}</loc></url>" for u in urls) + "</urlset>")
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {site_url('sitemap.xml')}\n")
@@ -571,7 +625,7 @@ def main():
     build_og_cards(arts)
     shutil.copytree(ASSETS, DIST / "assets")
     shutil.copytree(STATIC, DIST, dirs_exist_ok=True)
-    build_home(arts); build_desks(arts); build_articles(arts); build_static(); build_feeds(arts)
+    build_home(arts); build_news_feed(arts); build_desks(arts); build_articles(arts); build_static(); build_feeds(arts)
     print(f"Built {len(arts)} articles across {len(DESKS)} desks -> {DIST} ({site_url()})")
     if "--serve" in sys.argv:
         import functools, http.server, tempfile

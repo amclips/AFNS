@@ -22,7 +22,7 @@ python3 build.py --serve    # builds and serves at http://localhost:8000/
 3. Write the body in Markdown below the front matter (`##` headings, `-` bullets, `**bold**`, `*italic*`, `[links](url)`, `> quotes`).
 4. Run `python3 build.py` to preview. Pushing `main` publishes the site (see Publishing). Do not commit `dist/`.
 
-Newest articles show first. The home page, desk pages, RSS feed (`feed.xml`) and `sitemap.xml` update automatically.
+Newest articles show first. The home page, the News Feed (`/news-feed/`), desk pages, RSS feed (`feed.xml`) and `sitemap.xml` update automatically. The News Feed is one list of every story, newest publish date first, and it is the first item in the main navigation.
 
 **Before launch:** delete the sample articles (every file with `sample: true`, all titled "Sample: ...").
 
